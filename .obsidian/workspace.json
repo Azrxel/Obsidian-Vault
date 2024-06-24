@@ -11,8 +11,12 @@
             "id": "f2d2875662f07507",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "COMNET/CCNA2/Module 1 - Basic Device Configuration.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,13 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COMNET/CCNA2/Module 1 - Basic Device Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COMNET/CCNA2/Module 1 - Basic Device Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,10 +124,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "COMNET/CCNA2/Module 1 - Basic Device Configuration.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -138,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2d2875662f07507",
+  "active": "487bffe0ee65cfd8",
   "lastOpenFiles": [
     "COMNET/CCNA2/Module 1 - Basic Device Configuration.md",
     "open source.md",
