@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA2/Module 1 - Basic Device Configuration.md",
+                "file": "open source.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA2/Module 1 - Basic Device Configuration.md",
+                "file": "open source.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA2/Module 1 - Basic Device Configuration.md",
+                "file": "open source.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA2/Module 1 - Basic Device Configuration.md"
+                "file": "open source.md"
               }
             }
           }
@@ -147,15 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a992e70267b20ac0",
+  "active": "5f0139ec35bfad53",
   "lastOpenFiles": [
+    "COMNET/CCNA2/Module 1 - Basic Device Configuration.md",
+    "open source.md",
     "Untitled",
     "Test",
     "obsidian-git/styles.css",
     "obsidian-git/manifest.json",
     "obsidian-git/main.js",
     "obsidian-git",
-    "COMNET/CCNA2/Module 1 - Basic Device Configuration.md",
     "COMNET/IT Essentials/Final Exam/Exam Ch (10 - 14).md",
     "COMNET/CCNA2",
     "COMNET",
