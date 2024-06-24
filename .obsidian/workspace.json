@@ -128,9 +128,17 @@
                 "file": "COMNET/CCNA2/Module 1 - Basic Device Configuration.md"
               }
             }
+          },
+          {
+            "id": "c85be4791bcdc860",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
