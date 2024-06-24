@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "98d3baf01ad8beb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5390f3c605f5115",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f0139ec35bfad53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMNET/CCNA2/Module 1 - Basic Device Configuration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91367ebef990e1d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7233fecaaee3fff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6852f6fca2f3850b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a992e70267b20ac0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Scenario",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2aac9a6b72923a34",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c481cc9c8527ba39",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4173fc305ef9774",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6e8174a8791703e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "COMNET/CCNA2/Module 1 - Basic Device Configuration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e811c89e253b6696",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "COMNET/CCNA2/Module 1 - Basic Device Configuration.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b890d905564da6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "487bffe0ee65cfd8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "COMNET/CCNA2/Module 1 - Basic Device Configuration.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5f0139ec35bfad53",
+  "lastOpenFiles": [
+    "obsidian-git/styles.css",
+    "obsidian-git/manifest.json",
+    "obsidian-git/main.js",
+    "obsidian-git",
+    "COMNET/CCNA2/Module 1 - Basic Device Configuration.md",
+    "COMNET/IT Essentials/Final Exam/Exam Ch (10 - 14).md",
+    "COMNET/CCNA2",
+    "COMNET",
+    "COMNET/IT Essentials/Final Exam",
+    "COMNET/IT Essentials"
+  ]
+}
