@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c481cc9c8527ba39",
@@ -157,8 +158,9 @@
   },
   "active": "7609865b1afb859b",
   "lastOpenFiles": [
-    "SYST^System.md",
+    "Module 1 - Basic Device Configuration^.md",
     "COMNET/CCNA2/Module 1 - Basic Device Configuration.md",
+    "SYST^System.md",
     "SYST.md",
     "open source.md",
     "Test/Untitled.md",
