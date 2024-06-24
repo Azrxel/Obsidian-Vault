@@ -21,3 +21,4 @@
 - System LED (SYST): Shows whether the system is receiving power and functioning properly.
 - Redundant Power Supply LED (RPS): Shows the RPS status.
 - Port Status LED (STAT): When Green, indicates port status mode is selected, which is the default. 
+snippets : 
