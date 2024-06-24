@@ -20,5 +20,5 @@
 ### Switch LED Indicators
 - System LED (SYST): Shows whether the system is receiving power and functioning properly.
 - Redundant Power Supply LED (RPS): Shows the RPS status.
-- Port Status LED (STAT): When Green, indicates port status mode is selected, which is the default. 
-snippets : 
+- Port Status LED (STAT): When <span style="color:rgb(0, 176, 80)">Green</span>, indicates port status mode is selected, which is the default. Port status can then be understood by the light associated with each port
+- Port Duplex LED (SPEED): When <span style="color:rgb(0, 176, 80)">Green</span>, indicates p

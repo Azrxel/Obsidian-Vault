@@ -8,7 +8,7 @@
   "stopSymbol": "$tb$",
   "pasteSymbol": "$pst$",
   "useTab": true,
-  "useSpace": false,
+  "useSpace": true,
   "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
   "isWYSIWYG": true
 }
