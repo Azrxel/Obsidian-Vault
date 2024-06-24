@@ -1,4 +1,4 @@
-## Configure a Switch with Initial Settings
+## Configure a Switch with Initial Settings: [[]]
 ### The Boot System Command
 - The Switch Attempts to automatically boot by using the information in the BOOT environment variable.
 	 - If the this variable is not set the Switch attempts to load and execute the first executable file it can find
@@ -28,4 +28,4 @@
   Port speed can then be understood by the light associated with each port
 - Power over Ethernet LED (<span style="color:rgb(255, 82, 241)">PoE</span>): Present if the switch supports PoE.
   Indicates the PoE status on the switch
-- The MODE button is used to move between the different modes - [[SYST]]
+- The MODE button is used to move between the different modes - SYST
