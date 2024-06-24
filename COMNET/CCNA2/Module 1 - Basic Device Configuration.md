@@ -29,3 +29,4 @@
 - Power over Ethernet LED (<span style="color:rgb(255, 82, 241)">PoE</span>): Present if the switch supports PoE.
   Indicates the PoE status on the switch
 - The MODE button is used to move between the different modes - <mark class="hltr-cyan">STAT</mark>, <mark class="hltr-purple">DUPLEX</mark>, <mark class="hltr-green">SPEED</mark>, & <mark class="hltr-pink">PoE</mark>
+	![[Pasted image 20240624155812.png]]

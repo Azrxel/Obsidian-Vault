@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c481cc9c8527ba39",
@@ -157,6 +158,7 @@
   },
   "active": "7609865b1afb859b",
   "lastOpenFiles": [
+    "Pasted image 20240624155812.png",
     "COMNET/CCNA2/Module 1 - Basic Device Configuration.md",
     "Module 1 - Basic Device Configuration^.md",
     "SYST^System.md",
