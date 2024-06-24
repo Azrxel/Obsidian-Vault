@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2d2875662f07507",
+  "active": "6852f6fca2f3850b",
   "lastOpenFiles": [
     "open source.md",
     "COMNET/CCNA2/Module 1 - Basic Device Configuration.md",
