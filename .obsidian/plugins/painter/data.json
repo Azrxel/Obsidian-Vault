@@ -8,7 +8,8 @@
     "Blue": "#42a1ffff",
     "Orange": "#ff6d33ff",
     "Yellow": "#ffee33ff",
-    "Cyan": "#53eef9ff"
+    "Cyan": "#53eef9ff",
+    "Purple": "#7e47ffff"
   },
   "highlighterOrder": [
     "Red",
@@ -17,7 +18,8 @@
     "Green",
     "Yellow",
     "Orange",
-    "Pink"
+    "Pink",
+    "Purple"
   ],
   "menuMode": "minimal",
   "cleanSelectors": [],
