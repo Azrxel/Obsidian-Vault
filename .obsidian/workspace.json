@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c481cc9c8527ba39",
@@ -142,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2d2875662f07507",
+  "active": "6852f6fca2f3850b",
   "lastOpenFiles": [
     "COMNET/CCNA2/Module 1 - Basic Device Configuration.md",
     "open source.md",
