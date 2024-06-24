@@ -19,7 +19,7 @@
 
 ### Switch LED Indicators
 - System LED (<span style="color:rgb(77, 234, 255)">SYST</span>): Shows whether the system is receiving power and functioning properly.
-- Redundant Power Supply LED (<span style="color:rgb(255, 192, 0)">RPS</span>): Shows the RPS status.
+- Redundant Power Supply LED (<mark class="hltr-orange">RPS</mark>): Shows the RPS status.
 - Port Status LED (<span style="color:rgb(255, 255, 0)">STAT</span>): When <span style="color:rgb(0, 176, 80)">Green</span>, indicates port status mode is selected, which is the default.
   Port status can then be understood by the light associated with each port
 - Port Duplex LED (<span style="color:rgb(198, 77, 255)">DUPLEX</span>): When <span style="color:rgb(0, 176, 80)">Green</span>, indicates port duplex mode is selected. 
@@ -28,4 +28,4 @@
   Port speed can then be understood by the light associated with each port
 - Power over Ethernet LED (<span style="color:rgb(255, 82, 241)">PoE</span>): Present if the switch supports PoE.
   Indicates the PoE status on the switch
-- The MODE button is used to move between the different modes - STAT, DUPLEX, SPEED, & PoE
+- The MODE button is used to move between the different modes - <mark class="hltr-cyan">STAT</mark>, DUPLEX, SPEED, & PoE
