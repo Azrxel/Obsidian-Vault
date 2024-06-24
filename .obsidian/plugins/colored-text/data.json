@@ -16,8 +16,11 @@
     "rgb(255, 255, 0)",
     "rgb(255, 192, 0)",
     "rgb(198, 162, 226)",
-    "#00b050"
+    "#00b050",
+    "#7030a0",
+    "#ff0000",
+    "#c64dff"
   ],
-  "colorCellCount": "5",
+  "colorCellCount": "10",
   "hidePlugin": false
 }
