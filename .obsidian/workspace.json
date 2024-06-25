@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/4. Recovering from a System Crash.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/4. Recovering from a System Crash.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/4. Recovering from a System Crash.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/4. Recovering from a System Crash.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/4. Recovering from a System Crash.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/4. Recovering from a System Crash.md"
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/Untitled.md"
               }
             }
           },
@@ -178,11 +178,16 @@
   },
   "active": "c9ec666f404b2edd",
   "lastOpenFiles": [
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/5..md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/4. Recovering from a System Crash.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/3. Switch LED Indicators.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/2. The Boot System Command.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/1. Switch Boot Sequence.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/5. Switch Management Access .md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/Untitled.md",
+    "Templates/[[Note Name]].md",
+    "Templates",
+    "6..md",
+    "Tags/Switch Management Access.png",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/3. Switch LED Indicators.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/4. Recovering from a System Crash.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/2. The Boot System Command.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1. Switch Boot Sequence.md",
     "2. The Boot System Command.md",
     "3. Switch LED Indicators.md",
     "4. Recovering from a System Crash.md",
@@ -198,19 +203,15 @@
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/4.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/3.md",
     "COMNET/IT Essentials/Final Exam/.Exam Ch (10 - 14).md",
-    "Switch LED Indicators.png",
+    "Tags/Switch LED Indicators.png",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/.1 Switch Boot Sequence.md",
     "COMNET/CCNA2/#^.md",
     "Tags",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/Switch LED Indicators.png",
     "COMNET/CCNA2/Module 1/Basic Device Configuration",
     "COMNET/CCNA2/Module 1",
     "Module 1 - Basic Device Configuration^.md",
-    "SYST^System.md",
-    "SYST.md",
-    "open source.md",
-    "Untitled",
     "Test",
     "obsidian-git/styles.css",
     "obsidian-git/manifest.json",
