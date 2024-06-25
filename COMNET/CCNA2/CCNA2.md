@@ -1,1 +1,1 @@
-CCNA 2
+CCNA2
