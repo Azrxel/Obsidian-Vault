@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/Switch LED Indicators.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/Switch Boot Sequence.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 399.5,
+    "collapsed": true
   },
   "right": {
     "id": "c481cc9c8527ba39",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/Switch LED Indicators.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/Switch Boot Sequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/Switch LED Indicators.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/Switch Boot Sequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/Switch LED Indicators.md"
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/Switch Boot Sequence.md"
               }
             }
           },
@@ -158,6 +159,9 @@
   "active": "7f7fa0c8471299b7",
   "lastOpenFiles": [
     "COMNET/CCNA2/Module 1/Basic Device Configuration/The Boot System Command.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/Switch Boot Sequence.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/Untitled.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/Switch LED Indicators.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/Switch LED Indicators.png",
     "COMNET/CCNA2/Module 1/Basic Device Configuration",
@@ -174,7 +178,6 @@
     "obsidian-git/main.js",
     "obsidian-git",
     "COMNET/IT Essentials/Final Exam/Exam Ch (10 - 14).md",
-    "COMNET/CCNA2",
-    "COMNET"
+    "COMNET/CCNA2"
   ]
 }
