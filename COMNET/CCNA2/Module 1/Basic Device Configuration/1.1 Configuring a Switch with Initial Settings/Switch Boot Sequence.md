@@ -1,4 +1,5 @@
-After a Cisco Switch is powered on, it goes through the following 5-Step Boot Sequence:
+## After a Cisco Switch is powered on, it goes through the following 5-Step Boot Sequence:
+
 ### Step 1:
 First, the Switch loads a Power-On Self-Test (POST) program stored in the ROM.
 POST checks the CPU subsystem. It tests the CPU, DRAM, and the portion of the flash device that makes up the flash file system.
@@ -13,3 +14,6 @@ It Initializes the CPU registers, which control where Physical Memory is mapped,
 
 ### Step 4:
 The Bootloader initializes the flash file system on the System Board.
+
+### Step 5:
+Finally, the Bootloader locates and loads a default IOS Operating System software image into memory and gives control of the Switch over to the IOS.
