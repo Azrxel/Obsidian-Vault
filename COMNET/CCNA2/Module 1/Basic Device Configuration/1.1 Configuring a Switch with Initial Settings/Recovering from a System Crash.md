@@ -18,3 +18,4 @@ The Bootloader Switch: prompt appears in the terminal emulation software on the 
 The Bootloader command line supports commands to format the flash file system, reinstall the Operating System Software, and recover a lost or Forgotten password.
 
 For Example: The `dir` command can be used to view a list of files within a specific directory.
+

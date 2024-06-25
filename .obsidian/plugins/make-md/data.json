@@ -54,7 +54,10 @@
   "folderContextFile": "context",
   "folderFrameFile": "frames",
   "spacesFolder": "Tags",
-  "hiddenFiles": [],
+  "hiddenFiles": [
+    "COMNET/IT Essentials",
+    "Tags"
+  ],
   "hiddenExtensions": [
     ".mdb",
     "_assets",
