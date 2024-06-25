@@ -23,9 +23,9 @@
             "id": "205054cc2c414797",
             "type": "leaf",
             "state": {
-              "type": "mk-uri-view",
+              "type": "mk-space",
               "state": {
-                "path": "https://www.make.md/static/latest.md"
+                "path": "COMNET/CCNA2"
               }
             }
           }
@@ -173,6 +173,8 @@
   },
   "active": "205054cc2c414797",
   "lastOpenFiles": [
+    "COMNET/CCNA2/#^.md",
+    "COMNET/CCNA2/CCNA2.md",
     "Tags",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/The Boot System Command.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/Untitled.md",
@@ -193,7 +195,6 @@
     "obsidian-git/manifest.json",
     "obsidian-git/main.js",
     "obsidian-git",
-    "COMNET/IT Essentials/Final Exam/Exam Ch (10 - 14).md",
-    "COMNET/CCNA2"
+    "COMNET/IT Essentials/Final Exam/Exam Ch (10 - 14).md"
   ]
 }
