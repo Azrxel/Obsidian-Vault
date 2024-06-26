@@ -8,15 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21d5ed12eb0da929",
+            "id": "5643a507d9bae76b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/6. Interface Input and Output Errors.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "dc5bbfb05ca86fb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8942c07c5b0fee99",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/6. Interface Input and Output Errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/6. Interface Input and Output Errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/6. Interface Input and Output Errors.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,23 +174,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21d5ed12eb0da929",
+  "active": "8942c07c5b0fee99",
   "lastOpenFiles": [
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/6. Interface Input and Output Errors.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/1.2. Configure Switch Ports.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1.1. Configuring a Switch with Initial Settings.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/Basic Device Configuration.md",
+    "COMNET/CCNA2/CCNA2.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/5. Network Access Layer Issues.md",
     "PNG Reference/Network Access Layer Issues 3.png",
     "PNG Reference/Network Access Layer Issues 2.png",
     "PNG Reference/Network Access Layer Issues 1.png",
     "PNG Reference/Show Interfaces Command.png",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/1.2. Configure Switch Ports.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1.1. Configuring a Switch with Initial Settings.md",
     "COMNET/CCNA2/Module 1/Module 1.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/Basic Device Configuration.md",
     "2024-06-26.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/4. Verify Switch Port Configuration.md",
     "PNG Reference/Verify Switch Port Config.png",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/3. Auto-MDIX.md",
-    "COMNET/CCNA2/CCNA2.md",
     "COMNET/IT Essentials/IT Essentials.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/2. Configure Switch Ports at the Physical Layer.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/1. Duplex Communications.md",
