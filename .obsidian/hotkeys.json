@@ -36,7 +36,7 @@
       "modifiers": [
         "Alt"
       ],
-      "key": "`"
+      "key": "1"
     }
   ],
   "painter:paint-orange": [
@@ -77,6 +77,39 @@
         "Ctrl"
       ],
       "key": "PageDown"
+    }
+  ],
+  "painter:paint-purple": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "painter:paint-red": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "R"
+    }
+  ],
+  "painter:paint-yellow": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Y"
+    }
+  ],
+  "switcher:open": [],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "`"
     }
   ]
 }
