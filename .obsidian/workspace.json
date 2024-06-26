@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "right": {
     "id": "c481cc9c8527ba39",
@@ -166,10 +165,10 @@
   },
   "active": "a3b16296c0c164b3",
   "lastOpenFiles": [
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/6. Switch SVI Configuration Example.md",
     "Tags",
     "PNGs/Config DG.png",
     "Vault.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/6. Switch SVI Configuration Example.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/7. .md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/2. The Boot System Command.md",
     "PNGs/SVI Config.png",
@@ -205,7 +204,6 @@
     "Test",
     "obsidian-git/styles.css",
     "obsidian-git/manifest.json",
-    "obsidian-git/main.js",
-    "obsidian-git"
+    "obsidian-git/main.js"
   ]
 }
