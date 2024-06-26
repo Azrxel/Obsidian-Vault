@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/2. The Boot System Command.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1.1. Configuring a Switch with Initial Settings.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/2. The Boot System Command.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1.1. Configuring a Switch with Initial Settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/2. The Boot System Command.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1.1. Configuring a Switch with Initial Settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/2. The Boot System Command.md"
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1.1. Configuring a Switch with Initial Settings.md"
               }
             }
           },
@@ -165,36 +166,39 @@
   },
   "active": "a3b16296c0c164b3",
   "lastOpenFiles": [
-    "Vault.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/1.2. Configure Switch Ports.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1.1. Configuring a Switch with Initial Settings.md",
+    "COMNET/CCNA2/Module 1/Module 1.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/Basic Device Configuration.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/6. Switch SVI Configuration Example.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/5. Switch Management Access .md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/3. Switch LED Indicators.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/4. Recovering from a System Crash.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/2. The Boot System Command.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1. Switch Boot Sequence.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/Duplex Communications.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports",
+    "PNGs/Verify SW Config.png",
+    "Vault.md",
     "Tags",
     "PNGs/Config DG.png",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/7. .md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/2. The Boot System Command.md",
     "PNGs/SVI Config.png",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/5. Switch Management Access .md",
     "Templates/[[Note Name]].md",
     "Templates",
     "6..md",
     "PNGs/Switch Management Access.png",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/3. Switch LED Indicators.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/4. Recovering from a System Crash.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1. Switch Boot Sequence.md",
     "2. The Boot System Command.md",
     "3. Switch LED Indicators.md",
     "4. Recovering from a System Crash.md",
     "1. Switch Boot Sequence.md",
     "2024-06-25.md",
     "COMNET/CCNA2/CCNA2.md",
-    "COMNET/CCNA2/Module 1/Module 1.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/3. .md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/2. .md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/4. .md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/2.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/4.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1 Configuring a Switch with Initial Settings/3.md",
-    "COMNET/IT Essentials/Final Exam/.Exam Ch (10 - 14).md",
     "PNGs/Switch LED Indicators.png",
     "PNGs",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings",
@@ -203,7 +207,6 @@
     "COMNET/CCNA2/Module 1",
     "Test",
     "obsidian-git/styles.css",
-    "obsidian-git/manifest.json",
-    "obsidian-git/main.js"
+    "obsidian-git/manifest.json"
   ]
 }
