@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2d7c72e63c8f7c00",
+        "id": "73b3be709a13f8b7",
         "type": "tabs",
         "children": [
           {
-            "id": "74c2d58b0b605e97",
+            "id": "21d5ed12eb0da929",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/Network Access Layer Issues.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/6. Interface Input and Output Errors.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "right": {
     "id": "c481cc9c8527ba39",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/Network Access Layer Issues.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/6. Interface Input and Output Errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/Network Access Layer Issues.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/6. Interface Input and Output Errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/Network Access Layer Issues.md"
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/6. Interface Input and Output Errors.md"
               }
             }
           },
@@ -164,11 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74c2d58b0b605e97",
+  "active": "21d5ed12eb0da929",
   "lastOpenFiles": [
-    "Pasted image 20240626124017.png",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/6. Interface Input and Output Errors.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/5. Network Access Layer Issues.md",
+    "PNG Reference/Network Access Layer Issues 3.png",
+    "PNG Reference/Network Access Layer Issues 2.png",
+    "PNG Reference/Network Access Layer Issues 1.png",
     "PNG Reference/Show Interfaces Command.png",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/Network Access Layer Issues.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/1.2. Configure Switch Ports.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1.1. Configuring a Switch with Initial Settings.md",
     "COMNET/CCNA2/Module 1/Module 1.md",
@@ -205,11 +207,8 @@
     "PNG Reference/Verify SW Config.png",
     "Tags",
     "PNG Reference/Config DG.png",
-    "PNG Reference/SVI Config.png",
-    "PNG Reference/Switch Management Access.png",
     "PNG Reference",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/Switch LED Indicators.png",
     "COMNET/CCNA2/Module 1/Basic Device Configuration",
     "COMNET/CCNA2/Module 1"
   ]
