@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c7073a5f5844d964",
+        "id": "2d7c72e63c8f7c00",
         "type": "tabs",
         "children": [
           {
-            "id": "4b16bd3465f9a53a",
+            "id": "74c2d58b0b605e97",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/4. Verify Switch Port Configuration.md",
-                "mode": "source",
-                "source": false
+                "file": "PNG Reference/Pasted image 20240626121724.png"
               }
             }
           }
@@ -64,14 +62,6 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "163073f8e5f049e7",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
           }
         ]
       }
@@ -93,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/4. Verify Switch Port Configuration.md",
+                "file": "PNG Reference/Pasted image 20240626121724.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/4. Verify Switch Port Configuration.md",
+                "file": "PNG Reference/Pasted image 20240626121724.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/4. Verify Switch Port Configuration.md"
+                "file": "PNG Reference/Pasted image 20240626121724.png"
               }
             }
           },
@@ -144,32 +134,42 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "5d1c36da13aab94e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 334.5,
+    "width": 358.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b16bd3465f9a53a",
+  "active": "74c2d58b0b605e97",
   "lastOpenFiles": [
-    "PNG Reference/Verify Switch Port Config.png",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/4. Verify Switch Port Configuration.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/3. Auto-MDIX.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/Basic Device Configuration.md",
     "COMNET/CCNA2/Module 1/Module 1.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/Basic Device Configuration.md",
+    "2024-06-26.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/4. Verify Switch Port Configuration.md",
+    "PNG Reference/Pasted image 20240626121724.png",
+    "PNG Reference/Verify Switch Port Config.png",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/3. Auto-MDIX.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/1.2. Configure Switch Ports.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1.1. Configuring a Switch with Initial Settings.md",
     "COMNET/CCNA2/CCNA2.md",
