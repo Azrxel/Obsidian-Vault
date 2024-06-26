@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "935ee63837c1756c",
+        "id": "c7073a5f5844d964",
         "type": "tabs",
         "children": [
           {
-            "id": "dd7daee8c07ab6c0",
+            "id": "4b16bd3465f9a53a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd7daee8c07ab6c0",
+  "active": "4b16bd3465f9a53a",
   "lastOpenFiles": [
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/3. Auto-MDIX.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/5. Switch Management Access.md",
