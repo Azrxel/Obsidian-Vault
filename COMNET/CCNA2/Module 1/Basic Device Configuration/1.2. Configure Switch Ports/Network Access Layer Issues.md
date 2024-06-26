@@ -1,0 +1,15 @@
+
+--- 
+- The output from the `show interfaces` command is useful for detecting common media issues.
+  One of the most important parts of this output is the display of the line and Data Link Protocol Status, as shown in the Example.
+  
+- The First Parameter (FastEthernet0/18 is up) refers to the Hardware Layer and Indicates whether the Interface is receiving a carrier detect signal.
+- The Second Parameter (line protocol is up) refers to the Data Link Layer and Indicates whether the Data Link Layer Protocol keepalive are being received.
+- Based on the output of the `show interfaces` command, possible problems can be fixed as follows:
+	- If the interface is up and the line protocol is down, a problem exists.
+	  There could be an encapsulation type mismatch, the interface on the other end could be error-disabled, or there could be a hardware problem.
+	- If the line protocol and the interface are both down, a cable is not attached, or some other interface problem exists.
+	  For example, in a back-to-back connection, the other end of the connection, the other end of the connection may be administratively down.
+	- If the interface is administratively down, it has been manually disabled (the `shutdown` command has been issued) in the active configuration.
+	
+	![[Pasted image 20240626124017.png]]

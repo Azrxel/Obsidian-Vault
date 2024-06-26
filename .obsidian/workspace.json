@@ -11,9 +11,11 @@
             "id": "74c2d58b0b605e97",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "PNG Reference/Pasted image 20240626121724.png"
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/Network Access Layer Issues.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 399.5,
+    "collapsed": true
   },
   "right": {
     "id": "c481cc9c8527ba39",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PNG Reference/Pasted image 20240626121724.png",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/Network Access Layer Issues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PNG Reference/Pasted image 20240626121724.png",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/Network Access Layer Issues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PNG Reference/Pasted image 20240626121724.png"
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/Network Access Layer Issues.md"
               }
             }
           },
@@ -163,15 +166,17 @@
   },
   "active": "74c2d58b0b605e97",
   "lastOpenFiles": [
+    "Pasted image 20240626124017.png",
+    "PNG Reference/Show Interfaces Command.png",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/Network Access Layer Issues.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/1.2. Configure Switch Ports.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1.1. Configuring a Switch with Initial Settings.md",
     "COMNET/CCNA2/Module 1/Module 1.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/Basic Device Configuration.md",
     "2024-06-26.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/4. Verify Switch Port Configuration.md",
-    "PNG Reference/Pasted image 20240626121724.png",
     "PNG Reference/Verify Switch Port Config.png",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/3. Auto-MDIX.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/1.2. Configure Switch Ports.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1.1. Configuring a Switch with Initial Settings.md",
     "COMNET/CCNA2/CCNA2.md",
     "COMNET/IT Essentials/IT Essentials.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/2. Configure Switch Ports at the Physical Layer.md",
@@ -193,8 +198,6 @@
     "COMNET/IT Essentials/Final Exam/Final Exam.md",
     "COMNET/CCNA2/%% Waypoint %%.md",
     "COMNET/CCNA2/Module 1/_Index_of_Module 1.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/_Index_of_Basic Device Configuration.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/_Index_of_1.1. Configuring a Switch with Initial Settings.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/Afsaf",
     "COMNET/CCNA2/Module 1/ASF",
     "Templates",
