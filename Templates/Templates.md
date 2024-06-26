@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
-- [[Duplex Communications]]
+- [[{{Title}}]]
 
 %% End Waypoint %%
 

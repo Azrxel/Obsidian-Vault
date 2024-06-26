@@ -1,1 +1,1 @@
-- Full Duplex
+- Full-Duplex commun
