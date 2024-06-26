@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/3. Auto-MDIX.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/4. Verify Switch Port Configuration.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "right": {
     "id": "c481cc9c8527ba39",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/3. Auto-MDIX.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/4. Verify Switch Port Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/3. Auto-MDIX.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/4. Verify Switch Port Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/3. Auto-MDIX.md"
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/4. Verify Switch Port Configuration.md"
               }
             }
           },
@@ -166,35 +165,37 @@
   },
   "active": "4b16bd3465f9a53a",
   "lastOpenFiles": [
+    "PNG Reference/Verify Switch Port Config.png",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/4. Verify Switch Port Configuration.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/3. Auto-MDIX.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/5. Switch Management Access.md",
-    "Tags/5. Switch Management Access.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/6. Switch SVI Configuration Example.md",
-    "5. Switch Management Access.md",
-    "Vault.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/2. The Boot System Command.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/Basic Device Configuration.md",
     "COMNET/CCNA2/Module 1/Module 1.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1. Switch Boot Sequence.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/1.2. Configure Switch Ports.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1.1. Configuring a Switch with Initial Settings.md",
+    "COMNET/CCNA2/CCNA2.md",
+    "COMNET/IT Essentials/IT Essentials.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/2. Configure Switch Ports at the Physical Layer.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/1. Duplex Communications.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1.1. Configuring a Switch with Initial Settings.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/3. Switch LED Indicators.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/5. Switch Management Access.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/6. Switch SVI Configuration Example.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/4. Recovering from a System Crash.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/3. Switch LED Indicators.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/2. The Boot System Command.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1. Switch Boot Sequence.md",
     "PNG Reference/Configure Switch Ports at the Physical Layer.png",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/1.2. Configure Switch Ports.md",
+    "PNG Reference/Switch LED Indicators.png",
+    "PNG Reference/Switch Verification Commands.png",
+    "Tags/5. Switch Management Access.md",
+    "5. Switch Management Access.md",
+    "Vault.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/Untitled",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/Basic Device Configuration.md",
-    "COMNET/CCNA2/CCNA2.md",
     "Templates/Templates.md",
-    "COMNET/IT Essentials/IT Essentials.md",
     "COMNET/IT Essentials/Final Exam/Final Exam.md",
     "COMNET/CCNA2/%% Waypoint %%.md",
     "COMNET/CCNA2/Module 1/_Index_of_Module 1.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/_Index_of_Basic Device Configuration.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/_Index_of_1.1. Configuring a Switch with Initial Settings.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/Afsaf/Afsaf.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/Afsaf",
-    "COMNET/CCNA2/Module 1/ASF/ASF.md",
     "COMNET/CCNA2/Module 1/ASF",
     "Templates",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports",
@@ -203,7 +204,6 @@
     "PNG Reference/Config DG.png",
     "PNG Reference/SVI Config.png",
     "PNG Reference/Switch Management Access.png",
-    "PNG Reference/Switch LED Indicators.png",
     "PNG Reference",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/Switch LED Indicators.png",
