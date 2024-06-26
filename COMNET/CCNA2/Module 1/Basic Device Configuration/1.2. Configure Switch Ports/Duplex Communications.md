@@ -1,2 +1,1 @@
-- Full-Duplex 
-communicat
+- Full-Duplex communi
