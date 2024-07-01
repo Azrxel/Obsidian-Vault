@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/6. Interface Input and Output Errors.md",
-                "mode": "preview",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/1. Telnet Operation.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/6. Interface Input and Output Errors.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/1. Telnet Operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/6. Interface Input and Output Errors.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/1. Telnet Operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/6. Interface Input and Output Errors.md"
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/1. Telnet Operation.md"
               }
             }
           },
@@ -163,8 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6852f6fca2f3850b",
+  "active": "5643a507d9bae76b",
   "lastOpenFiles": [
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/2. SSH Operation.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/1. Telnet Operation.md",
+    "PNG Reference/Telnet Operation.png",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/7. Troubleshooting Network Access Layer Issues.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access",
+    "PNG Reference/Troubleshooting Network Access Layer Issues.png",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/6. Interface Input and Output Errors.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/1.2. Configure Switch Ports.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1.1. Configuring a Switch with Initial Settings.md",
@@ -197,19 +203,13 @@
     "Vault.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/Untitled",
     "Templates/Templates.md",
-    "COMNET/IT Essentials/Final Exam/Final Exam.md",
-    "COMNET/CCNA2/%% Waypoint %%.md",
-    "COMNET/CCNA2/Module 1/_Index_of_Module 1.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/Afsaf",
     "COMNET/CCNA2/Module 1/ASF",
     "Templates",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports",
-    "PNG Reference/Verify SW Config.png",
     "Tags",
-    "PNG Reference/Config DG.png",
     "PNG Reference",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration",
-    "COMNET/CCNA2/Module 1"
+    "COMNET/CCNA2/Module 1/Basic Device Configuration"
   ]
 }
