@@ -13,23 +13,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/6. Interface Input and Output Errors.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/2. Dual Stack Topology.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "0a73615f3e3813b8",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "5895ac38c104ebed",
+            "id": "0f86febd0bff11f3",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -99,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/6. Interface Input and Output Errors.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/2. Dual Stack Topology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/6. Interface Input and Output Errors.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/2. Dual Stack Topology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/6. Interface Input and Output Errors.md"
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/2. Dual Stack Topology.md"
               }
             }
           },
@@ -179,14 +173,19 @@
   },
   "active": "5643a507d9bae76b",
   "lastOpenFiles": [
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/1. Configure Basic Router Configuration.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/2. Dual Stack Topology.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/1.4 Basic Router Configuration.md",
+    "PNG Reference/Save Configuration.png",
+    "PNG Reference/Banner Config.png",
+    "PNG Reference/Configure Basic Router Configuration.png",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/5. Verify SSH is Operational.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/6. Interface Input and Output Errors.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/7. Troubleshooting Network Access Layer Issues.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/1.2. Configure Switch Ports.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/Basic Device Configuration.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/1.4 Basic Router Configuration.md",
     "Untitled.canvas",
     "2024-07-01.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/1. Configure Basic Router Configuration.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/5. Verify SSH is Operational.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/6. Basic Router Configuration.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/saf.md",
@@ -202,14 +201,10 @@
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/1. Telnet Operation.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access",
     "PNG Reference/Troubleshooting Network Access Layer Issues.png",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/6. Interface Input and Output Errors.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1.1. Configuring a Switch with Initial Settings.md",
     "COMNET/CCNA2/CCNA2.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/5. Network Access Layer Issues.md",
     "PNG Reference/Network Access Layer Issues 3.png",
-    "PNG Reference/Network Access Layer Issues 2.png",
-    "PNG Reference/Network Access Layer Issues 1.png",
-    "PNG Reference/Show Interfaces Command.png",
     "COMNET/CCNA2/Module 1/Module 1.md",
     "2024-06-26.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/4. Verify Switch Port Configuration.md",
