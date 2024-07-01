@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/5. Verify SSH is Operational.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/6. Basic Router Configuration.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/5. Verify SSH is Operational.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/6. Basic Router Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/5. Verify SSH is Operational.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/6. Basic Router Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/5. Verify SSH is Operational.md"
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/6. Basic Router Configuration.md"
               }
             }
           },
@@ -165,10 +165,13 @@
   },
   "active": "5643a507d9bae76b",
   "lastOpenFiles": [
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/saf.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/5. Verify SSH is Operational.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/4. Configure SSH.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/6. Basic Router Configuration.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/saf.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/3. Verify The Switch Supports SSH.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/4. Configure SSH.md",
+    "PNG Reference/Verify SSH is Operational.png",
+    "Pasted image 20240701130801.png",
     "PNG Reference/Verify The Switch Supports SSH.png",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/2. SSH Operation.md",
     "PNG Reference/Wireshark Capture of a Telnet Operation.png",
@@ -191,7 +194,6 @@
     "COMNET/CCNA2/Module 1/Module 1.md",
     "2024-06-26.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/4. Verify Switch Port Configuration.md",
-    "PNG Reference/Verify Switch Port Config.png",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/3. Auto-MDIX.md",
     "COMNET/IT Essentials/IT Essentials.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/2. Configure Switch Ports at the Physical Layer.md",
@@ -200,8 +202,6 @@
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/6. Switch SVI Configuration Example.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/4. Recovering from a System Crash.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/3. Switch LED Indicators.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/2. The Boot System Command.md",
-    "PNG Reference/Configure Switch Ports at the Physical Layer.png",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/Untitled",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/Afsaf",
     "COMNET/CCNA2/Module 1/ASF",
