@@ -6,10 +6,10 @@
   "painter",
   "customizable-menu",
   "canvas-node-screenshot",
-  "code-styler",
   "numerals",
   "image-captions",
   "calendar",
   "folder-note-plugin",
-  "waypoint"
+  "waypoint",
+  "code-styler"
 ]

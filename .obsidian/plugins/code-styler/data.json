@@ -153,7 +153,7 @@
           "lineNumbers": true,
           "unwrapLines": true,
           "wrapLinesActive": false,
-          "curvature": 4
+          "curvature": 14
         },
         "gutter": {
           "highlight": true,
@@ -251,16 +251,16 @@
         },
         "dark": {
           "codeblock": {
-            "backgroundColour": "#002b36",
-            "textColour": "#bababa"
+            "backgroundColour": "#000000",
+            "textColour": "#8AFF48"
           },
           "gutter": {
-            "backgroundColour": "#073642",
+            "backgroundColour": "#07364200",
             "textColour": "#6c6c6c",
             "activeTextColour": "#4c4c4c"
           },
           "header": {
-            "backgroundColour": "#0a4554",
+            "backgroundColour": "#0A455400",
             "title": {
               "textColour": "#dadada"
             },
@@ -282,9 +282,9 @@
             "alternativeHighlights": {}
           },
           "inline": {
-            "backgroundColour": "#002b36",
-            "textColour": "#bababa",
-            "activeTextColour": "#bababa",
+            "backgroundColour": "#002B3600",
+            "textColour": "#59FF62",
+            "activeTextColour": "#FCFF59",
             "titleTextColour": "#000000"
           },
           "advanced": {
@@ -302,7 +302,7 @@
         "lineNumbers": true,
         "unwrapLines": true,
         "wrapLinesActive": false,
-        "curvature": 10
+        "curvature": 14
       },
       "gutter": {
         "highlight": true,
@@ -349,7 +349,7 @@
       "advanced": {
         "gradientHighlights": false,
         "gradientHighlightsColourStop": "70%",
-        "languageBorderColour": true,
+        "languageBorderColour": false,
         "languageBorderWidth": 5,
         "iconSize": 28
       }
@@ -400,16 +400,16 @@
       },
       "dark": {
         "codeblock": {
-          "backgroundColour": "#002B3600",
-          "textColour": "#B1B0B0"
+          "backgroundColour": "#000000",
+          "textColour": "#8AFF48"
         },
         "gutter": {
-          "backgroundColour": "#073642",
+          "backgroundColour": "#07364200",
           "textColour": "#6c6c6c",
           "activeTextColour": "#4c4c4c"
         },
         "header": {
-          "backgroundColour": "#0a4554",
+          "backgroundColour": "#0A455400",
           "title": {
             "textColour": "#dadada"
           },
@@ -431,9 +431,9 @@
           "alternativeHighlights": {}
         },
         "inline": {
-          "backgroundColour": "#000000",
-          "textColour": "#56FF40",
-          "activeTextColour": "#FC35D9",
+          "backgroundColour": "#002B3600",
+          "textColour": "#59FF62",
+          "activeTextColour": "#FCFF59",
           "titleTextColour": "#000000"
         },
         "advanced": {
