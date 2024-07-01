@@ -20,20 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "dc5bbfb05ca86fb9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8942c07c5b0fee99",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -83,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "right": {
     "id": "c481cc9c8527ba39",
@@ -178,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8942c07c5b0fee99",
+  "active": "6852f6fca2f3850b",
   "lastOpenFiles": [
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/6. Interface Input and Output Errors.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/1.2. Configure Switch Ports.md",
