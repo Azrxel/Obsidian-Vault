@@ -8,19 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5643a507d9bae76b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "0f86febd0bff11f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/3. Configure Router Interfaces.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/3. Configure Router Interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/3. Configure Router Interfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/3. Configure Router Interfaces.md"
+              }
             }
           },
           {
@@ -164,9 +164,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5643a507d9bae76b",
+  "active": "0f86febd0bff11f3",
   "lastOpenFiles": [
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/3. Configure Router Interfaces.md",
+    "PNG Reference/R1 Interface Config.png",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/2. Dual Stack Topology.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/5. Verify SSH is Operational.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/6. Switch SVI Configuration.md",
@@ -197,14 +198,12 @@
     "PNG Reference/Verify The Switch Supports SSH.png",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/2. SSH Operation.md",
     "PNG Reference/Wireshark Capture of a Telnet Operation.png",
-    "PNG Reference/Wireshark Capture of an SSH Session.png",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/1. Telnet Operation.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access",
     "COMNET/CCNA2/CCNA2.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/5. Network Access Layer Issues.md",
     "COMNET/CCNA2/Module 1/Module 1.md",
     "2024-06-26.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/4. Verify Switch Port Configuration.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/Untitled",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/Afsaf",
     "COMNET/CCNA2/Module 1/ASF",
