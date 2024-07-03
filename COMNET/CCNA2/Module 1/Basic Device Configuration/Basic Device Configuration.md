@@ -10,6 +10,7 @@
 	- [[4. Verify Interface Configuration]]
 	- [[5. Verify Routes]]
 	- [[6. Filter Show Command Output]]
+	- [[7. Command History Feature]]
 
 %% End Waypoint %%
 

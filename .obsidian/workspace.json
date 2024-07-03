@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/6. Filter Show Command Output.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/7. Command History Feature.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/6. Filter Show Command Output.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/7. Command History Feature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/6. Filter Show Command Output.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/7. Command History Feature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/6. Filter Show Command Output.md"
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/7. Command History Feature.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "0f86febd0bff11f3",
   "lastOpenFiles": [
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/5. Verify Routes.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/6. Filter Show Command Output.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/7. Command History Feature.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/5. Verify Routes.md",
     "PNG Reference/show ip-ipv6 command.png",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/4. Verify Interface Configuration.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/3. Verify IPv6 Link Local and Multicast Addresses.md",
@@ -204,7 +205,6 @@
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/6. Basic Router Configuration.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/saf.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/3. Verify The Switch Supports SSH.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/4. Configure SSH.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/Untitled",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/Afsaf",
