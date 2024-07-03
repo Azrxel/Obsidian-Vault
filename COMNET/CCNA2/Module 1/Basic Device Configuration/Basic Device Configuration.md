@@ -5,6 +5,8 @@
 - **[[1.4 Basic Router Configuration]]**
 - **1.5 Verify Directly Connected Networks**
 	- [[1. interface Verification Commands]]
+	- [[2. verify Interface Status]]
+	- [[3. Verify IPv6 Link Local and Multicast Addresses]]
 
 %% End Waypoint %%
 
