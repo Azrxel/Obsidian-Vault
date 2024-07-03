@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/1.4 Basic Router Configuration.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/1. interface Verification Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/1.4 Basic Router Configuration.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/1. interface Verification Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/1.4 Basic Router Configuration.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/1. interface Verification Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/1.4 Basic Router Configuration.md"
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/1. interface Verification Commands.md"
               }
             }
           },
@@ -163,11 +163,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6852f6fca2f3850b",
+  "active": "0f86febd0bff11f3",
   "lastOpenFiles": [
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/1.4 Basic Router Configuration.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/1. interface Verification Commands.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/4. IPv4 Loopback Interfaces.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/1.4 Basic Router Configuration.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/3. Configure Router Interfaces.md",
     "PNG Reference/R1 Interface Config.png",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/2. Dual Stack Topology.md",
@@ -210,7 +211,6 @@
     "Templates",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports",
     "Tags",
-    "PNG Reference",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings"
+    "PNG Reference"
   ]
 }

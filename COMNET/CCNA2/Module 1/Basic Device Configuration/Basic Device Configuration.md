@@ -4,6 +4,7 @@
 - **[[1.3. Secure Remote Access]]**
 - **[[1.4 Basic Router Configuration]]**
 - **1.5 Verify Directly Connected Networks**
+	- [[1. interface Verification Commands]]
 
 %% End Waypoint %%
 
