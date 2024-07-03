@@ -7,6 +7,8 @@
 	- [[1. interface Verification Commands]]
 	- [[2. verify Interface Status]]
 	- [[3. Verify IPv6 Link Local and Multicast Addresses]]
+	- [[4. Verify Interface Configuration]]
+	- [[5. Verify Routes]]
 
 %% End Waypoint %%
 
