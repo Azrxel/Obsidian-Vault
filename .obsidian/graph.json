@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"COMNET/CCNA2/Module 1\"  ",
@@ -18,7 +18,14 @@
       "query": "path:\"COMNET/CCNA2/Module 2\"  ",
       "color": {
         "a": 1,
-        "rgb": 16735473
+        "rgb": 16479472
+      }
+    },
+    {
+      "query": "CCNA 2",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
       }
     }
   ],
@@ -32,6 +39,6 @@
   "repelStrength": 15,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.492563901984865,
-  "close": false
+  "scale": 0.2505977395420979,
+  "close": true
 }

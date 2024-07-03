@@ -1,6 +1,5 @@
 %% Begin Waypoint %%
-- **Module 1**
-	- **[[Basic Device Configuration]]**
+- **[[Module 1]]**
 - **Module 2**
 	- **[[Switching Concepts]]**
 
