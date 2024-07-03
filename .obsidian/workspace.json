@@ -11,12 +11,8 @@
             "id": "067205b0fbcb5810",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/2. The Switch Learn & Forward Method.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/2. The Switch Learn & Forward Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/2. The Switch Learn & Forward Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/2. The Switch Learn & Forward Method.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,8 +158,9 @@
   },
   "active": "067205b0fbcb5810",
   "lastOpenFiles": [
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/3. Verify IPv6 Link Local and Multicast Addresses.md",
+    "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/1. Switching in Networking.md",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/2. The Switch Learn & Forward Method.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/3. Verify IPv6 Link Local and Multicast Addresses.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/1. Interface Verification Commands.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/7. Command History Feature.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/4. Configure SSH.md",
@@ -175,11 +168,10 @@
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/3. Configure Router Interfaces.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/2. Dual Stack Topology.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/5. Network Access Layer Issues.md",
-    "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/1. Switching in Networking.md",
     "COMNET/CCNA2/Module 1/Module 1.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/Basic Device Configuration.md",
     "Tags/Untitled.md",
-    "PNG Reference/Port Table.png",
+    "PNG Reference/2.1.1 Port Table.png",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1.1. Configuring a Switch with Initial Settings.md",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding.md",
