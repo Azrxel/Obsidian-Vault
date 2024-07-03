@@ -1,22 +1,37 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"COMNET/CCNA2/Module 1\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16741749
+      }
+    },
+    {
+      "query": "path:\"COMNET/CCNA2/Module 2\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16735473
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -0.5,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
+  "centerStrength": 0.5,
   "repelStrength": 15,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.49256390198486094,
+  "scale": 0.492563901984865,
   "close": false
 }
