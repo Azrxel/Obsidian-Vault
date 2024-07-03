@@ -9,6 +9,7 @@
 	- [[3. Verify IPv6 Link Local and Multicast Addresses]]
 	- [[4. Verify Interface Configuration]]
 	- [[5. Verify Routes]]
+	- [[6. Filter Show Command Output]]
 
 %% End Waypoint %%
 
