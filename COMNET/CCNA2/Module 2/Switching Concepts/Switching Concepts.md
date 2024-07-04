@@ -4,6 +4,7 @@
 	- [[2. The Switch MAC Address Table]]
 	- [[3. The Switch Learn and Forward Method]]
 	- [[4. Switch Forwarding Methods]]
+	- [[5. Store-and-Forward Switching]]
 
 %% End Waypoint %%
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/4. Switch Forwarding Methods.md",
+                "file": "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/5. Store-and-Forward Switching.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 399.5,
+    "collapsed": true
   },
   "right": {
     "id": "c481cc9c8527ba39",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/4. Switch Forwarding Methods.md",
+                "file": "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/5. Store-and-Forward Switching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/4. Switch Forwarding Methods.md",
+                "file": "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/5. Store-and-Forward Switching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/4. Switch Forwarding Methods.md"
+                "file": "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/5. Store-and-Forward Switching.md"
               }
             }
           },
@@ -165,8 +166,9 @@
   },
   "active": "067205b0fbcb5810",
   "lastOpenFiles": [
-    "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/3. The Switch Learn and Forward Method.md",
+    "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/5. Store-and-Forward Switching.md",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/4. Switch Forwarding Methods.md",
+    "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/3. The Switch Learn and Forward Method.md",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/2. The Switch MAC Address Table.md",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/1. Switching in Networking.md",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/2. The Switch Learn & Forward Method.md",
@@ -198,7 +200,6 @@
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/4. Verify Interface Configuration.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/1.5 Verify Directly Connected Networks.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/6. Filter Show Command Output.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/5. Verify Routes.md",
     "Pasted image 20240703102704.png",
     "Pasted image 20240703102537.png",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks",
