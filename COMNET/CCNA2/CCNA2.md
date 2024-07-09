@@ -11,6 +11,7 @@
 		- [[2. Networks without VLANs]]
 		- [[3. Networks with VLANs]]
 		- [[4. VLAN Identification with a Tag]]
+		- [[5. Native VLANs and 802.1Q Tagging]]
 
 %% End Waypoint %%
 
