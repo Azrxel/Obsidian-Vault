@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA2/Module 2/Switching Concepts/2.2. Switching Domains/3. Alleviated Network Congestion.md",
+                "file": "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/1. VLAN Definitions.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 399.5,
+    "collapsed": true
   },
   "right": {
     "id": "c481cc9c8527ba39",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA2/Module 2/Switching Concepts/2.2. Switching Domains/3. Alleviated Network Congestion.md",
+                "file": "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/1. VLAN Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA2/Module 2/Switching Concepts/2.2. Switching Domains/3. Alleviated Network Congestion.md",
+                "file": "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/1. VLAN Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA2/Module 2/Switching Concepts/2.2. Switching Domains/3. Alleviated Network Congestion.md"
+                "file": "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/1. VLAN Definitions.md"
               }
             }
           },
@@ -165,8 +166,12 @@
   },
   "active": "067205b0fbcb5810",
   "lastOpenFiles": [
-    "COMNET/CCNA2/Module 2/Switching Concepts/2.2. Switching Domains/2.2. Switching Domains.md",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.2. Switching Domains/3. Alleviated Network Congestion.md",
+    "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/1. VLAN Definitions.md",
+    "COMNET/CCNA2/Module 3/3.1. Overview of VLANs",
+    "COMNET/CCNA2/Module 3",
+    "COMNET/CCNA2/Module 2/Untitled",
+    "COMNET/CCNA2/Module 2/Switching Concepts/2.2. Switching Domains/2.2. Switching Domains.md",
     "PNG Reference/2.2.3 Features of Switch that Alleviate Congestion.png",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.2. Switching Domains/2. Broadcast Domains.md",
     "PNG Reference/2.2.2 Broadcast Domains.png",
@@ -207,9 +212,6 @@
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks",
     "Untitled.canvas",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/Untitled",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/Afsaf",
-    "COMNET/CCNA2/Module 1/ASF"
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access"
   ]
 }
