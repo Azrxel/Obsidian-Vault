@@ -11,8 +11,12 @@
             "id": "067205b0fbcb5810",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/6. Voice VLAN Tagging.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/6. Voice VLAN Tagging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/6. Voice VLAN Tagging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/6. Voice VLAN Tagging.md"
+              }
             }
           },
           {
@@ -157,12 +165,18 @@
   },
   "active": "067205b0fbcb5810",
   "lastOpenFiles": [
-    "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/1. VLAN Ranges on Catalyst Switches.md",
-    "PNG Reference/VLAN Ranges on Catalyst Switches.png",
+    "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/5. Native VLANs and 802.1Q Tagging.md",
+    "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/6. Voice VLAN Tagging.md",
     "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/7. Voice VLAN Verification Example.md",
+    "PNG Reference/3.2.4 VLAN Identification with a Tag.png",
+    "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/3. Networks with VLANs.md",
+    "PNG Reference/3.2.3 Networks with VLANs.png",
+    "PNG Reference/3.2.3.png",
+    "Pasted image 20240709093748.png.md",
+    "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/1. VLAN Ranges on Catalyst Switches.md",
+    "PNG Reference/3.3.1 VLAN Ranges on Catalyst Switches.png",
     "COMNET/CCNA2/Module 3/3.3 VLAN Configuration",
     "PNG Reference/3.2.7 Voice VLAN Verification Example.png",
-    "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/6. Voice VLAN Tagging.md",
     "PNG Reference/1.4.3 R1 Interface Config.png",
     "PNG Reference/1.5.3 show ipv6 interface command.png",
     "PNG Reference/3.2.6 VLAN Tagging Traffic.png",
@@ -172,17 +186,12 @@
     "COMNET/CCNA2/Module 2/Switching Concepts/2.2. Switching Domains/2. Broadcast Domains.md",
     "PNG Reference/3.2.6 Voice VLAN Tagging.png",
     "COMNET/CCNA2/Module 3/Module 3.md",
-    "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/5. Native VLANs and 802.1Q Tagging.md",
     "COMNET/CCNA2/Module 2/Module 2.md",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/2.1. Frame Forwarding.md",
     "COMNET/CCNA2/Module 2/Switching Concepts/Switching Concepts.md",
     "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/3.1. Overview of VLANs.md",
     "PNG Reference/3.2.5 Native VLANs and 802.1Q Tagging.png",
     "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/4. VLAN Identification with a Tag.md",
-    "PNG Reference/3.2.4 Tag Field.png",
-    "PNG Reference/3.2.4 VLAN Identification with a Tag.png",
-    "PNG Reference/3.2.3 Networks with VLANs.png",
-    "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/3. Networks with VLANs.md",
     "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/2. Networks without VLANs.md",
     "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/1. Defining VLAN Trunks.md",
     "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/1. VLAN Definitions.md",
@@ -197,7 +206,6 @@
     "COMNET/CCNA2/Module 2/Switching Concepts/2.2. Switching Domains/1. Collision Domains.md",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.2. Switching Domains",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/5. Store-and-Forward Switching.md",
-    "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/4. Switch Forwarding Methods.md",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding",
     "COMNET/CCNA2/Module 2/Switching Concepts",
     "COMNET/CCNA2/Module 2",
