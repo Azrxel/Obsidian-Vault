@@ -1,3 +1,7 @@
+---
+tags:
+---
+
 %% Begin Waypoint %%
 - **[[Basic Device Configuration]]**
 
