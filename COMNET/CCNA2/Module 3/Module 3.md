@@ -7,6 +7,9 @@
 	- [[4. VLAN Identification with a Tag]]
 	- [[5. Native VLANs and 802.1Q Tagging]]
 	- [[6. Voice VLAN Tagging]]
+	- [[7. Voice VLAN Verification Example]]
+- **3.3 VLAN Configuration**
+	- [[1. VLAN Ranges on Catalyst Switches]]
 
 %% End Waypoint %%
 
