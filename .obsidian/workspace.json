@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/5. Native VLANs and 802.1Q Tagging.md",
+                "file": "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/6. Voice VLAN Tagging.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "right": {
     "id": "c481cc9c8527ba39",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/5. Native VLANs and 802.1Q Tagging.md",
+                "file": "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/6. Voice VLAN Tagging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/5. Native VLANs and 802.1Q Tagging.md",
+                "file": "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/6. Voice VLAN Tagging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/5. Native VLANs and 802.1Q Tagging.md"
+                "file": "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/6. Voice VLAN Tagging.md"
               }
             }
           },
@@ -166,9 +165,16 @@
   },
   "active": "067205b0fbcb5810",
   "lastOpenFiles": [
-    "PNG Reference/Pasted image 20240709095613.png",
-    "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/4. VLAN Identification with a Tag.md",
+    "PNG Reference/3.2.6 Voice VLAN Tagging.png",
+    "COMNET/CCNA2/Module 3/Module 3.md",
+    "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/6. Voice VLAN Tagging.md",
     "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/5. Native VLANs and 802.1Q Tagging.md",
+    "COMNET/CCNA2/Module 2/Module 2.md",
+    "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/2.1. Frame Forwarding.md",
+    "COMNET/CCNA2/Module 2/Switching Concepts/Switching Concepts.md",
+    "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/3.1. Overview of VLANs.md",
+    "PNG Reference/3.2.5 Native VLANs and 802.1Q Tagging.png",
+    "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/4. VLAN Identification with a Tag.md",
     "PNG Reference/3.2.4 Tag Field.png",
     "PNG Reference/3.2.4 VLAN Identification with a Tag.png",
     "PNG Reference/3.2.3 Networks with VLANs.png",
@@ -190,12 +196,8 @@
     "COMNET/CCNA2/Module 3",
     "COMNET/CCNA2/Module 2/Untitled",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.2. Switching Domains/2.2. Switching Domains.md",
-    "PNG Reference/2.2.3 Features of Switch that Alleviate Congestion.png",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.2. Switching Domains/2. Broadcast Domains.md",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.2. Switching Domains/1. Collision Domains.md",
-    "COMNET/CCNA2/Module 2/Switching Concepts/Switching Concepts.md",
-    "COMNET/CCNA2/Module 2/Module 2.md",
-    "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/2.1. Frame Forwarding.md",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.2. Switching Domains",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/6. Cut-Through Switching.md",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/5. Store-and-Forward Switching.md",
@@ -204,9 +206,6 @@
     "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/2. The Switch MAC Address Table.md",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/1. Switching in Networking.md",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/2. The Switch Learn & Forward Method.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/3. Verify IPv6 Link Local and Multicast Addresses.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/1. Interface Verification Commands.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/7. Command History Feature.md",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding",
     "COMNET/CCNA2/Module 2/Switching Concepts",
     "COMNET/CCNA2/Module 2",
