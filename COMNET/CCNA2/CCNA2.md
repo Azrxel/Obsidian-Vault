@@ -8,6 +8,9 @@
 		- [[3. Types of VLANs]]
 	- **3.2 VLANs in a Multi-Switched Environment**
 		- [[1. Defining VLAN Trunks]]
+		- [[2. Networks without VLANs]]
+		- [[3. Networks with VLANs]]
+		- [[4. VLAN Identification with a Tag]]
 
 %% End Waypoint %%
 
