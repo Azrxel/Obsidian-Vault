@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/1. VLAN Definitions.md",
+                "file": "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/3. Types of VLANs.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "right": {
     "id": "c481cc9c8527ba39",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/1. VLAN Definitions.md",
+                "file": "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/3. Types of VLANs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/1. VLAN Definitions.md",
+                "file": "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/3. Types of VLANs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/1. VLAN Definitions.md"
+                "file": "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/3. Types of VLANs.md"
               }
             }
           },
@@ -164,10 +163,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "067205b0fbcb5810",
+  "active": "6852f6fca2f3850b",
   "lastOpenFiles": [
-    "COMNET/CCNA2/Module 2/Switching Concepts/2.2. Switching Domains/3. Alleviated Network Congestion.md",
+    "PNG Reference/3.1.3 Default VLAN (VLAN 1).png",
+    "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/2. Benefits of VLAN Design.md",
+    "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/3. Types of VLANs.md",
+    "PNG Reference/3.1.2 VLAN Implementation.png",
     "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/1. VLAN Definitions.md",
+    "PNG Reference/3.1.1 VLAN Segmentation.png",
+    "COMNET/CCNA2/Module 2/Switching Concepts/2.2. Switching Domains/3. Alleviated Network Congestion.md",
     "COMNET/CCNA2/Module 3/3.1. Overview of VLANs",
     "COMNET/CCNA2/Module 3",
     "COMNET/CCNA2/Module 2/Untitled",
@@ -199,16 +203,11 @@
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/3. Configure Router Interfaces.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/2. Dual Stack Topology.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/5. Network Access Layer Issues.md",
-    "COMNET/CCNA2/Module 1/Module 1.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/Basic Device Configuration.md",
-    "Tags/Untitled.md",
     "PNG Reference/2.1.1 Port Table.png",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding",
     "COMNET/CCNA2/Module 2/Switching Concepts",
     "COMNET/CCNA2/Module 2",
     "PNG Reference/1.5.2 show ip interface brief command.png",
-    "PNG Reference/show ip interface brief.png",
-    "PNG Reference/1.5.3 show ipv6 interface command.png",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks",
     "Untitled.canvas",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration",
