@@ -1,15 +1,10 @@
 %% Begin Waypoint %%
 - **[[3.1. Overview of VLANs]]**
-- **3.2 VLANs in a Multi-Switched Environment**
-	- [[1. Defining VLAN Trunks]]
-	- [[2. Networks without VLANs]]
-	- [[3. Networks with VLANs]]
-	- [[4. VLAN Identification with a Tag]]
-	- [[5. Native VLANs and 802.1Q Tagging]]
-	- [[6. Voice VLAN Tagging]]
-	- [[7. Voice VLAN Verification Example]]
+- **[[3.2 VLANs in a Multi-Switched Environment]]**
 - **3.3 VLAN Configuration**
 	- [[1. VLAN Ranges on Catalyst Switches]]
+	- [[2. VLAN Creation Commands]]
+	- [[3. VLAN Creation Example]]
 
 %% End Waypoint %%
 
