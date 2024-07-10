@@ -12,5 +12,8 @@ tags:
 	- [[2. VLAN Creation Commands]]
 	- [[3. VLAN Creation Example]]
 	- [[4. VLAN Port Assignment Commands]]
+	- [[5. VLAN Port Assignment Example]]
+	- [[6. Data and Voice VLANs]]
+	- [[7. Data and Voice VLAN Example]]
 
 %% End Waypoint %%
