@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA2/Module 3/3.5 Dynamic Trunking Protocol/4. Verify DTP Mode.md",
+                "file": "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/1. Inter-VLAN Routing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA2/Module 3/3.5 Dynamic Trunking Protocol/4. Verify DTP Mode.md",
+                "file": "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/1. Inter-VLAN Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA2/Module 3/3.5 Dynamic Trunking Protocol/4. Verify DTP Mode.md",
+                "file": "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/1. Inter-VLAN Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA2/Module 3/3.5 Dynamic Trunking Protocol/4. Verify DTP Mode.md"
+                "file": "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/1. Inter-VLAN Routing.md"
               }
             }
           },
@@ -163,15 +163,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6852f6fca2f3850b",
+  "active": "067205b0fbcb5810",
   "lastOpenFiles": [
-    "PNG Reference/Module 3/3.5.4 Verify DTP Mode.png",
-    "COMNET/CCNA2/Module 3/3.5 Dynamic Trunking Protocol/3. Results of DTP Configuration.md",
-    "COMNET/CCNA2/Module 3/3.5 Dynamic Trunking Protocol/4. Verify DTP Mode.md",
+    "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/1. Inter-VLAN Routing.md",
+    "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation",
+    "COMNET/CCNA2/Module 4/4.1.md",
+    "COMNET/CCNA2/Module 4",
+    "COMNET/COMNET.md",
+    "COMNET/CCNA2/CCNA2.md",
+    "COMNET/CCNA2/Module 1/Module 1.md",
+    "COMNET/CCNA2/Module 2/Module 2.md",
+    "COMNET/CCNA2/Module 3/Module 3.md",
     "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/3.1. Overview of VLANs.md",
     "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/3.2 VLANs in a Multi-Switched Environment.md",
     "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/3.3 VLAN Configuration.md",
     "COMNET/CCNA2/Module 3/3.4 VLAN Trunks/3.4 VLAN Trunks.md",
+    "COMNET/CCNA2/Module 3/3.5 Dynamic Trunking Protocol/3.5 Dynamic Trunking Protocol.md",
+    "COMNET/CCNA2/Module 3/3.5 Dynamic Trunking Protocol/4. Verify DTP Mode.md",
+    "PNG Reference/Module 3/3.5.4 Verify DTP Mode.png",
+    "COMNET/CCNA2/Module 3/3.5 Dynamic Trunking Protocol/3. Results of DTP Configuration.md",
     "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/3. Types of VLANs.md",
     "PNG Reference/Module 3/3.1.1 VLAN Segmentation.png",
     "PNG Reference/Module 2/2.1.1 Port Table.png",
@@ -189,7 +199,6 @@
     "PNG Reference/Module 3/3.4.4 Reset the Trunk to an Access Mode.png",
     "COMNET/CCNA2/Module 3/3.5 Dynamic Trunking Protocol",
     "PNG Reference/Module 3/3.4.4 Verify the Default Settings.png",
-    "PNG Reference/Module 3/3.4.4 Reset the Trunk to the Default State.png",
     "COMNET/CCNA2/Module 3/3.4 VLAN Trunks/3. Verify Trunk Configuration.md",
     "COMNET/CCNA2/Module 3/3.4 VLAN Trunks/2. Trunk Configuration Example.md",
     "COMNET/CCNA2/Module 3/3.4 VLAN Trunks/1. Trunk Configuration Commands.md",
@@ -199,18 +208,9 @@
     "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/9. Change VLAN Port Membership.md",
     "COMNET/CCNA2/Module 3/3.4 VLAN Trunks",
     "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/6. Data and Voice VLANs.md",
-    "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/5. VLAN Port Assignment Example.md",
-    "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/4. VLAN Port Assignment Commands.md",
-    "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/3. VLAN Creation Example.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/3. Configure Router Interfaces.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/4. Configure SSH.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/4. Verify Switch Port Configuration.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/3. Switch LED Indicators.md",
     "Untitled.canvas",
     "COMNET/CCNA2/Module 3/3.3 VLAN Configuration",
     "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment",
-    "COMNET/CCNA2/Module 3/3.1. Overview of VLANs",
-    "COMNET/CCNA2/Module 3",
-    "COMNET/CCNA2/Module 2/Untitled"
+    "COMNET/CCNA2/Module 3/3.1. Overview of VLANs"
   ]
 }
