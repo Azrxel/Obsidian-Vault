@@ -13,5 +13,6 @@ tags:
 	- [[1. Introduction to DTP]]
 	- [[2. Negotiated Interface Modes]]
 	- [[3. Results of DTP Configuration]]
+	- [[4. Verify DTP Mode]]
 
 %% End Waypoint %%
