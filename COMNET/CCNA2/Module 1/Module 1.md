@@ -1,5 +1,7 @@
 ---
 tags:
+  - Module-1
+  - Module
 ---
 
 %% Begin Waypoint %%

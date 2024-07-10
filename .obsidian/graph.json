@@ -15,24 +15,31 @@
       }
     },
     {
-      "query": "tag:Module 3",
+      "query": "tag:#Module",
       "color": {
         "a": 1,
-        "rgb": 6476793
+        "rgb": 16269119
       }
     },
     {
-      "query": "tag:Module 2",
+      "query": "path:\"COMNET/CCNA2/Module 3\"  ",
       "color": {
         "a": 1,
-        "rgb": 6094725
+        "rgb": 16726235
       }
     },
     {
-      "query": "tag:Module 1",
+      "query": "path:\"COMNET/CCNA2/Module 2\"  ",
       "color": {
         "a": 1,
-        "rgb": 10837247
+        "rgb": 7883256
+      }
+    },
+    {
+      "query": "path:\"COMNET/CCNA2/Module 1\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.30691829628652034,
-  "close": false
+  "scale": 0.3069182962865206,
+  "close": true
 }
