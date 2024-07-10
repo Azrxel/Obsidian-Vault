@@ -12,5 +12,8 @@ tags:
 	- [[1. Trunk Configuration Commands]]
 	- [[2. Trunk Configuration Example]]
 	- [[3. Verify Trunk Configuration]]
+	- [[4. Reset the Trunk to the Default State]]
+- **3.5 Dynamic Trunking Protocol**
+	- [[1. Introduction to DTP]]
 
 %% End Waypoint %%

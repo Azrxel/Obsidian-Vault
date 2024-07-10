@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA2/Module 3/3.4 VLAN Trunks/3. Verify Trunk Configuration.md",
+                "file": "COMNET/CCNA2/Module 3/3.5 Dynamic Trunking Protocol/1. Introduction to DTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA2/Module 3/3.4 VLAN Trunks/3. Verify Trunk Configuration.md",
+                "file": "COMNET/CCNA2/Module 3/3.5 Dynamic Trunking Protocol/1. Introduction to DTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA2/Module 3/3.4 VLAN Trunks/3. Verify Trunk Configuration.md",
+                "file": "COMNET/CCNA2/Module 3/3.5 Dynamic Trunking Protocol/1. Introduction to DTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA2/Module 3/3.4 VLAN Trunks/3. Verify Trunk Configuration.md"
+                "file": "COMNET/CCNA2/Module 3/3.5 Dynamic Trunking Protocol/1. Introduction to DTP.md"
               }
             }
           },
@@ -165,8 +165,18 @@
   },
   "active": "067205b0fbcb5810",
   "lastOpenFiles": [
-    "COMNET/CCNA2/Module 3/3.4 VLAN Trunks/2. Trunk Configuration Example.md",
+    "COMNET/CCNA2/Module 3/3.4 VLAN Trunks/4. Reset the Trunk to the Default State.md",
+    "PNG Reference/3.4.4 Reset the Trunk to an Access Mode.png",
+    "COMNET/CCNA2/Module 3/3.5 Dynamic Trunking Protocol/1. Introduction to DTP.md",
+    "COMNET/CCNA2/Module 3/3.5 Dynamic Trunking Protocol",
+    "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/3.3 VLAN Configuration.md",
+    "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/3.1. Overview of VLANs.md",
+    "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/3.2 VLANs in a Multi-Switched Environment.md",
+    "PNG Reference/3.4.4 Verify the Default Settings.png",
+    "PNG Reference/3.4.4 Reset the Trunk to the Default State.png",
     "COMNET/CCNA2/Module 3/3.4 VLAN Trunks/3. Verify Trunk Configuration.md",
+    "PNG Reference/3.4.3 Verify Trunk Configuration.png",
+    "COMNET/CCNA2/Module 3/3.4 VLAN Trunks/2. Trunk Configuration Example.md",
     "PNG Reference/3.4.2 Port on S1 is Configured as a Trunk Port.png",
     "PNG Reference/3.4.2 Subnets Associated with VLANs.png",
     "COMNET/CCNA2/Module 3/3.4 VLAN Trunks/1. Trunk Configuration Commands.md",
@@ -176,15 +186,10 @@
     "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/9. Change VLAN Port Membership.md",
     "PNG Reference/3.4.1 Trunk Configuration Commands.png",
     "PNG Reference/3.3.9 Verify The Correct VLAN Association.png",
-    "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/3.3 VLAN Configuration.md",
     "COMNET/CCNA2/Module 3/3.4 VLAN Trunks",
     "PNG Reference/Pasted image 20240710131116.png",
     "PNG Reference/3.3.8 Verify VLAN Information Commands.png",
-    "PNG Reference/3.3.8 Verify VLAN Information.png",
-    "PNG Reference/3.3.7 Data and Voice VLAN Example.png",
-    "PNG Reference/3.3.9 Change VLAN Port Membership.png",
     "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/6. Data and Voice VLANs.md",
-    "PNG Reference/3.3.6 Data and Voice VLANs.png",
     "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/5. VLAN Port Assignment Example.md",
     "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/4. VLAN Port Assignment Commands.md",
     "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/3. VLAN Creation Example.md",
@@ -197,11 +202,6 @@
     "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/2. VLAN Creation Commands.md",
     "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/6. Voice VLAN Tagging.md",
     "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/4. VLAN Identification with a Tag.md",
-    "COMNET/CCNA2/Module 3/Module 3.md",
-    "COMNET/CCNA2/Module 2/Module 2.md",
-    "COMNET/CCNA2/CCNA2.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/5. Switch Management Access.md",
-    "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/3.1. Overview of VLANs.md",
     "Untitled.canvas",
     "COMNET/CCNA2/Module 3/3.3 VLAN Configuration",
     "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment",
@@ -210,7 +210,6 @@
     "COMNET/CCNA2/Module 2/Untitled",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.2. Switching Domains",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding",
-    "COMNET/CCNA2/Module 2/Switching Concepts",
-    "COMNET/CCNA2/Module 2"
+    "COMNET/CCNA2/Module 2/Switching Concepts"
   ]
 }
