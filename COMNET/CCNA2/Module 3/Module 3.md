@@ -11,5 +11,6 @@ tags:
 - **3.4 VLAN Trunks**
 	- [[1. Trunk Configuration Commands]]
 	- [[2. Trunk Configuration Example]]
+	- [[3. Verify Trunk Configuration]]
 
 %% End Waypoint %%
