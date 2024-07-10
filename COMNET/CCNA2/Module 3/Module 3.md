@@ -15,5 +15,7 @@ tags:
 	- [[5. VLAN Port Assignment Example]]
 	- [[6. Data and Voice VLANs]]
 	- [[7. Data and Voice VLAN Example]]
+	- [[8. Verify VLAN Information]]
+	- [[9. Change VLAN Port Membership]]
 
 %% End Waypoint %%

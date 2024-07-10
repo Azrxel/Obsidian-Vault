@@ -11,11 +11,9 @@
             "id": "067205b0fbcb5810",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/7. Data and Voice VLAN Example.md",
-                "mode": "source",
-                "source": false
+                "file": "PNG Reference/3.3.8 Verify VLAN Information Commands.png"
               }
             }
           }
@@ -69,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "right": {
     "id": "c481cc9c8527ba39",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/7. Data and Voice VLAN Example.md",
+                "file": "PNG Reference/3.3.8 Verify VLAN Information Commands.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/7. Data and Voice VLAN Example.md",
+                "file": "PNG Reference/3.3.8 Verify VLAN Information Commands.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/7. Data and Voice VLAN Example.md"
+                "file": "PNG Reference/3.3.8 Verify VLAN Information Commands.png"
               }
             }
           },
@@ -164,15 +161,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "067205b0fbcb5810",
+  "active": "6852f6fca2f3850b",
   "lastOpenFiles": [
-    "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/6. Data and Voice VLANs.md",
+    "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/8. Verify VLAN Information.md",
+    "PNG Reference/3.3.8 Verify VLAN Information.png",
+    "PNG Reference/3.3.8 Verify VLAN Information Commands.png",
+    "PNG Reference/3.3.7 Data and Voice VLAN Example.png",
     "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/7. Data and Voice VLAN Example.md",
-    "PNG Reference/Pasted image 20240710125454.png",
+    "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/9. Change VLAN Port Membership.md",
+    "PNG Reference/Pasted image 20240710131543.png",
+    "PNG Reference/Pasted image 20240710131116.png",
+    "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/6. Data and Voice VLANs.md",
+    "PNG Reference/3.3.6 Data and Voice VLANs.png",
     "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/5. VLAN Port Assignment Example.md",
-    "PNG Reference/Pasted image 20240710125313.png",
+    "PNG Reference/3.3.3 VLAN Creation Example.png",
+    "PNG Reference/3.3.5 VLAN Port Assignment Example.png",
+    "PNG Reference/Pasted image 20240710130331.png",
     "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/4. VLAN Port Assignment Commands.md",
-    "PNG Reference/3.2.4 VLAN Port Assignment Commands.png",
+    "PNG Reference/3.3.4 VLAN Port Assignment Commands.png",
     "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/3. VLAN Creation Example.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/3. Configure Router Interfaces.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/4. Configure SSH.md",
@@ -192,18 +198,8 @@
     "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/2. Benefits of VLAN Design.md",
     "Untitled.canvas",
     "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/3.2 VLANs in a Multi-Switched Environment.md",
-    "PNG Reference/3.2.3 VLAN Creation Example.png",
-    "PNG Reference/3.2.2 VLAN Creation Commands.png",
     "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/5. Native VLANs and 802.1Q Tagging.md",
-    "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/7. Voice VLAN Verification Example.md",
-    "PNG Reference/3.2.4 VLAN Identification with a Tag.png",
-    "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/3. Networks with VLANs.md",
-    "PNG Reference/3.2.3 Networks with VLANs.png",
-    "PNG Reference/3.2.3.png",
-    "Pasted image 20240709093748.png.md",
-    "PNG Reference/3.3.1 VLAN Ranges on Catalyst Switches.png",
     "COMNET/CCNA2/Module 3/3.3 VLAN Configuration",
-    "PNG Reference/3.2.7 Voice VLAN Verification Example.png",
     "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment",
     "COMNET/CCNA2/Module 3/3.1. Overview of VLANs",
     "COMNET/CCNA2/Module 3",
