@@ -11,8 +11,12 @@
             "id": "067205b0fbcb5810",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/4. Inter-VLAN Routing on a Layer 3 Switch.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 399.5,
+    "collapsed": true
   },
   "right": {
     "id": "c481cc9c8527ba39",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/4. Inter-VLAN Routing on a Layer 3 Switch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/4. Inter-VLAN Routing on a Layer 3 Switch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/4. Inter-VLAN Routing on a Layer 3 Switch.md"
+              }
             }
           },
           {
@@ -157,6 +166,8 @@
   },
   "active": "067205b0fbcb5810",
   "lastOpenFiles": [
+    "COMNET/CCNA2/Module 4/Module 4.md",
+    "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/4. Inter-VLAN Routing on a Layer 3 Switch.md",
     "COMNET/CCNA2/CCNA2.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/1.5 Verify Directly Connected Networks.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/1.4 Basic Router Configuration.md",
@@ -171,11 +182,9 @@
     "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/2.1. Frame Forwarding.md",
     "COMNET/CCNA2/Module 3/Module 3.md",
     "COMNET/CCNA2/Module 3/3.5 Dynamic Trunking Protocol/3.5 Dynamic Trunking Protocol.md",
-    "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/4. Inter-VLAN Routing on a Layer 3 Switch.md",
     "PNG Reference/Module 4/4.1.4 Inter-VLAN Routing on a Layer 3 Switch.png",
     "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/3. Router-on-a-Stick Inter-VLAN Routing.md",
     "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/2. Legacy Inter-VLAN Routing.md",
-    "COMNET/CCNA2/Module 4/Module 4.md",
     "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/1. Inter-VLAN Routing.md",
     "PNG Reference/Module 4",
     "PNG Reference/Module 4/4.1.2 Legacy Inter-VLAN Routing.png",
