@@ -7,10 +7,7 @@ tags:
 - **[[Module 1]]**
 - **[[Module 2]]**
 - **[[Module 3]]**
-- **Module 4**
-	- **4.1 Inter-VLAN Routing Operation**
-		- [[1. Inter-VLAN Routing]]
-		- [[2. Legacy Inter-VLAN Routing]]
+- **[[Module 4]]**
 
 %% End Waypoint %%
 
