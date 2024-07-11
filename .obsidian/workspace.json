@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/4..md",
+                "file": "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/2. Legacy Inter-VLAN Routing.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 399.5,
+    "collapsed": true
   },
   "right": {
     "id": "c481cc9c8527ba39",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/4..md",
+                "file": "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/2. Legacy Inter-VLAN Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/4..md",
+                "file": "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/2. Legacy Inter-VLAN Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/4..md"
+                "file": "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/2. Legacy Inter-VLAN Routing.md"
               }
             }
           },
@@ -163,10 +164,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6852f6fca2f3850b",
+  "active": "067205b0fbcb5810",
   "lastOpenFiles": [
     "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/1. Inter-VLAN Routing.md",
-    "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/4..md",
+    "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/2. Legacy Inter-VLAN Routing.md",
     "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation",
     "COMNET/CCNA2/Module 4/4.1.md",
     "COMNET/CCNA2/Module 4",
