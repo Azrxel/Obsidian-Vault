@@ -11,12 +11,8 @@
             "id": "067205b0fbcb5810",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/3. Router-on-a-Stick Inter-VLAN Routing.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "right": {
     "id": "c481cc9c8527ba39",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/3. Router-on-a-Stick Inter-VLAN Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/3. Router-on-a-Stick Inter-VLAN Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/3. Router-on-a-Stick Inter-VLAN Routing.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,8 +157,24 @@
   },
   "active": "067205b0fbcb5810",
   "lastOpenFiles": [
-    "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/2. Legacy Inter-VLAN Routing.md",
+    "COMNET/CCNA2/CCNA2.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/1.5 Verify Directly Connected Networks.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/1.4 Basic Router Configuration.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/1.3. Secure Remote Access.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/1.2. Configure Switch Ports.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1.1. Configuring a Switch with Initial Settings.md",
+    "COMNET/CCNA2/Module 1/Module 1.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/Basic Device Configuration.md",
+    "COMNET/CCNA2/Module 2/Module 2.md",
+    "COMNET/CCNA2/Module 2/Switching Concepts/Switching Concepts.md",
+    "COMNET/CCNA2/Module 2/Switching Concepts/2.2. Switching Domains/2.2. Switching Domains.md",
+    "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/2.1. Frame Forwarding.md",
+    "COMNET/CCNA2/Module 3/Module 3.md",
+    "COMNET/CCNA2/Module 3/3.5 Dynamic Trunking Protocol/3.5 Dynamic Trunking Protocol.md",
+    "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/4. Inter-VLAN Routing on a Layer 3 Switch.md",
+    "PNG Reference/Module 4/4.1.4 Inter-VLAN Routing on a Layer 3 Switch.png",
     "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/3. Router-on-a-Stick Inter-VLAN Routing.md",
+    "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/2. Legacy Inter-VLAN Routing.md",
     "COMNET/CCNA2/Module 4/Module 4.md",
     "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/1. Inter-VLAN Routing.md",
     "PNG Reference/Module 4",
@@ -176,19 +183,12 @@
     "COMNET/CCNA2/Module 4/4.1.md",
     "COMNET/CCNA2/Module 4",
     "COMNET/COMNET.md",
-    "COMNET/CCNA2/CCNA2.md",
-    "COMNET/CCNA2/Module 1/Module 1.md",
-    "COMNET/CCNA2/Module 2/Module 2.md",
-    "COMNET/CCNA2/Module 3/Module 3.md",
     "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/3.1. Overview of VLANs.md",
     "COMNET/CCNA2/Module 3/3.2 VLANs in a Multi-Switched Environment/3.2 VLANs in a Multi-Switched Environment.md",
     "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/3.3 VLAN Configuration.md",
     "COMNET/CCNA2/Module 3/3.4 VLAN Trunks/3.4 VLAN Trunks.md",
-    "COMNET/CCNA2/Module 3/3.5 Dynamic Trunking Protocol/3.5 Dynamic Trunking Protocol.md",
     "COMNET/CCNA2/Module 3/3.5 Dynamic Trunking Protocol/4. Verify DTP Mode.md",
     "PNG Reference/Module 3/3.5.4 Verify DTP Mode.png",
-    "COMNET/CCNA2/Module 3/3.5 Dynamic Trunking Protocol/3. Results of DTP Configuration.md",
-    "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/3. Types of VLANs.md",
     "PNG Reference/Module 3/3.1.1 VLAN Segmentation.png",
     "PNG Reference/Module 2/2.1.1 Port Table.png",
     "PNG Reference/Module 3",
@@ -197,18 +197,9 @@
     "PNG Reference/Module 1/1.1.5 Switch Management Access.png",
     "PNG Reference/Module 1",
     "PNG Reference/Module 3/3.5.3 Results of DTP Configuration.png",
-    "COMNET/CCNA2/Module 3/3.5 Dynamic Trunking Protocol/2. Negotiated Interface Modes.md",
     "PNG Reference/Module 3/3.5.2 Negotiated Interface Modes.png",
-    "COMNET/CCNA2/Module 3/3.5 Dynamic Trunking Protocol/1. Introduction to DTP.md",
     "PNG Reference/Module 3/3.5.1 DTP.png",
-    "COMNET/CCNA2/Module 3/3.4 VLAN Trunks/4. Reset the Trunk to the Default State.md",
-    "PNG Reference/Module 3/3.4.4 Reset the Trunk to an Access Mode.png",
     "COMNET/CCNA2/Module 3/3.5 Dynamic Trunking Protocol",
-    "COMNET/CCNA2/Module 3/3.4 VLAN Trunks/3. Verify Trunk Configuration.md",
-    "COMNET/CCNA2/Module 3/3.4 VLAN Trunks/2. Trunk Configuration Example.md",
-    "COMNET/CCNA2/Module 3/3.4 VLAN Trunks/1. Trunk Configuration Commands.md",
-    "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/10. Delete VLANs.md",
-    "COMNET/CCNA2/Module 3/3.3 VLAN Configuration/7. Data and Voice VLAN Example.md",
     "COMNET/CCNA2/Module 3/3.4 VLAN Trunks",
     "Untitled.canvas",
     "COMNET/CCNA2/Module 3/3.3 VLAN Configuration",

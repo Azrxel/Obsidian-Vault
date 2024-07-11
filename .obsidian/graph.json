@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "path:\"COMNET/CCNA2/Module 4\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725970
+      }
     }
   ],
   "collapse-display": false,
