@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
-- **[[Final Exam]]**
+- **[[DevNet Final Exam]]**
 
 %% End Waypoint %%
 
