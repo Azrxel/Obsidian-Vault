@@ -4,3 +4,4 @@
    - Private Cloud
 
 2. **What is a function provided by an implementation of a <mark class="hltr-yellow">read-only automation</mark> solution?**
+   - The ability to use an automated request to audit configurations and manually deploy changes in order to implement compliance
