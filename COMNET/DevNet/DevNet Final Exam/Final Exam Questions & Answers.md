@@ -126,4 +126,34 @@
 35. **What <mark class="hltr-yellow">character</mark> is used to <mark class="hltr-green">separate</mark> the <mark class="hltr-yellow">key</mark> and <mark class="hltr-green">value</mark> <mark class="hltr-pink">pairs</mark> in <mark class="hltr-yellow">YAML</mark>?**
     - <mark class="hltr-orange">colon :</mark>
 
-36. 
+36. **Which <mark class="hltr-yellow">git command</mark> is used to <mark class="hltr-green">compare</mark> <mark class="hltr-yellow">changes</mark> <mark class="hltr-green">between</mark> <mark class="hltr-yellow">files</mark>?**
+    - <mark class="hltr-orange">git diff</mark>
+
+37. **Refer to the exhibit. Match the missing components of the Python script for authenticating to the Cisco Network Services Orchestrator and obtaining a list of network devices using the username of “superadmin” and password of “soverysecure!”. (Not all options are used.)**
+    
+    `import requests`
+    
+    `username = '_Component1_'`
+    `password = '_Component2_'`
+    
+    `url = "https://devasc-nsc-1.cisco.com/restconf/data/tailf-ncs:devices/_Components3_"`
+    
+    `headers = {`
+		`'Content-Type': "applications/yang-data+json"`
+		
+    `response = requests. _Component4_(url,`
+						`auth=(_Component5_, _Component6_),`
+						`headers=headers,`
+						`verify=False`
+
+    `print(respone.text)`
+    
+| <mark class="hltr-pink">Script</mark>          | <mark class="hltr-pink">Missing Component</mark> |
+| ---------------------------------------------- | ------------------------------------------------ |
+| <mark class="hltr-orange">superadmin</mark>    | <mark class="hltr-yellow">Component 1</mark>     |
+| <mark class="hltr-orange">soverysecure!</mark> | <mark class="hltr-yellow">Component 2</mark>     |
+| <mark class="hltr-orange">list</mark>          | <mark class="hltr-yellow">Component 3</mark>     |
+| <mark class="hltr-orange">get</mark>           | <mark class="hltr-yellow">Component 4</mark>     |
+| <mark class="hltr-orange">username</mark>      | <mark class="hltr-yellow">Component 5</mark>     |
+| <mark class="hltr-orange">password</mark>      | <mark class="hltr-yellow">Component 6</mark>     |
+38. 
