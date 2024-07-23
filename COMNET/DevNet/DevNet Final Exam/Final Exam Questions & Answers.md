@@ -56,11 +56,14 @@
 
 17. **Match the DevNet Exchange Type with the Description**
     
-| DevNet Exchange Type | Description                                                                                                                 |
-| :------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
-| Code                 | Uses the GitHub API and Human Moderators to categorize and display related Repositories                                     |
-| Automation Exchange  | A collection of Network Automation use cases with different solutions and Toolkits                                          |
-| EcoSystem            | Provides solutions across different Technologies, Industries, and Geographies to jump start solution design and development |
+| <mark class="hltr-pink">DevNet Exchange Type</mark>  | <mark class="hltr-pink">Description</mark>                                                                                                                   |
+| :--------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <mark class="hltr-orange">Code</mark>                | <mark class="hltr-yellow">Uses the GitHub API and Human Moderators to categorize and display related Repositories</mark>                                     |
+| <mark class="hltr-orange">Automation Exchange</mark> | <mark class="hltr-yellow">A collection of Network Automation use cases with different solutions and Toolkits</mark>                                          |
+| <mark class="hltr-orange">EcoSystem</mark>           | <mark class="hltr-yellow">Provides solutions across different Technologies, Industries, and Geographies to jump start solution design and development</mark> |
 18. **Refer to the exhibit. A user is working on Ansible on the local NMS to manage remote network devices. Which file is the user creating?**
-    `#Enter the devices for Ansible playbooks`
-    `Main-RT ansible`
+    `#Enter the devices for Ansible playbooks:`
+    `Main-RT ansible_user=classuser ansible_password=class123! ansible_host=172.20.20.250`
+    - <mark class="hltr-orange">Hosts</mark>
+
+19. 
