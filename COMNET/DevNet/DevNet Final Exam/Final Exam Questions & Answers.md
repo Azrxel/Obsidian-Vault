@@ -26,19 +26,19 @@
 
 
 
-8. **A packet is received by a server. The packet has a destination port number of 8008. What protocol or service is requested?**
+8. **A packet is <mark class="hltr-green">received</mark> by a <mark class="hltr-yellow">server</mark>. The <mark class="hltr-green">packet</mark> has a <mark class="hltr-yellow">destination</mark> <mark class="hltr-green">port</mark> number of <mark class="hltr-yellow">8008</mark>. What <mark class="hltr-green">protocol</mark> or <mark class="hltr-yellow">service</mark> is <mark class="hltr-green">requested</mark>?**
    - <mark class="hltr-orange">RESTCONF</mark>
 
-9. **A network contains multiple VLANs spanning multiple switches. What happens when a device in VLAN 20 sends a broadcast Ethernet frame?**
+9. **A network <mark class="hltr-yellow">contains</mark> multiple VLANs spanning multiple switches. What happens when a device in <mark class="hltr-green">VLAN 20</mark> sends a <mark class="hltr-yellow">broadcast</mark> Ethernet frame?**
    - <mark class="hltr-orange">Only devices in VLAN 20 see the frame</mark>
 
-10. **Which piece of software is responsible for creating and managing virtual machines, including allocating system resources to each virtual machine as needed?**
+10. **Which piece of software is responsible for <mark class="hltr-yellow">creating</mark> and <mark class="hltr-green">managing</mark> <mark class="hltr-yellow">virtual machines</mark>, including <mark class="hltr-green">allocating system resources</mark> to each virtual machine as <mark class="hltr-yellow">needed</mark>?**
     - <mark class="hltr-orange">hypervisor</mark>
 
-11. **How is an Ethernet MAC address constructed?**
+11. **How is an <mark class="hltr-yellow">Ethernet</mark> <mark class="hltr-green">MAC Address</mark> <mark class="hltr-yellow">constructed</mark>?**
     - <mark class="hltr-orange">The first 3 bytes represent the vendor OUI, and the last 3 bytes are assigned uniquely by the vendor</mark>
 
-12. **Which Cisco SDK works with ACI?**
+12. **Which <mark class="hltr-yellow">Cisco SDK</mark> works with <mark class="hltr-green">ACI</mark>?**
     - <mark class="hltr-orange">Cobra</mark>
 
 13. **What <mark class="hltr-yellow">platforms</mark> are <mark class="hltr-yellow">provided</mark> by <mark class="hltr-yellow">DevNet</mark> for community members to <mark class="hltr-yellow">share solutions</mark>, tool kits, and other resources with each other?**
@@ -66,30 +66,43 @@
     `Main-RT ansible_user=classuser ansible_password=class123! ansible_host=172.20.20.250`
     - <mark class="hltr-orange">Hosts</mark>
 
-19. **Which DevNet resource would a developer use in order to test custom code in a production-like environment?**
+19. **Which <mark class="hltr-yellow">DevNet resource</mark> would a developer use in order to <mark class="hltr-yellow">test custom code</mark> in a production-like environment?**
     - <mark class="hltr-orange">DevNet SandBox</mark>
 
-20. **In which situation would a company implement a reverse proxy as a security solution?**
+20. **In which <mark class="hltr-yellow">situation</mark> would a company <mark class="hltr-yellow">implement</mark> a <mark class="hltr-yellow">reverse proxy</mark> as a <mark class="hltr-yellow">security solution</mark>?**
     - <mark class="hltr-orange">When the company wants all responses to clients to look like they came from the same server instead of individual ones</mark>
 
-21. **A software development company specializes in being able to use whatever software development method their customer wants to use. One customer company wants to use the Agile method. What is a characteristic of this method?**
+21. **A software development company specializes in being able to use whatever software development method their customer wants to use. One customer company wants to use the <mark class="hltr-yellow">Agile Method</mark>. What is a <mark class="hltr-yellow">characteristic</mark> of this <mark class="hltr-yellow">method</mark>?**
     Case 1:
     - <mark class="hltr-orange">A software development process that has the results of one phase feed into the next phase</mark>
 	Case 2:
 	- <mark class="hltr-orange">a software development method that tracks closely with the software development life cycle</mark>
 
-22. **A network engineer is creating a Docker container using the docker build command. If the engineer does not specify a tag, which tag will be used by default?**
+22. **A network engineer is creating a <mark class="hltr-yellow">Docker container</mark> using the <mark class="hltr-yellow">docker build command</mark>. If the engineer <mark class="hltr-yellow">does not specify a tag</mark>, which tag will be used by <mark class="hltr-yellow">default</mark>?**
     - <mark class="hltr-orange">Latest</mark>
 
-23. **Which component in the pyATS ecology handles bundling and running jobs?**
+23. **Which <mark class="hltr-yellow">component</mark> in the <mark class="hltr-yellow">pyATS ecology</mark> <mark class="hltr-green">handles</mark> <mark class="hltr-yellow">bundling</mark> and <mark class="hltr-yellow">running jobs</mark>?**
     - <mark class="hltr-orange">EasyPy</mark>
 
-24. **Which three avenues are available within DevNet for developers who need help with specific developer scenario questions concerning Cisco products? (<mark class="hltr-red">Choose three</mark>)**
-    - <mark class="hltr-yellow">logging ticket</mark>
-    - <mark class="hltr-yellow">posting to a community forum</mark>
-    - <mark class="hltr-yellow">posting to a Webex Teams Space</mark>
+24. **Which three <mark class="hltr-yellow">avenues are available</mark> within DevNet for developers who need <mark class="hltr-yellow">help</mark> with <mark class="hltr-yellow">specific</mark> developer <mark class="hltr-yellow">scenario</mark> <mark class="hltr-yellow">questions</mark> concerning Cisco products? (<mark class="hltr-red">Choose three</mark>)**
+    - <mark class="hltr-orange">logging ticket</mark>
+    - <mark class="hltr-orange">posting to a community forum</mark>
+    - <mark class="hltr-orange">posting to a Webex Teams Space</mark>
 
-25. **A student who is interested in network programmability approaches an instructor for advice on learning more about the subject. The student is a kinesthetic learner who learns by doing. Which DevNet resource should the instructor consider telling the student about?**
-    - <mark class="hltr-yellow">DevNet Learning Labs</mark>
+25. **A student who is interested in <mark class="hltr-yellow">network programmability</mark> approaches an instructor for <mark class="hltr-yellow">advice on learning</mark> more about the subject. The student is a <mark class="hltr-yellow">kinesthetic learner</mark> who learns by doing. Which DevNet resource should the instructor consider telling the student about?**
+    - <mark class="hltr-orange">DevNet Learning Labs</mark>
 
-26. 
+26. **What is the <mark class="hltr-yellow">default shell</mark> commonly used on <mark class="hltr-yellow">macOS</mark> and <mark class="hltr-yellow">Linux</mark>?**
+    - <mark class="hltr-orange">Bash</mark>
+
+27. **What is <mark class="hltr-yellow">immutable infrastructure</mark> in <mark class="hltr-green">DevOps</mark>?**
+    - <mark class="hltr-orange">Infrastructure that is entirely maintained and deployed in code and never subjected to manual changes</mark>
+
+28. **What is the most <mark class="hltr-yellow">common cause</mark> of <mark class="hltr-green">IT outages</mark>?**
+    - <mark class="hltr-orange">An engineer misconfiguring a device or network with manual changes</mark>
+
+29. **Which <mark class="hltr-yellow">string of characters</mark> is used to <mark class="hltr-green">identify the beginning</mark> of a <mark class="hltr-yellow">new separate document</mark> <mark class="hltr-green">when</mark> <mark class="hltr-yellow">multiple documents</mark> are in a <mark class="hltr-green">single</mark> <mark class="hltr-yellow">YAML file</mark>?**
+    - <mark class="hltr-orange">three dashes “—“</mark>
+
+30. **What is the <mark class="hltr-yellow">difference</mark> between <mark class="hltr-green">functions</mark> and <mark class="hltr-yellow">methods</mark> in the <mark class="hltr-green">Python</mark> programming <mark class="hltr-yellow">structure</mark>?**
+    - <mark class="hltr-orange">Functions are standalone code blocks whereas methods are code blocks associated with an object</mark>
