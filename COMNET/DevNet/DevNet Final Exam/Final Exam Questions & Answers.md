@@ -11,7 +11,7 @@
    - <mark class="hltr-orange">The UDP destination port number identifies the application or service on the server which will handle the data</mark>
    - <mark class="hltr-orange">The source port field identifies the running application or service that will handle data returning to the PC</mark>
 
-4. **What type of <mark class="hltr-yellow">attack targets an SQL database</mark> using the input field of a user?**
+4. **What type of <mark class="hltr-yellow">attack targets an SQL database</mark> using the <mark class="hltr-green">input field</mark> of a user?**
    - <mark class="hltr-orange">SQL injection</mark>
 
 5. **Which command can be used on <mark class="hltr-yellow">Linux</mark> and <mark class="hltr-yellow">MAC</mark> hosts to get <mark class="hltr-yellow">IP addressing information</mark>?**
@@ -105,4 +105,25 @@
     - <mark class="hltr-orange">three dashes “—“</mark>
 
 30. **What is the <mark class="hltr-yellow">difference</mark> between <mark class="hltr-green">functions</mark> and <mark class="hltr-yellow">methods</mark> in the <mark class="hltr-green">Python</mark> programming <mark class="hltr-yellow">structure</mark>?**
-    - <mark class="hltr-orange">Functions are standalone code blocks whereas methods are code blocks associated with an object</mark>
+    - <mark class="hltr-pink">Functions are standalone code blocks</mark> whereas <mark class="hltr-cyan">methods are code blocks associated with an object</mark>
+
+31. **Which <mark class="hltr-yellow">command</mark> is used to <mark class="hltr-green">create a new</mark> <mark class="hltr-yellow">Git repository</mark>?**
+    - <mark class="hltr-orange">git init</mark>
+
+32. **Which <mark class="hltr-yellow">stakeholder</mark> <mark class="hltr-green">determines</mark> the <mark class="hltr-yellow">useful value of software product</mark> <mark class="hltr-green">features</mark> in the <mark class="hltr-yellow">Lean process</mark>?**
+    - <mark class="hltr-orange">The Customer</mark>
+
+33. **Match the <mark class="hltr-yellow">SDLC Phase</mark> with its <mark class="hltr-green">Description</mark>**
+    
+| <mark class="hltr-pink">SDLC Phase</mark>                | <mark class="hltr-pink">Description</mark>                                                                                         |
+| :------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------- |
+| <mark class="hltr-orange">Requirements & Analysis</mark> | <mark class="hltr-yellow">The Product Owner and Qualified Team Members gather the Requirements for the Software to be Built</mark> |
+| <mark class="hltr-orange">Implementation</mark>          | <mark class="hltr-yellow">Code is Developed according to Low Level and High Level Design Documents</mark>                          |
+| <mark class="hltr-orange">Deployment</mark>              | <mark class="hltr-yellow">Software is installed into the Production Environment</mark>                                             |
+34. **What is a <mark class="hltr-yellow">principle</mark> of the <mark class="hltr-green">Lean Software</mark> <mark class="hltr-yellow">Development Model</mark>?**
+    - <mark class="hltr-orange">Making decisions as late as possible in the process so that more facts and details are available</mark>
+
+35. **What <mark class="hltr-yellow">character</mark> is used to <mark class="hltr-green">separate</mark> the <mark class="hltr-yellow">key</mark> and <mark class="hltr-green">value</mark> <mark class="hltr-pink">pairs</mark> in <mark class="hltr-yellow">YAML</mark>?**
+    - <mark class="hltr-orange">colon :</mark>
+
+36. 
