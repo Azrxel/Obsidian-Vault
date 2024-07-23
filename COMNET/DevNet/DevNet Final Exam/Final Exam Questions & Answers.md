@@ -33,4 +33,15 @@
    - Only devices in VLAN 20 see the frame
 
 10. **Which piece of software is responsible for creating and managing virtual machines, including allocating system resources to each virtual machine as needed?**
-    - 1651
+    - <mark class="hltr-orange">hypervisor</mark>
+
+11. **How is an Ethernet MAC address constructed?**
+    - <mark class="hltr-orange">The first 3 bytes represent the vendor OUI, and the last 3 bytes are assigned uniquely by the vendor</mark>
+
+12. **Which Cisco SDK works with ACI?**
+    - <mark class="hltr-orange">Cobra</mark>
+
+13. **What platforms are provided by DevNet for community members to share solutions, tool kits, and other resources with each other?**
+    - <mark class="hltr-orange">Forums</mark>
+
+14. 
