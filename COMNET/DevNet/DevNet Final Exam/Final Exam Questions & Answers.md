@@ -129,7 +129,7 @@
 36. **Which <mark class="hltr-yellow">git command</mark> is used to <mark class="hltr-green">compare</mark> <mark class="hltr-yellow">changes</mark> <mark class="hltr-green">between</mark> <mark class="hltr-yellow">files</mark>?**
     - <mark class="hltr-orange">git diff</mark>
 
-37. **Refer to the exhibit. Match the missing components of the Python script for authenticating to the Cisco Network Services Orchestrator and obtaining a list of network devices using the username of “superadmin” and password of “soverysecure!”. (Not all options are used.)**
+37. **Refer to the exhibit (code). Match the missing components of the Python script for authenticating to the Cisco Network Services Orchestrator and obtaining a list of network devices using the username of “superadmin” and password of “soverysecure!”. (Not all options are used.)**
     
     `import requests`
     
@@ -145,7 +145,7 @@
 						`auth=(_Component5_, _Component6_),`
 						`headers=headers,`
 						`verify=False`
-
+						
     `print(respone.text)`
     
 | <mark class="hltr-pink">Script</mark>          | <mark class="hltr-pink">Missing Component</mark> |
@@ -156,4 +156,38 @@
 | <mark class="hltr-orange">get</mark>           | <mark class="hltr-yellow">Component 4</mark>     |
 | <mark class="hltr-orange">username</mark>      | <mark class="hltr-yellow">Component 5</mark>     |
 | <mark class="hltr-orange">password</mark>      | <mark class="hltr-yellow">Component 6</mark>     |
-38. 
+
+38. **What is an example of a <mark class="hltr-yellow">use</mark> <mark class="hltr-pink">supported</mark> by <mark class="hltr-green">Cisco UCS</mark> <mark class="hltr-green">Director</mark> and <mark class="hltr-yellow">UCS Manager</mark>?**
+    - <mark class="hltr-pink">Bare Metal Server Provisioning</mark> and <mark class="hltr-cyan">Monitoring of Virtual Environments</mark>
+
+39. **How can a <mark class="hltr-yellow">Webex Teams administrator</mark> <mark class="hltr-green">retrieve additional details</mark> <mark class="hltr-yellow">about a user</mark> <mark class="hltr-green">through</mark> an <mark class="hltr-yellow">API call</mark>?**
+    - <mark class="hltr-orange">By using the value of the person id key in the API call</mark>
+
+40. **Which <mark class="hltr-yellow">library</mark> is the most <mark class="hltr-green">commonly used</mark> <mark class="hltr-yellow">Python library</mark> for <mark class="hltr-pink">connecting</mark> <mark class="hltr-green">NETCONF clients</mark> with a <mark class="hltr-yellow">NETCONF server</mark>?**
+    - <mark class="hltr-orange">ncclient</mark>
+
+41. **Refer to the exhibit. Match the missing components of the Python script for authenticating to the Cisco DNA Center and obtaining an authentication token using the username of “adminuser” and password of “Sup3rC1$c0”. (Not all options are used.)**
+    
+    `import requests`
+	`import json`
+	`import sys`
+	
+	`dnacip = "cisco44-dnacenter-31.cisco.com"`
+	`username = "adminuser"`
+	`password = "Sup3rC1$c0"`
+	
+	`def get_X_auth_token (_Component1_, username, password):`
+	
+		`post_uri = "https://"+dnacip+"/dna/system/api/v1/auth/token"`
+		`print ("\nAuthenticate: POST $s"$(post_uri))`
+	
+		`try:`
+			`r = requests.post(post_uri, Component2 _= (username, password), verify=False)`
+	`return r.json () ["Token"]`
+	`except:`
+	`print ("Status: $s"#r.status_code)`
+	`print ("Response: $s"#r.text)`
+	`sys.exit ()`
+	
+	`token = get_X_auth_token (dnacip, username, Component3`
+	`print ("returned Authentication Token: ", (token) )`
