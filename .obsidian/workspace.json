@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "COMNET/DevNet/DevNet Final Exam/Final Exam Questions & Answers.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 399.5,
+    "collapsed": true
   },
   "right": {
     "id": "c481cc9c8527ba39",

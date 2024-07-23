@@ -24,10 +24,13 @@
 7. **Which <mark class="hltr-yellow">tool</mark> might a developer use as part of a <mark class="hltr-yellow">Continuous Integration pipeline</mark> in order to build and test source code?**
    - <mark class="hltr-orange">Jenkins</mark>
 
+
+
 8. **A packet is received by a server. The packet has a destination port number of 8008. What protocol or service is requested?**
    - <mark class="hltr-orange">RESTCONF</mark>
 
 9. **A network contains multiple VLANs spanning multiple switches. What happens when a device in VLAN 20 sends a broadcast Ethernet frame?**
-   - <mark class="hltr-orange">Only devices in VLAN 20 see the frame</mark>
+   - Only devices in VLAN 20 see the frame
 
 10. **Which piece of software is responsible for creating and managing virtual machines, including allocating system resources to each virtual machine as needed?**
+    - 1651
