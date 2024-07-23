@@ -8,7 +8,7 @@
 
 3. **Data is being sent from a source PC to a destination server. Which three statements correctly describe the <mark class="hltr-yellow">function of</mark> TCP or <mark class="hltr-yellow">UDP</mark> in this situation? (Choose three.)<mark class="hltr-yellow"></mark><mark class="hltr-yellow"></mark>**
    - <mark class="hltr-orange">UDP segments are encapsulated within IP packets for transport across the network</mark>
-   - <mark class="hltr-orange">The UDP destination port number identifies the application or service on the server which will handle the data.</mark>
+   - <mark class="hltr-orange">The UDP destination port number identifies the application or service on the server which will handle the data</mark>
    - <mark class="hltr-orange">The source port field identifies the running application or service that will handle data returning to the PC</mark>
 
 4. **What type of <mark class="hltr-yellow">attack targets an SQL database</mark> using the input field of a user?**
@@ -28,4 +28,6 @@
    - <mark class="hltr-orange">RESTCONF</mark>
 
 9. **A network contains multiple VLANs spanning multiple switches. What happens when a device in VLAN 20 sends a broadcast Ethernet frame?**
-   
+   - <mark class="hltr-orange">Only devices in VLAN 20 see the frame</mark>
+
+10. **Which piece of software is responsible for creating and managing virtual machines, including allocating system resources to each virtual machine as needed?**
