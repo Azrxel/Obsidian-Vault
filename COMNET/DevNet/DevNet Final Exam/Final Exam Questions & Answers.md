@@ -82,4 +82,14 @@
     - <mark class="hltr-orange">Latest</mark>
 
 23. **Which component in the pyATS ecology handles bundling and running jobs?**
-    - EasyPy
+    - <mark class="hltr-orange">EasyPy</mark>
+
+24. **Which three avenues are available within DevNet for developers who need help with specific developer scenario questions concerning Cisco products? (<mark class="hltr-red">Choose three</mark>)**
+    - <mark class="hltr-yellow">logging ticket</mark>
+    - <mark class="hltr-yellow">posting to a community forum</mark>
+    - <mark class="hltr-yellow">posting to a Webex Teams Space</mark>
+
+25. **A student who is interested in network programmability approaches an instructor for advice on learning more about the subject. The student is a kinesthetic learner who learns by doing. Which DevNet resource should the instructor consider telling the student about?**
+    - <mark class="hltr-yellow">DevNet Learning Labs</mark>
+
+26. 
