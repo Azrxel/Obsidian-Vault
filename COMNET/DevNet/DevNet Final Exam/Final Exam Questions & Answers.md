@@ -66,4 +66,20 @@
     `Main-RT ansible_user=classuser ansible_password=class123! ansible_host=172.20.20.250`
     - <mark class="hltr-orange">Hosts</mark>
 
-19. 
+19. **Which DevNet resource would a developer use in order to test custom code in a production-like environment?**
+    - <mark class="hltr-orange">DevNet SandBox</mark>
+
+20. **In which situation would a company implement a reverse proxy as a security solution?**
+    - <mark class="hltr-orange">When the company wants all responses to clients to look like they came from the same server instead of individual ones</mark>
+
+21. **A software development company specializes in being able to use whatever software development method their customer wants to use. One customer company wants to use the Agile method. What is a characteristic of this method?**
+    Case 1:
+    - <mark class="hltr-orange">A software development process that has the results of one phase feed into the next phase</mark>
+	Case 2:
+	- <mark class="hltr-orange">a software development method that tracks closely with the software development life cycle</mark>
+
+22. **A network engineer is creating a Docker container using the docker build command. If the engineer does not specify a tag, which tag will be used by default?**
+    - <mark class="hltr-orange">Latest</mark>
+
+23. **Which component in the pyATS ecology handles bundling and running jobs?**
+    - EasyPy

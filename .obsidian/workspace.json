@@ -33,16 +33,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6852f6fca2f3850b",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "byCreatedTimeReverse"
-              }
-            }
-          },
-          {
             "id": "a992e70267b20ac0",
             "type": "leaf",
             "state": {
@@ -80,6 +70,16 @@
         "id": "b4173fc305ef9774",
         "type": "tabs",
         "children": [
+          {
+            "id": "6852f6fca2f3850b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
           {
             "id": "c6e8174a8791703e",
             "type": "leaf",
@@ -146,12 +146,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 358.5,
+    "width": 212.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -166,8 +165,8 @@
   },
   "active": "067205b0fbcb5810",
   "lastOpenFiles": [
-    "COMNET/DevNet/DevNet.md",
     "COMNET/DevNet/DevNet Final Exam/Final Exam Questions & Answers.md",
+    "COMNET/DevNet/DevNet.md",
     "COMNET/DevNet/DevNet Final Exam/DevNet Final Exam.md",
     "COMNET/CCNA2/CCNA2.md",
     "COMNET/IT Essentials/IT Essentials.md",
