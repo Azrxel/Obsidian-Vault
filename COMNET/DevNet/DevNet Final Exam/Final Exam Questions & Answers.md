@@ -247,24 +247,28 @@
 	`demo_rooms = [room for room in all rooms if 'oldtest Demo' in room.title]`
 	
 	`for room in demo_rooms:`
-	`api.rooms. ___Component1___(room.id)`
+		`api.rooms. ___Component1___(room.id)`
 	
 	`demo_room = api.rooms.___Component2___('newtest Demo')`
 	
 	`email_addresses = ["Jane@test.com", "Allan@test.com"]`
 	`for email in email_addresses:`
-	Component3
+		`api.___Component3___.create(demo_room.id, personEmail=email)`
 	
-	api.messages.create (demo_room.id,
-	files=["https://www.webex.com/content/dam/wbx/us/images/dg-
-	'ne
+	`api.messages.create (demo_room.id, ___Component4___ ="Welcome to the room!"`
+			`files=["https://www.webex.com/content/dam/wbx/us/images/dg-`
+	`integ/teams_icon.png"])`
 	
-	
-	
-	(room.id)
-	
-	.create(demo_room.id, personEmail=email)
-	
-	Component4 "Welcome to the room!"
-	
-	integ/teams icon.png"])
+| <mark class="hltr-pink">Missing Component</mark> | <mark class="hltr-pink">Component #</mark>   |
+| ------------------------------------------------ | -------------------------------------------- |
+| <mark class="hltr-orange">delete</mark>          | <mark class="hltr-yellow">Component 1</mark> |
+| <mark class="hltr-orange">create</mark>          | <mark class="hltr-yellow">Component 2</mark> |
+| <mark class="hltr-orange">groups</mark>          | <mark class="hltr-yellow">Component 3</mark> |
+| <mark class="hltr-orange">text</mark>            | <mark class="hltr-yellow">Component 4</mark> |
+
+44. **Which two <mark class="hltr-yellow">APIs</mark> allow for Cisco Meraki device <mark class="hltr-yellow">provisioning</mark> and <mark class="hltr-yellow">real-time notifications</mark>? (Choose two.)**
+    - <mark class="hltr-orange">Webhook API</mark>
+    - <mark class="hltr-orange">Dashboard API</mark>
+
+45. **A packet is received by a server. The packet has a destination port number of 443. What protocol or service is requested?**
+    - <mark class="hltr-orange">HTTPS</mark>
