@@ -403,4 +403,8 @@
 68. **A student is learning network automation by using a REST API. The student <mark class="hltr-yellow">sends</mark> a <mark class="hltr-green">request</mark> to a network device and <mark class="hltr-yellow">receives</mark> a <mark class="hltr-green">response</mark> with the <mark class="hltr-yellow">status code</mark> of <mark class="hltr-green">202</mark>. What does this status code mean?**
     - <mark class="hltr-orange">The request has been accepted for processing, but the processing has not been completed</mark>
 
-69. 
+69. **What are two <mark class="hltr-yellow">characteristics</mark> of <mark class="hltr-green">stateless applications</mark>? (Choose two.)**
+    - <mark class="hltr-orange">They can be freely scaled across available capacity without disrupting ongoing customer connections</mark>
+    - <mark class="hltr-orange">They maintain the user state within the local user machine so that automation can work non-destructively</mark>
+
+70. **What is a <mark class="hltr-yellow">characteristic</mark> of the <mark class="hltr-green">continuous integration</mark> <mark class="hltr-pink">component</mark> of the CI/CD philosophy for software development?**
