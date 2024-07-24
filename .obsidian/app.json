@@ -4,5 +4,6 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "PNG Reference",
   "foldIndent": true,
-  "showIndentGuide": true
+  "showIndentGuide": true,
+  "readableLineLength": false
 }

@@ -148,14 +148,14 @@
 						
     `print(respone.text)`
     
-| <mark class="hltr-pink">Script</mark>          | <mark class="hltr-pink">Missing Component</mark> |
-| ---------------------------------------------- | ------------------------------------------------ |
-| <mark class="hltr-orange">superadmin</mark>    | <mark class="hltr-yellow">Component 1</mark>     |
-| <mark class="hltr-orange">soverysecure!</mark> | <mark class="hltr-yellow">Component 2</mark>     |
-| <mark class="hltr-orange">list</mark>          | <mark class="hltr-yellow">Component 3</mark>     |
-| <mark class="hltr-orange">get</mark>           | <mark class="hltr-yellow">Component 4</mark>     |
-| <mark class="hltr-orange">username</mark>      | <mark class="hltr-yellow">Component 5</mark>     |
-| <mark class="hltr-orange">password</mark>      | <mark class="hltr-yellow">Component 6</mark>     |
+| <mark class="hltr-pink">Missing Component</mark> | <mark class="hltr-pink">Component #</mark>   |
+| ------------------------------------------------ | -------------------------------------------- |
+| <mark class="hltr-orange">superadmin</mark>      | <mark class="hltr-yellow">Component 1</mark> |
+| <mark class="hltr-orange">soverysecure!</mark>   | <mark class="hltr-yellow">Component 2</mark> |
+| <mark class="hltr-orange">list</mark>            | <mark class="hltr-yellow">Component 3</mark> |
+| <mark class="hltr-orange">get</mark>             | <mark class="hltr-yellow">Component 4</mark> |
+| <mark class="hltr-orange">username</mark>        | <mark class="hltr-yellow">Component 5</mark> |
+| <mark class="hltr-orange">password</mark>        | <mark class="hltr-yellow">Component 6</mark> |
 
 38. **What is an example of a <mark class="hltr-yellow">use</mark> <mark class="hltr-pink">supported</mark> by <mark class="hltr-green">Cisco UCS</mark> <mark class="hltr-green">Director</mark> and <mark class="hltr-yellow">UCS Manager</mark>?**
     - <mark class="hltr-pink">Bare Metal Server Provisioning</mark> and <mark class="hltr-cyan">Monitoring of Virtual Environments</mark>
@@ -183,11 +183,18 @@
 	
 		`try:`
 			`r = requests.post(post_uri, Component2 _= (username, password), verify=False)`
-	`return r.json () ["Token"]`
-	`except:`
-	`print ("Status: $s"#r.status_code)`
-	`print ("Response: $s"#r.text)`
-	`sys.exit ()`
+				`return r.json () ["Token"]`
+		`except:`
+			`print ("Status: $s"#r.status_code)`
+			`print ("Response: $s"#r.text)`
+			`sys.exit ()`
 	
 	`token = get_X_auth_token (dnacip, username, Component3`
 	`print ("returned Authentication Token: ", (token) )`
+
+
+| <mark class="hltr-pink">Missing Component</mark> | <mark class="hltr-pink">Component #</mark>   |
+| ------------------------------------------------ | -------------------------------------------- |
+| <mark class="hltr-orange">dnacip</mark>          | <mark class="hltr-yellow">Component 1</mark> |
+| <mark class="hltr-orange">auth</mark>            | <mark class="hltr-yellow">Component 2</mark> |
+| <mark class="hltr-orange">password</mark>        | <mark class="hltr-yellow">Component 3</mark> |
