@@ -24,8 +24,6 @@
 7. **Which <mark class="hltr-yellow">tool</mark> might a developer use as part of a <mark class="hltr-yellow">Continuous Integration pipeline</mark> in order to build and test source code?**
    - <mark class="hltr-orange">Jenkins</mark>
 
-
-
 8. **A packet is <mark class="hltr-green">received</mark> by a <mark class="hltr-yellow">server</mark>. The <mark class="hltr-green">packet</mark> has a <mark class="hltr-yellow">destination</mark> <mark class="hltr-green">port</mark> number of <mark class="hltr-yellow">8008</mark>. What <mark class="hltr-green">protocol</mark> or <mark class="hltr-yellow">service</mark> is <mark class="hltr-green">requested</mark>?**
    - <mark class="hltr-orange">RESTCONF</mark>
 
