@@ -413,4 +413,19 @@
 71. **A software development company specializes in being able to use whatever software development method their customer wants to use. One customer company wants to use the <mark class="hltr-yellow">Waterfall method</mark>. What is a <mark class="hltr-green">characteristic</mark> of this <mark class="hltr-pink">method</mark>?**
     - <mark class="hltr-orange">A software devilment process that can only go forward</mark>
 
-72. 
+72. **In which <mark class="hltr-yellow">SDLC phase</mark> is the software product <mark class="hltr-green">installed</mark> into the <mark class="hltr-yellow">production environment</mark> to decide if it is ready for <mark class="hltr-green">release</mark>?**
+    - <mark class="hltr-orange">deployment</mark>
+
+73. **Which <mark class="hltr-yellow">convention</mark> is used in <mark class="hltr-green">Python</mark> to <mark class="hltr-yellow">indicate</mark> that <mark class="hltr-green">methods</mark> and <mark class="hltr-pink">variables</mark> in a <mark class="hltr-yellow">class</mark> are <mark class="hltr-green">private</mark> and not to be used <mark class="hltr-pink">outside</mark> of the <mark class="hltr-yellow">class</mark>?**
+    - <mark class="hltr-orange">By using a single preceding underscore ( _ ) for a method or variable</mark>
+
+74. **A packet is received by a server. The packet has a <mark class="hltr-yellow">destination</mark> <mark class="hltr-green">port</mark> number of <mark class="hltr-pink">80</mark>. What <mark class="hltr-yellow">protocol</mark> or <mark class="hltr-green">service</mark> is <mark class="hltr-pink">requested</mark>?**
+    - HTTP
+
+75. **A network administrator is developing an application to <mark class="hltr-yellow">control</mark> a <mark class="hltr-green">Webex Device</mark> through <mark class="hltr-pink">xAPI</mark>. Which three <mark class="hltr-yellow">protocols</mark> can be used to <mark class="hltr-pink">access</mark> <mark class="hltr-green">xAPI</mark>? (Choose three.)**
+    - <mark class="hltr-orange">Telnet</mark>
+    - <mark class="hltr-orange">HTTP</mark>
+    - <mark class="hltr-orange">RS-232</mark>
+
+76. **Which <mark class="hltr-yellow">type</mark> of <mark class="hltr-green">request</mark> is used to send a <mark class="hltr-pink">message</mark> to a <mark class="hltr-yellow">Webex Teams space</mark> using <mark class="hltr-green">Python</mark> and the <mark class="hltr-pink">Messages API</mark>?**
+    - <mark class="hltr-orange">POST</mark>
