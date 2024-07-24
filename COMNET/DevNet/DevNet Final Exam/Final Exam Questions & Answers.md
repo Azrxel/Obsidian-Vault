@@ -420,7 +420,7 @@
     - <mark class="hltr-orange">By using a single preceding underscore ( _ ) for a method or variable</mark>
 
 74. **A packet is received by a server. The packet has a <mark class="hltr-yellow">destination</mark> <mark class="hltr-green">port</mark> number of <mark class="hltr-pink">80</mark>. What <mark class="hltr-yellow">protocol</mark> or <mark class="hltr-green">service</mark> is <mark class="hltr-pink">requested</mark>?**
-    - HTTP
+    - <mark class="hltr-orange">HTTP</mark>
 
 75. **A network administrator is developing an application to <mark class="hltr-yellow">control</mark> a <mark class="hltr-green">Webex Device</mark> through <mark class="hltr-pink">xAPI</mark>. Which three <mark class="hltr-yellow">protocols</mark> can be used to <mark class="hltr-pink">access</mark> <mark class="hltr-green">xAPI</mark>? (Choose three.)**
     - <mark class="hltr-orange">Telnet</mark>
@@ -449,4 +449,17 @@
     Case 3:
     - <mark class="hltr-orange">A software development process where a particular phase depends on the results of the previous phase</mark>
 
-80. 
+80. **Refer to the exhibit. Match the Python <mark class="hltr-yellow">coding information</mark> in the authentication <mark class="hltr-green">request</mark> to the Cisco DNA Center to the <mark class="hltr-yellow">location</mark> in the <mark class="hltr-pink">script</mark>.**
+    
+    `import requests`
+    
+    `url = "https://myservice/api/v1/resources/house/rooms/id/code_A"`
+    `resp = requests.get(code_B, code_C, verify = False)`
+    `print (resp.status_code)`
+    `print (resp.text)`
+    
+| Information   | Location |
+| ------------- | -------- |
+| 1001001027331 | Code_A   |
+| url           | Code_B   |
+|               | Code_C   |
