@@ -503,6 +503,37 @@
 		`host_list.append([i, item[ 'hostType'], item['hostIp]])`
 	`print (tabulate (host_list, headers=['Number', 'Type', 'IP'], tablefmt='rst'))`
 	
-| Code Component | Functions |
-| -------------- | --------- |
-|                |           |
+| <mark class="hltr-pink">Code Component</mark>                      | <mark class="hltr-pink">Functions</mark>                        |
+| ------------------------------------------------------------------ | --------------------------------------------------------------- |
+| <mark class="hltr-orange">str(resp.status_code)</mark>             | <mark class="hltr-yellow">Converts Data Format</mark>           |
+| <mark class="hltr-orange">verify = False</mark>                    | <mark class="hltr-yellow">Disables SSL Handshake</mark>         |
+| <mark class="hltr-orange">api/v1/host</mark>                       | <mark class="hltr-yellow">Identifies API to be Called</mark>    |
+| <mark class="hltr-orange">'X-Auth-Token':token</mark>              | <mark class="hltr-yellow">Defines API Authentication</mark>     |
+| <mark class="hltr-orange">sys.exit()</mark>                        | <mark class="hltr-yellow">Stops the Program Execution</mark>    |
+| <mark class="hltr-orange">'content-type':'application/json'</mark> | <mark class="hltr-yellow">Identifies Request Data Format</mark> |
+
+84. **A packet is received by a server. The packet has a <mark class="hltr-yellow">destination</mark> <mark class="hltr-green">port</mark> number of <mark class="hltr-pink">123</mark>. What <mark class="hltr-yellow">protocol</mark> or <mark class="hltr-green">service</mark> is requested?**
+    - <mark class="hltr-orange">NTP</mark>
+
+85. **Which <mark class="hltr-yellow">scenario</mark> <mark class="hltr-green">exhibits</mark> the “<mark class="hltr-pink">social proof</mark>” principle of <mark class="hltr-yellow">human influence</mark>?**
+    - <mark class="hltr-orange">A user completes a survey requesting personal information after seeing co-workers completing the survey</mark>
+
+86. **Which <mark class="hltr-yellow">SQL injection</mark> <mark class="hltr-green">defense method</mark> should be used only as a <mark class="hltr-pink">last resort</mark>?**
+    - <mark class="hltr-orange">Escaping all user-supplied input</mark>
+
+87. **Which <mark class="hltr-green">type</mark> of <mark class="hltr-yellow">ISE node</mark> provides <mark class="hltr-pink">network access</mark>, <mark class="hltr-green">posturing</mark>, <mark class="hltr-yellow">guest access</mark>, <mark class="hltr-pink">client provisioning</mark>, and <mark class="hltr-green">profiling services</mark>?**
+    - <mark class="hltr-orange">policy service</mark>
+
+88. **Which <mark class="hltr-yellow">communication protocol</mark> does <mark class="hltr-green">Ansible</mark> use to <mark class="hltr-pink">connect</mark> to <mark class="hltr-yellow">remote devices</mark>?**
+    - <mark class="hltr-orange">SSH</mark>
+
+89. **Refer to the exhibit. Router R2 is configured with <mark class="hltr-yellow">static NAT</mark>. Place in order the <mark class="hltr-green">steps</mark> that <mark class="hltr-pink">occur</mark> when the client accesses the web server through the router. (Not all options are used.)**
+    ![[Pasted image 20240724155628.png]]
+
+| <mark class="hltr-pink">Step</mark>     | <mark class="hltr-pink">Process</mark>                                                     |
+| --------------------------------------- | ------------------------------------------------------------------------------------------ |
+| <mark class="hltr-orange">Step 1</mark> | The client uses the Inside Global Address of the Web Server as the Destination Address to  |
+| <mark class="hltr-orange">Step 2</mark> |                                                                                            |
+| <mark class="hltr-orange">Step 3</mark> |                                                                                            |
+| <mark class="hltr-orange">Step 4</mark> |                                                                                            |
+| <mark class="hltr-orange">Step 5</mark> |                                                                                            |
