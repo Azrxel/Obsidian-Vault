@@ -574,4 +574,47 @@
 96. **Which <mark class="hltr-yellow">Cisco</mark> <mark class="hltr-green">management system</mark> is <mark class="hltr-pink">designed</mark> as the <mark class="hltr-yellow">solution</mark> for <mark class="hltr-green">Software-Defined Networking</mark> and <mark class="hltr-pink">runs</mark> on <mark class="hltr-yellow">Nexus 9000</mark> hardware?**
     - <mark class="hltr-orange">Application Centric Infrastructure platform (ACI)</mark>
 
-97. 
+97. **A developer <mark class="hltr-yellow">issues</mark> a <mark class="hltr-pink">Linux command</mark> <mark class="hltr-green">python3 -m venv devenv</mark> . What is the developer trying to achieve?**
+    - <mark class="hltr-orange">To create a Python 3 virtual environment named devenv</mark>
+
+98. **Refer to the exhibit. Match the missing <mark class="hltr-yellow">components</mark> of the Python <mark class="hltr-green">script</mark> for the <mark class="hltr-pink">APIC-EM REST</mark> API request for the user “<mark class="hltr-yellow">secureuser</mark>”. (Not all options are used.)**
+    
+    `import requests`
+	`import json`
+	
+	`CONTROLLER_IP="devnetapi.cisco.com/sandbox/apic_em"`
+	`GET="get"`
+	`POST="post"`
+	
+	`def getServiceTicket ():`
+		`ticket=None`
+	
+		`payload = {"username":____Component1____","password":"Cisco1123!"}`
+		
+		`url = "https://" + CONTROLLER_IP + "/api/v1/ticket"`
+		
+		`header = {"content-type": "application/json"}`
+		
+		`response=____Component2____.post (url, data=json.dumps (payload),`
+	`header=____Component3____, verify=False)`
+	
+		`if (not response) :`
+			`print ("Data Not Returned!")`
+		`else:`
+			`r_json=response.json ()`
+			`ticket = r_json ["response"] ["serviceTicket"]`
+			`print ("ticket: ", ticket)`
+	`return ticket`
+	
+| <mark class="hltr-pink">Missing Component</mark> | <mark class="hltr-pink">Component #</mark>   |
+| ------------------------------------------------ | -------------------------------------------- |
+| <mark class="hltr-orange">secureuser</mark>      | <mark class="hltr-yellow">Component 1</mark> |
+| <mark class="hltr-orange">requests</mark>        | <mark class="hltr-yellow">Component 2</mark> |
+| <mark class="hltr-orange">header</mark>          | <mark class="hltr-yellow">Component 3</mark> |
+
+99. **Two network engineers are discussing the methods used to <mark class="hltr-yellow">forward frames</mark> through a switch. What is an important <mark class="hltr-green">concept</mark> related to the <mark class="hltr-pink">cut-through</mark> method of <mark class="hltr-yellow">switching</mark>?**
+    - <mark class="hltr-orange">Packets can be relayed with errors when fast-forward switching is used</mark>
+
+100. **When thinking about the <mark class="hltr-pink">functional planes</mark> of a <mark class="hltr-green">network</mark>, what is <mark class="hltr-yellow">unique</mark> about the <mark class="hltr-green">control plane</mark>?**
+    - <mark class="hltr-orange">It includes network traffic being processed by EIGRP or OSPF</mark>
+    Case
