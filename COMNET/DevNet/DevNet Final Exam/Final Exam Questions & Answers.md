@@ -372,9 +372,35 @@
 
 64. **Match the <mark class="hltr-yellow">term</mark> to the <mark class="hltr-green">RESTAPI</mark> <mark class="hltr-yellow">request</mark> http://example.com/update/person?id=42&email=person%40example.com. (Not all options are used.)**
     
-| Term | RESTAPI Request |
-| ---- | --------------- |
-|      | http            |
-|      | update/person   |
-|      | example.com     |
-|      |                 |
+| <mark class="hltr-pink">Term</mark>        | <mark class="hltr-pink">RESTAPI Request</mark>              |
+| ------------------------------------------ | ----------------------------------------------------------- |
+| <mark class="hltr-orange">scheme</mark>    | <mark class="hltr-yellow">http</mark>                       |
+| <mark class="hltr-orange">path</mark>      | <mark class="hltr-yellow">update/person</mark>              |
+| <mark class="hltr-orange">authority</mark> | <mark class="hltr-yellow">example.com</mark>                |
+| <mark class="hltr-orange">query</mark>     | <mark class="hltr-yellow">email=person%40example.com</mark> |
+
+65.  **Which <mark class="hltr-yellow">HTTP</mark> <mark class="hltr-green">status code</mark> <mark class="hltr-yellow">category</mark> is used in the <mark class="hltr-green">response</mark> to <mark class="hltr-yellow">indicate</mark> that a <mark class="hltr-green">REST API request</mark> contains an <mark class="hltr-yellow">error</mark> on the <mark class="hltr-pink">client side</mark>?**
+    - <mark class="hltr-orange">4xx</mark>
+
+66. **Refer to the exhibit. A network administrator is using a <mark class="hltr-yellow">Python script</mark> to <mark class="hltr-green">test</mark> a <mark class="hltr-pink">REST API</mark> <mark class="hltr-yellow">request</mark>. The <mark class="hltr-green">traceback</mark> message <mark class="hltr-yellow">indicates</mark> that there is an <mark class="hltr-green">error</mark> in the <mark class="hltr-yellow">URL</mark>. What is the error?**
+    
+    `import requests`
+    `url = "https://sandboxdnac123.cisco.com/dna/intent/api/v1/network-device"`
+    `resp = requests.get(url)`
+    
+    `Traceback message:`
+    
+    `requests.exceptions.SSLError:`
+    `HTTPSConnectionPool(host='sandboxdnac123.cisco.com', port=443`
+    `Max retries exceeded with url: /dna/intent/api/v1/network-device`
+    
+    - <mark class="hltr-orange">The SSL certificate is invalid</mark>
+
+67. **What are two <mark class="hltr-yellow">requirements</mark> for an <mark class="hltr-green">application</mark> to <mark class="hltr-yellow">communicate</mark> with a <mark class="hltr-green">webhook provider</mark>? (Choose two.**)
+    - <mark class="hltr-orange">The application must always be running</mark>
+    - <mark class="hltr-orange">The application must register a URL with the webhook provider</mark>
+
+68. **A student is learning network automation by using a REST API. The student <mark class="hltr-yellow">sends</mark> a <mark class="hltr-green">request</mark> to a network device and <mark class="hltr-yellow">receives</mark> a <mark class="hltr-green">response</mark> with the <mark class="hltr-yellow">status code</mark> of <mark class="hltr-green">202</mark>. What does this status code mean?**
+    - <mark class="hltr-orange">The request has been accepted for processing, but the processing has not been completed</mark>
+
+69. 
