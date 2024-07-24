@@ -349,4 +349,32 @@
     ![[Resolving Host Names.png|Resolving Host Names]]
     - 192.168.20.3 Port 53
 
-60. 
+60. **Which two <mark class="hltr-yellow">statements</mark> are <mark class="hltr-green">true</mark> about <mark class="hltr-yellow">NTP Servers</mark> in an <mark class="hltr-green">enterprise Network</mark>? (Choose Two)**
+    - <mark class="hltr-orange">NTP servers at stratum 1 are directly connected to an authoritative time source</mark>
+    - <mark class="hltr-orange">NTP servers ensure an accurate time stamp on logging and debugging information</mark>
+
+61. **Match the <mark class="hltr-green">steps</mark> with the <mark class="hltr-yellow">actions</mark> that are involved when an <mark class="hltr-green">internal host</mark> with IP address 192.168.10.10 attempts to send a packet to an <mark class="hltr-yellow">external server</mark> at the IP address 209.165.200.254 across a router R1 that is running <mark class="hltr-green">dynamic NAT</mark>.**
+    
+| <mark class="hltr-pink">Steps</mark>    | <mark class="hltr-pink">Actions</mark>                                                                                                                        |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <mark class="hltr-orange">Step</mark> 1 | <mark class="hltr-yellow">The host sends packets that request a connection to the server at the address 209.165.200.254</mark>                                |
+| <mark class="hltr-orange">Step 2</mark> | <mark class="hltr-yellow">R1 checks that NAT Configuration to determine if this packet should be translated</mark>                                            |
+| <mark class="hltr-orange">Step 3</mark> | <mark class="hltr-yellow">If there is no translation entry for this IP Address, R1 determines that the Source Address 192.168.10.10 must be Translated</mark> |
+| <mark class="hltr-orange">Step 4</mark> | <mark class="hltr-yellow">R1 Selects an available Global Address from the Dynamic Address Pool</mark>                                                         |
+| <mark class="hltr-orange">Step 5</mark> | <mark class="hltr-yellow">R1 replaces the Address 192.168.10.10 with a translated inside Global Address</mark>                                                |
+
+62. **A network administrator can successfully ping the server at www.cisco.com, but cannot ping the company web server located at an ISP in another city. Which <mark class="hltr-yellow">tool</mark> or <mark class="hltr-green">command</mark> would help <mark class="hltr-yellow">identify</mark> the <mark class="hltr-green">specific router</mark> where the <mark class="hltr-yellow">packet</mark> was <mark class="hltr-green">lost</mark> or <mark class="hltr-green">delayed</mark>?**
+    - <mark class="hltr-orange">traceroute</mark>
+
+63. **Which two <mark class="hltr-yellow">HTTP</mark> <mark class="hltr-green">functions</mark> <mark class="hltr-pink">correspond</mark> to the <mark class="hltr-yellow">UPDATE</mark> <mark class="hltr-pink">function</mark> in <mark class="hltr-green">CRUD</mark>? (Choose two.)**
+    - <mark class="hltr-orange">PATCH</mark>
+    - <mark class="hltr-orange">PUT</mark>
+
+64. **Match the <mark class="hltr-yellow">term</mark> to the <mark class="hltr-green">RESTAPI</mark> <mark class="hltr-yellow">request</mark> http://example.com/update/person?id=42&email=person%40example.com. (Not all options are used.)**
+    
+| Term | RESTAPI Request |
+| ---- | --------------- |
+|      | http            |
+|      | update/person   |
+|      | example.com     |
+|      |                 |
