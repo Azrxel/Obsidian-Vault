@@ -234,10 +234,10 @@
 | <mark class="hltr-orange">token</mark>           | <mark class="hltr-yellow">Component 3</mark> |
 
 43. **Refer to the exhibit. Match the missing components of the Python script for the following tasks. (Not all options are used.)  
-    delete all previous demo rooms  
-	create a new demo room  
-	enroll Allan and Jane as members  
-	post a message to the new room**
+<mark class="hltr-pink">delete all previous demo rooms  </mark>
+<mark class="hltr-pink">	create a new demo room  </mark>
+<mark class="hltr-pink">	enroll Allan and Jane as members  </mark>
+<mark class="hltr-pink">	post a message to the new room</mark>**
 	
 	`from webexteamssdk import WebexTeamsAPI`
 	
@@ -270,5 +270,34 @@
     - <mark class="hltr-orange">Webhook API</mark>
     - <mark class="hltr-orange">Dashboard API</mark>
 
-45. **A packet is received by a server. The packet has a destination port number of 443. What protocol or service is requested?**
+45. **A packet is received by a server. The packet has a destination <mark class="hltr-yellow">port</mark> number of <mark class="hltr-green">443</mark>. What <mark class="hltr-yellow">protocol</mark> or <mark class="hltr-green">service</mark> is <mark class="hltr-yellow">requested</mark>?**
     - <mark class="hltr-orange">HTTPS</mark>
+
+46. **When thinking about the functional planes of a network, what is <mark class="hltr-yellow">unique</mark> about the <mark class="hltr-green">data plane</mark>?**
+    Case  1
+    - <mark class="hltr-orange">It is responsible for the switching of packets in hardware</mark>
+    Case 2
+    - <mark class="hltr-orange">It forwards data through a network infrastructure device</mark>
+    Case 3
+    - <mark class="hltr-orange">It forwards data through a network device such as a router or a switch</mark>
+    Case 4
+    - <mark class="hltr-orange">It forwards data through a network device</mark>
+
+47. **Which <mark class="hltr-yellow">Docker component</mark> defines the steps needed to <mark class="hltr-green">create an image</mark> that can be <mark class="hltr-yellow">deployed</mark> in a variety of environments?**
+    - <mark class="hltr-orange">Dockerfile</mark>
+
+48. **Which three statements describe <mark class="hltr-yellow">characteristics</mark> of a <mark class="hltr-green">virtual machine</mark>? (Choose three.)**
+    - <mark class="hltr-orange">It includes a guest operating system</mark>
+    - <mark class="hltr-orange">It runs on top of a hypervisor</mark>
+    - <mark class="hltr-orange">It is completely self-contained with its own emulated storage, memory, and network interfaces</mark>
+<mark class="hltr-pink"></mark><mark class="hltr-pink"></mark><mark class="hltr-pink"></mark>
+49. **Match the use cases of a load balancer to the description. (Not all options are used.)**
+    
+| <mark class="hltr-pink">Load Balancer</mark> | <mark class="hltr-pink">Description</mark>                                                                                 |
+| -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| <mark class="hltr-orange">blue-green</mark>  | <mark class="hltr-yellow">Sends traffic to a new environment, but keeps the old environment ready in case of issues</mark> |
+| <mark class="hltr-orange">canary</mark>      | <mark class="hltr-yellow">diverts a small amount of traffic to a new production environment that is changed</mark>         |
+| <mark class="hltr-orange">round robin</mark> | <mark class="hltr-yellow">sends requests to the next server on the list</mark>                                             |
+
+50. **What are two characteristics of the staging environment of the four-tier deployment environment structure? (Choose two.)**
+    - 
