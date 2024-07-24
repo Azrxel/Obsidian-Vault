@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
-    "collapsed": true
+    "width": 212.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,10 +162,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "067205b0fbcb5810",
+  "active": "6852f6fca2f3850b",
   "lastOpenFiles": [
+    "PNG Reference/DevNet Final Exam",
     "PNG Reference/Pasted image 20240724113631.png",
     "COMNET/DevNet/DevNet Final Exam/Final Exam Questions & Answers.md",
+    "PNG Reference/DevNet Final Exam/Jenkins Pipeline.png",
     "COMNET/DevNet/DevNet.md",
     "COMNET/DevNet/DevNet Final Exam/DevNet Final Exam.md",
     "COMNET/CCNA2/CCNA2.md",
@@ -208,8 +209,6 @@
     "PNG Reference/Module 1/1.1.5 Switch Management Access.png",
     "PNG Reference/Module 1",
     "PNG Reference/Module 3/3.5.3 Results of DTP Configuration.png",
-    "PNG Reference/Module 3/3.5.2 Negotiated Interface Modes.png",
-    "PNG Reference/Module 3/3.5.1 DTP.png",
     "COMNET/CCNA2/Module 3/3.5 Dynamic Trunking Protocol",
     "Untitled.canvas"
   ]

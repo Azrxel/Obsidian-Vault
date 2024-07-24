@@ -299,5 +299,33 @@
 | <mark class="hltr-orange">canary</mark>      | <mark class="hltr-yellow">diverts a small amount of traffic to a new production environment that is changed</mark>         |
 | <mark class="hltr-orange">round robin</mark> | <mark class="hltr-yellow">sends requests to the next server on the list</mark>                                             |
 
-50. **What are two characteristics of the staging environment of the four-tier deployment environment structure? (Choose two.)**
-    - 
+50. **What are <mark class="hltr-green">two</mark> <mark class="hltr-yellow">characteristics</mark> of the <mark class="hltr-yellow">staging environment</mark> of the <mark class="hltr-green">four-tier deployment</mark> environment structure? (Choose two.)**
+    - <mark class="hltr-orange">It is structured as close as possible to the actual production environment</mark>
+    - <mark class="hltr-orange">It is where the code undergoes final acceptance testing in a realistic environment</mark>
+
+51. **Refer to the exhibit. A network engineer has <mark class="hltr-yellow">created</mark> a <mark class="hltr-green">Jenkins pipeline</mark>. Which <mark class="hltr-yellow">menu option</mark> would the engineer use to <mark class="hltr-green">run the pipeline</mark>?**
+    ![[Jenkins Pipeline.png|Jenkins Pipeline]]
+    - <mark class="hltr-orange">Build Now</mark>
+
+52. **A network engineer is <mark class="hltr-yellow">configuring</mark> a <mark class="hltr-green">Jenkins job</mark> and <mark class="hltr-yellow">finishing</mark> with the following <mark class="hltr-green">script</mark> in order to <mark class="hltr-yellow">trigger</mark> the build:**
+    
+    `node {`
+		`stage('Preparation') {`
+			`catchError(buildResult: 'SUCCESS') {`
+				`sh 'docker stop samplerunning'`
+				`sh 'docker rm samplerunning'`
+			`}`
+		`}`
+		`stage('Build') {`
+			`build 'BuildAppJob'`
+		`}`
+		`stage('Results') {`
+			`build 'TestAppJob'`
+		`}`
+	`}`
+	
+	**What is the <mark class="hltr-yellow">purpose</mark> of the <mark class="hltr-green">preparation stage</mark>?**
+	- <mark class="hltr-orange">It makes sure that any previous instances of a particular Docker container are stopped and removed</mark>
+
+53. **Which <mark class="hltr-yellow">technique</mark> is used to make the <mark class="hltr-green">output of password</mark> <mark class="hltr-yellow">hashing nondeterministic</mark>?**
+    - <mark class="hltr-orange">password salting</mark>
