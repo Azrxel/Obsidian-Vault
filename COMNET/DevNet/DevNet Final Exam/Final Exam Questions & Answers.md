@@ -458,8 +458,51 @@
     `print (resp.status_code)`
     `print (resp.text)`
     
-| Information   | Location |
-| ------------- | -------- |
-| 1001001027331 | Code_A   |
-| url           | Code_B   |
-|               | Code_C   |
+| <mark class="hltr-pink">Information</mark>                  | <mark class="hltr-pink">Location</mark> |
+| ----------------------------------------------------------- | --------------------------------------- |
+| <mark class="hltr-orange">1001001027331</mark>              | <mark class="hltr-yellow">Code_A</mark> |
+| <mark class="hltr-orange">url</mark>                        | <mark class="hltr-yellow">Code_B</mark> |
+| <mark class="hltr-orange">auth=("person1","person2</mark>") | <mark class="hltr-yellow">Code_C</mark> |
+
+81. **A student is learning REST API application. The student <mark class="hltr-yellow">constructs</mark> an <mark class="hltr-green">URL</mark> to <mark class="hltr-pink">query</mark> the <mark class="hltr-yellow">MapQuest</mark> <mark class="hltr-green">API</mark> for a <mark class="hltr-pink">route</mark> from <mark class="hltr-yellow">New York</mark>, <mark class="hltr-green">NY</mark> to <mark class="hltr-pink">Boston</mark>, <mark class="hltr-yellow">MA</mark>. What is the <mark class="hltr-green">valid</mark> URI format?**
+    - https://www.mapquestapi.com/directions/v2/route?key= key &from=New+York%2C+NY&to=Boston%2C+MA
+
+82. **Refer to the exhibit. A student constructs a URI to query the MapQuest API for a route from New Orleans, LA to New York, NY. Match the components to the MapQuest URL. (Not all options are used.)**
+    `https://www.mapquestapi.com/component1?component2?&component3&component4`
+    
+| <mark class="hltr-pink">MapQuest URL</mark>             | <mark class="hltr-pink">Component #</mark>   |
+| ------------------------------------------------------- | -------------------------------------------- |
+| <mark class="hltr-orange">directions/v2/route</mark>    | <mark class="hltr-yellow">Component 1</mark> |
+| <mark class="hltr-orange">key=get_your_api_key</mark>   | <mark class="hltr-yellow">Component 2</mark> |
+| <mark class="hltr-orange">from=New+Orleans%2C+LA</mark> | <mark class="hltr-yellow">Component 3</mark> |
+| <mark class="hltr-orange">to=New+York%2C+NY</mark>      | <mark class="hltr-yellow">Component 4</mark> |
+
+83. **Refer to the exhibit. Match the Python code components to the function. (Not all options are used.)**
+    
+    `import requests`
+	`import json`
+	`from tabulate import *`
+	`from apic_em_functions_sol import *`
+	
+	`post_url = 'https://sandboxapicem.cisco.com/api/v1/host'`
+	`ticket = get_ticket ()`
+	`headers = ('content-type': 'application/json', 'X-Auth-Token' :ticket}`
+	
+	`try:`
+		`resp = requests.get (post_url, headers=headers, params="", verify = False)`
+		`response_json = resp.json ()`
+		`print ('Status of /host request: ' + str(resp.status_code) )`
+		
+	`except:`
+		`print ('Something is wrong with GET /host request!')`
+		`sys.exit ()`
+	`host_list=[]`
+	`1=0`
+	`for item in response_json['response']:`
+		`i+=1`
+		`host_list.append([i, item[ 'hostType'], item['hostIp]])`
+	`print (tabulate (host_list, headers=['Number', 'Type', 'IP'], tablefmt='rst'))`
+	
+| Code Component | Functions |
+| -------------- | --------- |
+|                |           |
