@@ -407,4 +407,10 @@
     - <mark class="hltr-orange">They can be freely scaled across available capacity without disrupting ongoing customer connections</mark>
     - <mark class="hltr-orange">They maintain the user state within the local user machine so that automation can work non-destructively</mark>
 
-70. **What is a <mark class="hltr-yellow">characteristic</mark> of the <mark class="hltr-green">continuous integration</mark> <mark class="hltr-pink">component</mark> of the CI/CD philosophy for software development?**
+70. **What is a <mark class="hltr-yellow">characteristic</mark> of the <mark class="hltr-green">continuous integration</mark> <mark class="hltr-pink">component</mark> of the <mark class="hltr-yellow">CI/CD</mark> *philosophy* for software development?**
+    - <mark class="hltr-orange">Code changes are continually merged with the main branch of the application, so change sets are small</mark>
+
+71. **A software development company specializes in being able to use whatever software development method their customer wants to use. One customer company wants to use the <mark class="hltr-yellow">Waterfall method</mark>. What is a <mark class="hltr-green">characteristic</mark> of this <mark class="hltr-pink">method</mark>?**
+    - <mark class="hltr-orange">A software devilment process that can only go forward</mark>
+
+72. 
