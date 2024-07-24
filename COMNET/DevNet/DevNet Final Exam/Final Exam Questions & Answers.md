@@ -637,4 +637,54 @@
 | <mark class="hltr-orange">A message that is used to suggest a lease to a client</mark>                            | <mark class="hltr-yellow">DHCPOFFER</mark>       |
 | <mark class="hltr-orange">A message that is used to acknowledge that the lease is successful</mark>               | <mark class="hltr-yellow">DHCPACK</mark>         |
 
-104. 
+104. **Refer to the exhibit. Match the missing components to the Meraki API script to complete the following tasks. (Not all options are used.)**  
+	**retrieve the organizations**  
+	**retrieve the networks and the corresponding id**  
+	**retrieve the devices and corresponding device id**
+	
+	import Component1
+	import json
+	
+	meraki api key = "ac70ec3c4fcd356f60609227a4133c6092b34clc"
+	url = "https://api.meraki.com/api/v0/organizations"
+	headers = {
+			"X-Cisco-Meraki-API-Key": Component2
+	
+	orgs = requests.get (url, headers=headers)
+	orgs = orgs.json ()
+	print (json.dumps (orgs, indent=4))
+	
+	for org in orgs:
+		print (org['id' ])
+		_Component3_ = "https://api.meraki.com/api/v0/organizations/"+org['id']+"/networks"
+		networks = requests.get (url, headers=headers)
+		networks = networks. json ()
+		print (json.dumps (networks, indent=4))
+		for _Component4 in networks:
+			print (network['id'])
+			url = "https://api.meraki.com/api/v0/networks/"+network['id' ]+"/devices"
+			devices = requests.get (url, headers=headers)
+			devices = devices.json ()
+			print (json.dumps (devices, indent=4))
+			for Component5_in devices:
+				print (device['serial'])
+	
+| <mark class="hltr-pink">Component</mark>        | <mark class="hltr-pink">Component #</mark>   |
+| ----------------------------------------------- | -------------------------------------------- |
+| <mark class="hltr-orange">requests</mark>       | <mark class="hltr-yellow">Component 1</mark> |
+| <mark class="hltr-orange">meraki_api_key</mark> | <mark class="hltr-yellow">Component 2</mark> |
+| <mark class="hltr-orange">url</mark>            | <mark class="hltr-yellow">Component 3</mark> |
+| <mark class="hltr-orange">network</mark>        | <mark class="hltr-yellow">Component 4</mark> |
+| <mark class="hltr-orange">device</mark>         | <mark class="hltr-yellow">Component 5</mark> |
+
+105. **Refer to the exhibit. A student constructs a URL to query the <mark class="hltr-yellow">MapQuest API</mark> for a route from <mark class="hltr-green">New Orleans</mark>, <mark class="hltr-pink">LA</mark> to <mark class="hltr-yellow">New York</mark>, <mark class="hltr-green">NY</mark>. Match the <mark class="hltr-yellow">components</mark> to the <mark class="hltr-pink">MapQuest URL</mark>.**
+     
+| <mark class="hltr-pink">MapQuest URL</mark>             | <mark class="hltr-pink">Component #</mark>   |
+| ------------------------------------------------------- | -------------------------------------------- |
+| <mark class="hltr-orange">directions/v2/route</mark>    | <mark class="hltr-yellow">Component 1</mark> |
+| <mark class="hltr-orange">key=get_your_api_key</mark>   | <mark class="hltr-yellow">Component 2</mark> |
+| <mark class="hltr-orange">from=New+Orleans%2C+LA</mark> | <mark class="hltr-yellow">Component 3</mark> |
+| <mark class="hltr-orange">to=New+York%2C+NY</mark>      | <mark class="hltr-yellow">Component 4</mark> |
+
+106. **When thinking about the <mark class="hltr-green">functional planes</mark> of a network, what is <mark class="hltr-yellow">unique</mark> about the <mark class="hltr-pink">management plane</mark>?**
+     - <mark class="hltr-orange">It includes protocols used to monitor network devices</mark>
