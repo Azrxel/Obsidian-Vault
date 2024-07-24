@@ -346,3 +346,7 @@
     - <mark class="hltr-orange">They are used to eliminate repetitive manual tasks and replace them with automation</mark>
 
 59. **Refer to the exhibit. <mark class="hltr-yellow">PC1</mark> needs to <mark class="hltr-green">resolve the host name</mark> of the <mark class="hltr-yellow">web server</mark> <mark class="hltr-pink">into</mark> an <mark class="hltr-green">IP address</mark> by using <mark class="hltr-yellow">DNS</mark>. What <mark class="hltr-green">destination IP address</mark> and <mark class="hltr-pink">destination port</mark> number will <mark class="hltr-yellow">PC1 assign</mark> to the <mark class="hltr-green">DNS query packet</mark>?**
+    ![[Resolving Host Names.png|Resolving Host Names]]
+    - 192.168.20.3 Port 53
+
+60. 
