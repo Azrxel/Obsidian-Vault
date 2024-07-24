@@ -617,4 +617,24 @@
 
 100. **When thinking about the <mark class="hltr-pink">functional planes</mark> of a <mark class="hltr-green">network</mark>, what is <mark class="hltr-yellow">unique</mark> about the <mark class="hltr-green">control plane</mark>?**
     - <mark class="hltr-orange">It includes network traffic being processed by EIGRP or OSPF</mark>
-    Case
+    - <mark class="hltr-orange">It includes applications and protocols used between network devices such as routers</mark>
+    - <mark class="hltr-orange">It processes network traffic that is paramount to maintaining the functionality of the network infrastructure</mark>
+
+101. **Refer to the exhibit. If PC1 is communicating with a web server on the Internet, which two <mark class="hltr-yellow">TCP/IP</mark> <mark class="hltr-green">layers</mark> are <mark class="hltr-pink">responsible</mark> for <mark class="hltr-yellow">encapsulating</mark> the <mark class="hltr-green">message</mark> that requests data from that particular server and <mark class="hltr-pink">assigning</mark> a source port number? (Choose two.)**
+     ![[Encapsulation & Port Assigning.png|Encapsulation & Port Assigning]]
+     - <mark class="hltr-orange">Transport</mark>
+     - <mark class="hltr-orange">Application</mark>
+
+102. **A network security administrator is evaluating products that automate threat containment through APIs when a threat is detected. Which <mark class="hltr-yellow">Cisco product</mark> with the <mark class="hltr-green">desired capability</mark> <mark class="hltr-pink">provides</mark> a <mark class="hltr-yellow">rule-based engine</mark> for <mark class="hltr-green">enabling</mark> <mark class="hltr-pink">policy-based network access</mark> to users and devices?**
+     - <mark class="hltr-orange">Identity Services Engine</mark>
+
+103. **Match the purpose with its DHCP message type. (Not all options are used.)**
+     
+| <mark class="hltr-pink">Purpose</mark>                                                                            | <mark class="hltr-pink">DHCP Message Type</mark> |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| <mark class="hltr-orange">A message that us used to identify the explicit server and lease offer to accept</mark> | <mark class="hltr-yellow">DHCPREQUEST</mark>     |
+| <mark class="hltr-orange">A message that is used to locate any available DHCP Server on a Network</mark>          | <mark class="hltr-yellow">DHCPDISCOVER</mark>    |
+| <mark class="hltr-orange">A message that is used to suggest a lease to a client</mark>                            | <mark class="hltr-yellow">DHCPOFFER</mark>       |
+| <mark class="hltr-orange">A message that is used to acknowledge that the lease is successful</mark>               | <mark class="hltr-yellow">DHCPACK</mark>         |
+
+104. 
