@@ -329,3 +329,20 @@
 
 53. **Which <mark class="hltr-yellow">technique</mark> is used to make the <mark class="hltr-green">output of password</mark> <mark class="hltr-yellow">hashing nondeterministic</mark>?**
     - <mark class="hltr-orange">password salting</mark>
+
+54. **What does <mark class="hltr-yellow">self-service</mark> refer to in the <mark class="hltr-green">context</mark> of <mark class="hltr-yellow">enterprise IT</mark>?**
+    - <mark class="hltr-orange">Distributing and implementing broad access to public cloud infrastructure-as-a-service services</mark>
+
+55. **Which <mark class="hltr-yellow">statement</mark> <mark class="hltr-green">describes</mark> the term <mark class="hltr-yellow">orchestration</mark> in <mark class="hltr-green">IT automation</mark>?**
+    - <mark class="hltr-orange">Orchestration is aimed at managing workload lifecycles and reacting dynamically to changing conditions in order to optimize processes</mark>
+
+56. **What is an <mark class="hltr-yellow">example</mark> of a <mark class="hltr-green">read-only</mark> <mark class="hltr-yellow">automation solution</mark>?**
+    - <mark class="hltr-orange">Gathering the current list of ACL entries on an IOS XE router and enforcing consistency</mark>
+
+57. **A student is setting up the CSR1000v VM in VirtualBox that is already installed on the local computer. The VM is imported to the VirtualBox and starts successfully. The student tries to verify communications to the CSR1000v VM by opening the Firefox web browser on the local computer and enters the URL https://192.168.56.101 . A security message “<mark class="hltr-yellow">Warning: Potential Security Risk Ahead</mark>” appears. What <mark class="hltr-green">is</mark> the <mark class="hltr-yellow">security issue</mark> that <mark class="hltr-green">results</mark> in this message?**
+    - <mark class="hltr-orange">The SSL/TLS certificate is self-signed by the router</mark>
+
+58. **How do <mark class="hltr-yellow">APIs</mark> <mark class="hltr-green">affect</mark> <mark class="hltr-yellow">traditional</mark> <mark class="hltr-green">IT tasks</mark>?**
+    - <mark class="hltr-orange">They are used to eliminate repetitive manual tasks and replace them with automation</mark>
+
+59. **Refer to the exhibit. <mark class="hltr-yellow">PC1</mark> needs to <mark class="hltr-green">resolve the host name</mark> of the <mark class="hltr-yellow">web server</mark> <mark class="hltr-pink">into</mark> an <mark class="hltr-green">IP address</mark> by using <mark class="hltr-yellow">DNS</mark>. What <mark class="hltr-green">destination IP address</mark> and <mark class="hltr-pink">destination port</mark> number will <mark class="hltr-yellow">PC1 assign</mark> to the <mark class="hltr-green">DNS query packet</mark>?**
