@@ -182,14 +182,14 @@
 		`print ("\nAuthenticate: POST $s"$(post_uri))`
 	
 		`try:`
-			`r = requests.post(post_uri, Component2 _= (username, password), verify=False)`
+			`r = requests.post(post_uri, _Component2 _= (username, password), verify=False)`
 				`return r.json () ["Token"]`
 		`except:`
 			`print ("Status: $s"#r.status_code)`
 			`print ("Response: $s"#r.text)`
 			`sys.exit ()`
 	
-	`token = get_X_auth_token (dnacip, username, Component3`
+	`token = get_X_auth_token (dnacip, username, _Component3`
 	`print ("returned Authentication Token: ", (token) )`
 
 
@@ -198,3 +198,73 @@
 | <mark class="hltr-orange">dnacip</mark>          | <mark class="hltr-yellow">Component 1</mark> |
 | <mark class="hltr-orange">auth</mark>            | <mark class="hltr-yellow">Component 2</mark> |
 | <mark class="hltr-orange">password</mark>        | <mark class="hltr-yellow">Component 3</mark> |
+
+42. **Refer to the exhibit. Match the missing components to the Python script for authenticating to the Cisco DNA Center and obtaining a token using the username of “secureuser” and password of “C1$c0”. (Not all options are used.)**
+    
+    `import requests`
+	`import json`
+	`import sys`
+	
+	`dnacip = "net12-dnacenter-1.cisco.com"`
+	`username = "secureuser"`
+	`password = " _Component1_ "`
+	
+	`def get_X_auth_token(dnacip, username, password) :`
+	
+		post_uri = "https://"+dnacip+"/dna/system/api/v1/auth/token"
+		print ("\nAuthenticate: POST s"(post_uri))
+	
+		try:
+			r = requests.post (post_uri, auth=(username, _Component2_), verify-False)
+			return r.json () ["Token"]
+		
+		except:
+			print ("Status: $s"$r.status_code)
+			print ("Response: $s"\r.text)
+			sys.exit ()
+	
+	`token = get_X_auth _Component3_ (dnacip, username, password`)
+	`print ("returned Authentication Token: ", (token) )`
+	
+
+| <mark class="hltr-pink">Missing Component</mark> | <mark class="hltr-pink">Component #</mark>   |
+| ------------------------------------------------ | -------------------------------------------- |
+| <mark class="hltr-orange">C1$c0</mark>           | <mark class="hltr-yellow">Component 1</mark> |
+| <mark class="hltr-orange">password</mark>        | <mark class="hltr-yellow">Component 2</mark> |
+| <mark class="hltr-orange">token</mark>           | <mark class="hltr-yellow">Component 3</mark> |
+
+43. **Refer to the exhibit. Match the missing components of the Python script for the following tasks. (Not all options are used.)  
+    delete all previous demo rooms  
+	create a new demo room  
+	enroll Allan and Jane as members  
+	post a message to the new room**
+	
+	`from webexteamssdk import WebexTeamsAPI`
+	
+	`api = WebexTeamsAPI ()`
+	
+	`all_rooms = api.rooms.list ()`
+	`demo_rooms = [room for room in all rooms if 'oldtest Demo' in room.title]`
+	
+	`for room in demo_rooms:`
+	`api.rooms. ___Component1___(room.id)`
+	
+	`demo_room = api.rooms.___Component2___('newtest Demo')`
+	
+	`email_addresses = ["Jane@test.com", "Allan@test.com"]`
+	`for email in email_addresses:`
+	Component3
+	
+	api.messages.create (demo_room.id,
+	files=["https://www.webex.com/content/dam/wbx/us/images/dg-
+	'ne
+	
+	
+	
+	(room.id)
+	
+	.create(demo_room.id, personEmail=email)
+	
+	Component4 "Welcome to the room!"
+	
+	integ/teams icon.png"])
