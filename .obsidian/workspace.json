@@ -33,6 +33,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "6852f6fca2f3850b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
             "id": "a992e70267b20ac0",
             "type": "leaf",
             "state": {
@@ -59,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "right": {
     "id": "c481cc9c8527ba39",
@@ -70,16 +79,6 @@
         "id": "b4173fc305ef9774",
         "type": "tabs",
         "children": [
-          {
-            "id": "6852f6fca2f3850b",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "byCreatedTimeReverse"
-              }
-            }
-          },
           {
             "id": "c6e8174a8791703e",
             "type": "leaf",
@@ -150,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
-    "collapsed": true
+    "width": 212.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +161,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6852f6fca2f3850b",
+  "active": "067205b0fbcb5810",
   "lastOpenFiles": [
     "PNG Reference/DevNet Final Exam/Resolving Host Names.png",
     "PNG Reference/DevNet Final Exam",

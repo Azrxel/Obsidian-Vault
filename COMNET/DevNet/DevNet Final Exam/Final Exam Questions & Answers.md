@@ -429,3 +429,24 @@
 
 76. **Which <mark class="hltr-yellow">type</mark> of <mark class="hltr-green">request</mark> is used to send a <mark class="hltr-pink">message</mark> to a <mark class="hltr-yellow">Webex Teams space</mark> using <mark class="hltr-green">Python</mark> and the <mark class="hltr-pink">Messages API</mark>?**
     - <mark class="hltr-orange">POST</mark>
+
+77. **A network administrator is <mark class="hltr-yellow">assigned</mark> the <mark class="hltr-green">172.16.0.0/24</mark> <mark class="hltr-pink">block of addresses</mark> to use in <mark class="hltr-yellow">designing</mark> an IP <mark class="hltr-green">addressing</mark> <mark class="hltr-pink">scheme</mark>. The administrator submits this design for approval:**
+	- <mark class="hltr-cyan">172.16.0.0/26</mark>
+	- <mark class="hltr-cyan">172.16.0.64/27</mark>
+	- <mark class="hltr-cyan">172.16.0.96/26</mark>
+	- <mark class="hltr-cyan">172.16.0.128/27</mark>
+	  
+	**What should be the <mark class="hltr-yellow">response</mark> from the <mark class="hltr-green">senior network</mark> engineer <mark class="hltr-pink">regarding</mark> this <mark class="hltr-yellow">design</mark>?**
+	- <mark class="hltr-orange">This design is flawed because the 172.16.0.96/26 network is not a valid block of addresses</mark>
+
+78. **Which statement <mark class="hltr-yellow">describes</mark> a <mark class="hltr-green">stateful firewall</mark>?**
+    - <mark class="hltr-orange">It can determine if the connection is in the initiation, data transfer, or termination phase</mark>
+
+79. **A software development company specializes in being able to use whatever software development method their customer wants to use. One customer company wants to use the <mark class="hltr-yellow">Lean method</mark>. What is a <mark class="hltr-green">characteristic</mark> of this <mark class="hltr-pink">method</mark>?**
+    - <mark class="hltr-orange">A software development process that has the results of one phase feed into the next phase</mark>
+    Case 2:
+    - <mark class="hltr-orange">A software development process where the highest priority is to satisfy the customer through early and continuous delivery of valuable software</mark>
+    Case 3:
+    - <mark class="hltr-orange">A software development process where a particular phase depends on the results of the previous phase</mark>
+
+80. 
