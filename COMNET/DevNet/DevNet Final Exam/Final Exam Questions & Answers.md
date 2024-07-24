@@ -528,12 +528,50 @@
     - <mark class="hltr-orange">SSH</mark>
 
 89. **Refer to the exhibit. Router R2 is configured with <mark class="hltr-yellow">static NAT</mark>. Place in order the <mark class="hltr-green">steps</mark> that <mark class="hltr-pink">occur</mark> when the client accesses the web server through the router. (Not all options are used.)**
-    ![[Pasted image 20240724155628.png]]
+    ![[Pasted image 20240724155628.png|Static NAT]]
 
-| <mark class="hltr-pink">Step</mark>     | <mark class="hltr-pink">Process</mark>                                                     |
-| --------------------------------------- | ------------------------------------------------------------------------------------------ |
-| <mark class="hltr-orange">Step 1</mark> | The client uses the Inside Global Address of the Web Server as the Destination Address to  |
-| <mark class="hltr-orange">Step 2</mark> |                                                                                            |
-| <mark class="hltr-orange">Step 3</mark> |                                                                                            |
-| <mark class="hltr-orange">Step 4</mark> |                                                                                            |
-| <mark class="hltr-orange">Step 5</mark> |                                                                                            |
+| <mark class="hltr-pink">Step</mark>     | <mark class="hltr-pink">Process</mark>                                                                                                                                                                           |
+| --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <mark class="hltr-orange">Step 1</mark> | <mark class="hltr-yellow">The client uses the Inside Global Address of the Web Server as the Destination Address to send a packet to the Web Server</mark>                                                       |
+| <mark class="hltr-orange">Step 2</mark> | <mark class="hltr-yellow">R2 receives the packet on its outside Interface, then checks and locates the Destination Address in its NAT Table</mark>                                                               |
+| <mark class="hltr-orange">Step 3</mark> | <mark class="hltr-yellow">R2 replaces the inside Global Address with the Inside Local Address of the Web Server and forwards the packet to the Web Server</mark>                                                 |
+| <mark class="hltr-orange">Step 4</mark> | <mark class="hltr-yellow">The Web Server uses the Outside Global Address of the client as the Destination Address when Responding</mark>                                                                         |
+| <mark class="hltr-orange">Step 5</mark> | <mark class="hltr-yellow">R2 receives the packet from the Web Server. R2 checks the NAT table, then translates the Source Address of the Web Server into an Inside Global Address and Forwards the Packet</mark> |
+
+90. **Refer to the exhibit. What is the <mark class="hltr-yellow">function</mark> of the <mark class="hltr-green">identified missing information</mark> in regards to the <mark class="hltr-pink">parameter</mark> and <mark class="hltr-yellow">method</mark> contained in the request?**
+    
+    `import requests`
+    
+	`access_token = 'your_token_here'`
+	`url = 'https://webexapis.com/v1/rooms'`
+	`headers = {`
+	`'Authorization': 'Bearer {}'.format(access_token),`
+	`'Content-Type": 'application/json'`
+	`}`
+	`params={'title': '________?________"`
+	`res = requests.post(url, headers=headers, json=params)`
+	`print(res.json())`
+	
+	- <mark class="hltr-orange">It provides the name for a new Webex teams space</mark>
+
+91. **What is an <mark class="hltr-yellow">architectural constraint</mark> to which a <mark class="hltr-green">true</mark> <mark class="hltr-pink">RESTful API</mark> <mark class="hltr-yellow">web service</mark> must <mark class="hltr-green">adhere</mark>?**
+    - <mark class="hltr-orange">It allows resource caching</mark>
+    Case 2:
+    - <mark class="hltr-orange">It operates in a stateless way</mark>
+
+92. **A packet is received by a server. The packet has a <mark class="hltr-yellow">destination</mark> <mark class="hltr-green">port</mark> number of <mark class="hltr-pink">53</mark>. What protocol or service is requested?**
+    - <mark class="hltr-orange">DNS</mark>
+
+93. **Which <mark class="hltr-green">statement</mark> accurately describes <mark class="hltr-yellow">dynamic NAT</mark>?**
+    - <mark class="hltr-orange">It provides an automated mapping of inside local to inside global IP addresses</mark>
+
+94. **A packet is received by a server. The packet has a <mark class="hltr-yellow">destination</mark> <mark class="hltr-green">port</mark> number of <mark class="hltr-pink">830</mark>. What protocol or service is requested?**
+    - <mark class="hltr-orange">NETCONF</mark>
+
+95. **Which <mark class="hltr-yellow">programming language</mark> is <mark class="hltr-green">supported</mark> by the <mark class="hltr-pink">Webex xAPI</mark> to <mark class="hltr-yellow">develop</mark> <mark class="hltr-green">macros</mark> for <mark class="hltr-pink">on-device</mark> <mark class="hltr-yellow">customization</mark>?**
+    - <mark class="hltr-orange">JavaScript</mark>
+
+96. **Which <mark class="hltr-yellow">Cisco</mark> <mark class="hltr-green">management system</mark> is <mark class="hltr-pink">designed</mark> as the <mark class="hltr-yellow">solution</mark> for <mark class="hltr-green">Software-Defined Networking</mark> and <mark class="hltr-pink">runs</mark> on <mark class="hltr-yellow">Nexus 9000</mark> hardware?**
+    - <mark class="hltr-orange">Application Centric Infrastructure platform (ACI)</mark>
+
+97. 
