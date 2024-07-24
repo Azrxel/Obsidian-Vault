@@ -290,7 +290,7 @@
     - <mark class="hltr-orange">It includes a guest operating system</mark>
     - <mark class="hltr-orange">It runs on top of a hypervisor</mark>
     - <mark class="hltr-orange">It is completely self-contained with its own emulated storage, memory, and network interfaces</mark>
-<mark class="hltr-pink"></mark><mark class="hltr-pink"></mark><mark class="hltr-pink"></mark>
+
 49. **Match the use cases of a load balancer to the description. (Not all options are used.)**
     
 | <mark class="hltr-pink">Load Balancer</mark> | <mark class="hltr-pink">Description</mark>                                                                                 |
