@@ -347,7 +347,7 @@
 
 59. **Refer to the exhibit. <mark class="hltr-yellow">PC1</mark> needs to <mark class="hltr-green">resolve the host name</mark> of the <mark class="hltr-yellow">web server</mark> <mark class="hltr-pink">into</mark> an <mark class="hltr-green">IP address</mark> by using <mark class="hltr-yellow">DNS</mark>. What <mark class="hltr-green">destination IP address</mark> and <mark class="hltr-pink">destination port</mark> number will <mark class="hltr-yellow">PC1 assign</mark> to the <mark class="hltr-green">DNS query packet</mark>?**
     ![[Resolving Host Names.png|Resolving Host Names]]
-    - 192.168.20.3 Port 53
+    - <mark class="hltr-orange">192.168.20.3 Port 53</mark>
 
 60. **Which two <mark class="hltr-yellow">statements</mark> are <mark class="hltr-green">true</mark> about <mark class="hltr-yellow">NTP Servers</mark> in an <mark class="hltr-green">enterprise Network</mark>? (Choose Two)**
     - <mark class="hltr-orange">NTP servers at stratum 1 are directly connected to an authoritative time source</mark>
