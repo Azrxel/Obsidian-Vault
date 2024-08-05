@@ -1,6 +1,5 @@
 ---
 tags:
-  - Module-1
   - Module
 ---
 
