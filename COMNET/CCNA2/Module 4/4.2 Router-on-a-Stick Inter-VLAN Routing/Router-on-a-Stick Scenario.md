@@ -1,0 +1,6 @@
+
+---
+- In the figure, the <mark class="hltr-cyan">R1</mark> <mark class="hltr-green">GigabitEthernet 0/0/1</mark> <mark class="hltr-yellow">Interface</mark> is <mark class="hltr-pink">connected</mark> to the <mark class="hltr-cyan">S1</mark> <mark class="hltr-green">FastEthernet 0/5</mark> <mark class="hltr-yellow">Port</mark>.
+  The <mark class="hltr-cyan">S1</mark> <mark class="hltr-green">FastEthernet 0/1</mark> <mark class="hltr-yellow">Port</mark> is <mark class="hltr-pink">connected</mark> to the <mark class="hltr-cyan">S2</mark> <mark class="hltr-green">FastEthernet 0/1</mark> <mark class="hltr-yellow">Port</mark>.
+  <mark class="hltr-red">These</mark> <u>are</u> <mark class="hltr-cyan">Trunk Links</mark> that are <mark class="hltr-green">required</mark> to <mark class="hltr-yellow">forward traffic</mark> <mark class="hltr-orange">within</mark> and <mark class="hltr-orange">between</mark> <mark class="hltr-pink">VLANs</mark>
+- <u>To</u> route between VLANs, the R1 GigabitEthernet 0/0/1 Interface is logically divided into 3 Sub-Interfaces

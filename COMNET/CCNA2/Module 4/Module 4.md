@@ -10,6 +10,7 @@ tags:
 	- [[2. Legacy Inter-VLAN Routing]]
 	- [[3. Router-on-a-Stick Inter-VLAN Routing]]
 	- [[4. Inter-VLAN Routing on a Layer 3 Switch]]
+- **[[4.2 Router-on-a-Stick Inter-VLAN Routing]]**
 
 %% End Waypoint %%
 
