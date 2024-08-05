@@ -3,4 +3,13 @@
 - In the figure, the <mark class="hltr-cyan">R1</mark> <mark class="hltr-green">GigabitEthernet 0/0/1</mark> <mark class="hltr-yellow">Interface</mark> is <mark class="hltr-pink">connected</mark> to the <mark class="hltr-cyan">S1</mark> <mark class="hltr-green">FastEthernet 0/5</mark> <mark class="hltr-yellow">Port</mark>.
   The <mark class="hltr-cyan">S1</mark> <mark class="hltr-green">FastEthernet 0/1</mark> <mark class="hltr-yellow">Port</mark> is <mark class="hltr-pink">connected</mark> to the <mark class="hltr-cyan">S2</mark> <mark class="hltr-green">FastEthernet 0/1</mark> <mark class="hltr-yellow">Port</mark>.
   <mark class="hltr-red">These</mark> <u>are</u> <mark class="hltr-cyan">Trunk Links</mark> that are <mark class="hltr-green">required</mark> to <mark class="hltr-yellow">forward traffic</mark> <mark class="hltr-orange">within</mark> and <mark class="hltr-orange">between</mark> <mark class="hltr-pink">VLANs</mark>
-- <u>To</u> route between VLANs, the R1 GigabitEthernet 0/0/1 Interface is logically divided into 3 Sub-Interfaces
+  
+- <mark class="hltr-red">To route between VLANs</mark>, the <mark class="hltr-cyan">R1</mark> <mark class="hltr-green">GigabitEthernet 0/0/1</mark> <mark class="hltr-yellow">Interface</mark> is <mark class="hltr-pink">logically divided</mark> into <mark class="hltr-orange">3 Sub-Interfaces</mark>, 
+  as shown in the table.
+  The table shows the 3 VLANs that will be configured on the Switches.
+  
+- Assume that <mark class="hltr-cyan">R1</mark>, <mark class="hltr-cyan">S1</mark>, and <mark class="hltr-cyan">S2</mark> have initial basic configurations.
+  Currently, <mark class="hltr-green">PC1</mark>, and <mark class="hltr-green">PC2</mark> cannot <mark class="hltr-red">ping</mark> each other because they are on <mark class="hltr-yellow">Separate Networks</mark>.
+  Only <mark class="hltr-cyan">S1</mark> and <mark class="hltr-cyan">S2</mark> can <mark class="hltr-red">ping</mark> each other, but they are <mark class="hltr-pink">unreachable</mark> by <mark class="hltr-green">PC1</mark> and <mark class="hltr-green">PC2</mark> because they are also on <mark class="hltr-yellow">Different Networks</mark>.
+
+![[Pasted image 20240805072228.png|Router-on-a-Stick Scenario]]
