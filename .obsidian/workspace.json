@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/2. VLAN and Trunking Configuration.md",
+                "file": "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/3. Router Sub-Interface Configuration.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/2. VLAN and Trunking Configuration.md",
+                "file": "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/3. Router Sub-Interface Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/2. VLAN and Trunking Configuration.md",
+                "file": "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/3. Router Sub-Interface Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/2. VLAN and Trunking Configuration.md"
+                "file": "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/3. Router Sub-Interface Configuration.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "067205b0fbcb5810",
   "lastOpenFiles": [
-    "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/1. Router-on-a-Stick Scenario.md",
     "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/2. VLAN and Trunking Configuration.md",
+    "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/3. Router Sub-Interface Configuration.md",
+    "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/1. Router-on-a-Stick Scenario.md",
     "COMNET/CCNA2/CCNA2.md",
     "PNG Reference/CCNA2/Module 4/Module 4.md",
     "PNG Reference/CCNA2/Module 1/Module 1.md",
@@ -204,7 +205,6 @@
     "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/4. Inter-VLAN Routing on a Layer 3 Switch.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/1.5 Verify Directly Connected Networks.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/1.4 Basic Router Configuration.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/1.3. Secure Remote Access.md",
     "PNG Reference/Module 4/4.1.4 Inter-VLAN Routing on a Layer 3 Switch.png",
     "PNG Reference/Module 4",
     "PNG Reference/Module 4/4.1.2 Legacy Inter-VLAN Routing.png",
