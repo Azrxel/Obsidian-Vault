@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/DevNet/DevNet Final Exam/Final Exam Questions & Answers.md",
+                "file": "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/2. VLAN and Trunking Configuration.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "right": {
     "id": "c481cc9c8527ba39",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/DevNet/DevNet Final Exam/Final Exam Questions & Answers.md",
+                "file": "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/2. VLAN and Trunking Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/DevNet/DevNet Final Exam/Final Exam Questions & Answers.md",
+                "file": "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/2. VLAN and Trunking Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/DevNet/DevNet Final Exam/Final Exam Questions & Answers.md"
+                "file": "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/2. VLAN and Trunking Configuration.md"
               }
             }
           },
@@ -165,51 +164,52 @@
   },
   "active": "067205b0fbcb5810",
   "lastOpenFiles": [
+    "COMNET/CCNA2/CCNA2.md",
+    "PNG Reference/CCNA2/Module 4/Module 4.md",
+    "PNG Reference/CCNA2/Module 1/Module 1.md",
+    "PNG Reference/CCNA2/Module 3/Module 3.md",
+    "PNG Reference/CCNA2/Module 2/Module 2.md",
+    "PNG Reference/CCNA2/CCNA2.md",
+    "COMNET/CCNA2/Module 1/Module 1.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/Basic Device Configuration.md",
+    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1.1. Configuring a Switch with Initial Settings.md",
+    "COMNET/COMNET.md",
+    "Templates/Templates.md",
+    "COMNET/DevNet/DevNet.md",
+    "Obsidian Vault/COMNET/CCNA2/Module 1/Module 1.md",
+    "Obsidian Vault/COMNET/CCNA2/Module 1",
+    "Obsidian Vault/COMNET/CCNA2",
+    "Obsidian Vault/COMNET",
+    "Obsidian Vault",
+    "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/2. VLAN and Trunking Configuration.md",
+    "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/4.2 Router-on-a-Stick Inter-VLAN Routing.md",
+    "COMNET/CCNA2/Module 4/Module 4.md",
+    "COMNET/DevNet/DevNet Final Exam/Final Exam Questions & Answers.md",
     "PNG Reference/DevNet Final Exam/Encapsulation & Port Assigning.png",
     "PNG Reference/DevNet Final Exam/Pasted image 20240724155628.png",
     "PNG Reference/Pasted image 20240724153456.png",
-    "COMNET/DevNet/DevNet Final Exam/Final Exam Questions & Answers.md",
     "PNG Reference/DevNet Final Exam/Resolving Host Names.png",
     "PNG Reference/DevNet Final Exam",
     "PNG Reference/Pasted image 20240724113631.png",
     "PNG Reference/DevNet Final Exam/Jenkins Pipeline.png",
-    "COMNET/DevNet/DevNet.md",
     "COMNET/DevNet/DevNet Final Exam/DevNet Final Exam.md",
-    "COMNET/CCNA2/CCNA2.md",
     "COMNET/IT Essentials/IT Essentials.md",
     "COMNET/IT Essentials/Final Exam/Final Exam.md",
     "COMNET/DevNet/DevNet Final Exam",
     "COMNET/DevNet",
-    "COMNET/COMNET.md",
     "Eish, got it working/Eish, got it working.md",
     "Eish, got it working",
     "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/4. Inter-VLAN Routing on a Layer 3 Switch.md",
-    "COMNET/CCNA2/Module 4/Module 4.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/1.5 Verify Directly Connected Networks.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/1.4 Basic Router Configuration.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/1.3. Secure Remote Access.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/1.2. Configure Switch Ports.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1.1. Configuring a Switch with Initial Settings.md",
-    "COMNET/CCNA2/Module 1/Module 1.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/Basic Device Configuration.md",
-    "COMNET/CCNA2/Module 2/Module 2.md",
-    "COMNET/CCNA2/Module 2/Switching Concepts/Switching Concepts.md",
-    "COMNET/CCNA2/Module 2/Switching Concepts/2.2. Switching Domains/2.2. Switching Domains.md",
-    "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/2.1. Frame Forwarding.md",
-    "COMNET/CCNA2/Module 3/Module 3.md",
-    "COMNET/CCNA2/Module 3/3.5 Dynamic Trunking Protocol/3.5 Dynamic Trunking Protocol.md",
     "PNG Reference/Module 4/4.1.4 Inter-VLAN Routing on a Layer 3 Switch.png",
-    "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/3. Router-on-a-Stick Inter-VLAN Routing.md",
-    "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/2. Legacy Inter-VLAN Routing.md",
     "PNG Reference/Module 4",
     "PNG Reference/Module 4/4.1.2 Legacy Inter-VLAN Routing.png",
     "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation",
-    "COMNET/CCNA2/Module 4",
     "PNG Reference/Module 3/3.5.4 Verify DTP Mode.png",
     "PNG Reference/Module 3/3.1.1 VLAN Segmentation.png",
-    "PNG Reference/Module 3",
-    "PNG Reference/Module 2",
-    "PNG Reference/Module 1",
     "Untitled.canvas"
   ]
 }
