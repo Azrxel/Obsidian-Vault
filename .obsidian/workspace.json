@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 399.5,
+    "collapsed": true
   },
   "right": {
     "id": "c481cc9c8527ba39",
@@ -164,6 +165,8 @@
   },
   "active": "067205b0fbcb5810",
   "lastOpenFiles": [
+    "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/1. Router-on-a-Stick Scenario.md",
+    "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/2. VLAN and Trunking Configuration.md",
     "COMNET/CCNA2/CCNA2.md",
     "PNG Reference/CCNA2/Module 4/Module 4.md",
     "PNG Reference/CCNA2/Module 1/Module 1.md",
@@ -181,7 +184,6 @@
     "Obsidian Vault/COMNET/CCNA2",
     "Obsidian Vault/COMNET",
     "Obsidian Vault",
-    "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/2. VLAN and Trunking Configuration.md",
     "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/4.2 Router-on-a-Stick Inter-VLAN Routing.md",
     "COMNET/CCNA2/Module 4/Module 4.md",
     "COMNET/DevNet/DevNet Final Exam/Final Exam Questions & Answers.md",
@@ -203,7 +205,6 @@
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.5 Verify Directly Connected Networks/1.5 Verify Directly Connected Networks.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.4 Basic Router Configuration/1.4 Basic Router Configuration.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.3. Secure Remote Access/1.3. Secure Remote Access.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.2. Configure Switch Ports/1.2. Configure Switch Ports.md",
     "PNG Reference/Module 4/4.1.4 Inter-VLAN Routing on a Layer 3 Switch.png",
     "PNG Reference/Module 4",
     "PNG Reference/Module 4/4.1.2 Legacy Inter-VLAN Routing.png",
