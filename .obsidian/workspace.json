@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA2/Module 4/4.3 Inter-VLAN Routing using Layer 3 Switches/1. Layer 3 Switch Inter-VLAN Routing.md",
+                "file": "Templates/Templates.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA2/Module 4/4.3 Inter-VLAN Routing using Layer 3 Switches/1. Layer 3 Switch Inter-VLAN Routing.md",
+                "file": "Templates/Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA2/Module 4/4.3 Inter-VLAN Routing using Layer 3 Switches/1. Layer 3 Switch Inter-VLAN Routing.md",
+                "file": "Templates/Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA2/Module 4/4.3 Inter-VLAN Routing using Layer 3 Switches/1. Layer 3 Switch Inter-VLAN Routing.md"
+                "file": "Templates/Templates.md"
               }
             }
           },
@@ -164,6 +164,10 @@
   },
   "active": "067205b0fbcb5810",
   "lastOpenFiles": [
+    "COMNET/CCNA2/Module 4/4.3 Inter-VLAN Routing using Layer 3 Switches/2. Layer 3 Switch Scenario.md",
+    "PNG Reference/4.3.2 Layer 3 Switch Scenario.png",
+    "COMNET/CCNA2/CCNA2.md",
+    "COMNET/CCNA2/Module 4/4.3 Inter-VLAN Routing using Layer 3 Switches/1. Layer 3 Switch Inter-VLAN Routing.md",
     "COMNET/CCNA2/Module 1/Module 1.md",
     "COMNET/CCNA2/Module 2/Switching Concepts/Switching Concepts.md",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/2.1. Frame Forwarding.md",
@@ -171,7 +175,6 @@
     "COMNET/CCNA2/Module 3/Module 3.md",
     "COMNET/CCNA2/Module 2/Module 2.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/Basic Device Configuration.md",
-    "COMNET/CCNA2/Module 4/4.3 Inter-VLAN Routing using Layer 3 Switches/1. Layer 3 Switch Inter-VLAN Routing.md",
     "COMNET/CCNA2/Module 4/Module 4.md",
     "COMNET/CCNA2/Module 4/4.3 Inter-VLAN Routing using Layer 3 Switches",
     "COMNET/CCNA2/Module 4/4.1 Inter-VLAN Routing Operation/4.1 Inter-VLAN Routing Operation.md",
@@ -180,7 +183,6 @@
     "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/1. Router-on-a-Stick Scenario.md",
     "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/3. Router Sub-Interface Configuration.md",
     "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/2. VLAN and Trunking Configuration.md",
-    "COMNET/CCNA2/CCNA2.md",
     "PNG Reference/CCNA2/Module 4/Module 4.md",
     "PNG Reference/CCNA2/Module 1/Module 1.md",
     "PNG Reference/CCNA2/Module 3/Module 3.md",
@@ -189,8 +191,6 @@
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1.1. Configuring a Switch with Initial Settings.md",
     "COMNET/COMNET.md",
     "Templates/Templates.md",
-    "COMNET/DevNet/DevNet.md",
-    "Obsidian Vault/COMNET/CCNA2/Module 1/Module 1.md",
     "Obsidian Vault/COMNET/CCNA2/Module 1",
     "Obsidian Vault/COMNET/CCNA2",
     "Obsidian Vault/COMNET",
@@ -209,7 +209,6 @@
     "PNG Reference/Module 4",
     "PNG Reference/Module 4/4.1.2 Legacy Inter-VLAN Routing.png",
     "PNG Reference/Module 3/3.5.4 Verify DTP Mode.png",
-    "PNG Reference/Module 3/3.1.1 VLAN Segmentation.png",
     "Untitled.canvas"
   ]
 }
