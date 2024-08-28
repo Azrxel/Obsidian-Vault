@@ -4,6 +4,8 @@
 	- [[2. Components of OSPF]]
 	- [[3. Link-State Operation]]
 	- [[4. Single-Area and Multiarea OSPF]]
+	- [[5. Multiarea OSPF]]
+	- [[6. OSPFv3]]
 
 %% End Waypoint %%
 
