@@ -7,6 +7,8 @@
 - **1.3 OSPF Operation**
 	- [[1. OSPF Operational States]]
 	- [[2. Establish Neighbor Adjacencies]]
+	- [[3. Synchronizing OSPF Databases]]
+	- [[4. The Need for a DR]]
 
 %% End Waypoint %%
 

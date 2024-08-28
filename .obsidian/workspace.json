@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/2. Establish Neighbor Adjacencies.md",
+                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/4. The Need for a DR.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/2. Establish Neighbor Adjacencies.md",
+                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/4. The Need for a DR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/2. Establish Neighbor Adjacencies.md",
+                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/4. The Need for a DR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/2. Establish Neighbor Adjacencies.md"
+                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/4. The Need for a DR.md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "067205b0fbcb5810",
   "lastOpenFiles": [
-    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/1. OSPF Operational States.md",
+    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/3. Synchronizing OSPF Databases.md",
+    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/4. The Need for a DR.md",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/2. Establish Neighbor Adjacencies.md",
+    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/1. OSPF Operational States.md",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md",
     "PNG Reference/CCNA3/Module 1/1.2.3 Hello Packet.png",
     "COMNET/COMNET.md",
@@ -201,8 +203,6 @@
     "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/3.1. Overview of VLANs.md",
     "COMNET/CCNA2/Module 3/Module 3.md",
     "COMNET/CCNA2/Module 2/Module 2.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/Basic Device Configuration.md",
-    "COMNET/CCNA2/Module 4/Module 4.md",
     "COMNET/CCNA2/Module 4/4.3 Inter-VLAN Routing using Layer 3 Switches",
     "Obsidian Vault/COMNET/CCNA2/Module 1",
     "Obsidian Vault/COMNET/CCNA2",
