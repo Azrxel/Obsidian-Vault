@@ -1,5 +1,8 @@
 {
   "cssTheme": "Tokyo Night",
   "accentColor": "#824ce6",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "snippet"
+  ]
 }
