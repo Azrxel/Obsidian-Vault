@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md",
+                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1. Introduction to OSPF.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md",
+                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1. Introduction to OSPF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md",
+                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1. Introduction to OSPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md"
+                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1. Introduction to OSPF.md"
               }
             }
           },
@@ -162,10 +162,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "067205b0fbcb5810",
+  "active": "6852f6fca2f3850b",
   "lastOpenFiles": [
-    "COMNET/CCNA2/Module 1/Module 1.md",
+    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md",
+    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1. Introduction to OSPF.md",
+    "COMNET/CCNA2/Module 1/Module 1.md",
     "COMNET/CCNA2/CCNA2.md",
     "Templates/Templates.md",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts",
@@ -191,8 +193,6 @@
     "PNG Reference/CCNA2/Module 1/Module 1.md",
     "PNG Reference/CCNA2/Module 3/Module 3.md",
     "PNG Reference/CCNA2/Module 2/Module 2.md",
-    "PNG Reference/CCNA2/CCNA2.md",
-    "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1.1. Configuring a Switch with Initial Settings.md",
     "Obsidian Vault/COMNET/CCNA2/Module 1",
     "Obsidian Vault/COMNET/CCNA2",
     "Obsidian Vault/COMNET",

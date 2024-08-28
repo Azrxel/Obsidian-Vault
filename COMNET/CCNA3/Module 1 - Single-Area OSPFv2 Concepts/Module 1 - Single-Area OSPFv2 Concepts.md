@@ -1,5 +1,6 @@
 %% Begin Waypoint %%
-
+- [[1. Introduction to OSPF]]
+- **1.1 OSPF Features and Characteristics**
 
 %% End Waypoint %%
 
@@ -12,9 +13,10 @@ Module Objectives: Explain how single-area OSPF operates in both point-to-point 
 
 
 
-| Topic Title                       | Topic Objective                                    |
-| --------------------------------- | -------------------------------------------------- |
-| OSPF Features and Characteristics | Describe basic OSPF features and characteristics   |
-|                                   | Describe the OSPF packet types used in single-area |
+| Topic Title                       | Topic Objective                                         |
+| --------------------------------- | ------------------------------------------------------- |
+| OSPF Features and Characteristics | Describe basic OSPF features and characteristics        |
+| OSPF Packets                      | Describe the OSPF packet types used in single-area OSPF |
+| OSPF Operation                    | Explain how single-area OSPF operates                   |
 
 
