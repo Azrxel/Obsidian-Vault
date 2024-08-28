@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Templates.md",
+                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Templates.md",
+                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Templates.md",
+                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Templates.md"
+                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md"
               }
             }
           },
@@ -162,15 +162,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c85be4791bcdc860",
+  "active": "067205b0fbcb5810",
   "lastOpenFiles": [
-    "COMNET/COMNET.md",
+    "COMNET/CCNA2/Module 1/Module 1.md",
+    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md",
+    "COMNET/CCNA2/CCNA2.md",
     "Templates/Templates.md",
+    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts",
+    "COMNET/COMNET.md",
     "COMNET/CCNA2/Module 4/4.3 Inter-VLAN Routing using Layer 3 Switches/2. Layer 3 Switch Scenario.md",
     "PNG Reference/4.3.2 Layer 3 Switch Scenario.png",
-    "COMNET/CCNA2/CCNA2.md",
     "COMNET/CCNA2/Module 4/4.3 Inter-VLAN Routing using Layer 3 Switches/1. Layer 3 Switch Inter-VLAN Routing.md",
-    "COMNET/CCNA2/Module 1/Module 1.md",
     "COMNET/CCNA2/Module 2/Switching Concepts/Switching Concepts.md",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/2.1. Frame Forwarding.md",
     "COMNET/CCNA2/Module 3/3.1. Overview of VLANs/3.1. Overview of VLANs.md",
@@ -206,7 +208,6 @@
     "COMNET/DevNet",
     "Eish, got it working",
     "PNG Reference/Module 4/4.1.4 Inter-VLAN Routing on a Layer 3 Switch.png",
-    "PNG Reference/Module 4",
     "PNG Reference/Module 4/4.1.2 Legacy Inter-VLAN Routing.png",
     "PNG Reference/Module 3/3.5.4 Verify DTP Mode.png",
     "Untitled.canvas"
