@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
 - **[[1.1 OSPF Features and Characteristics]]**
 - **1.2 OSPF Packets**
+	- [[1. Types of OSPF Packets]]
 
 %% End Waypoint %%
 

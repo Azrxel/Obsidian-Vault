@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md",
+                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.2 OSPF Packets/1. Types of OSPF Packets.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md",
+                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.2 OSPF Packets/1. Types of OSPF Packets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md",
+                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.2 OSPF Packets/1. Types of OSPF Packets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md"
+                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.2 OSPF Packets/1. Types of OSPF Packets.md"
               }
             }
           },
@@ -162,8 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6852f6fca2f3850b",
+  "active": "067205b0fbcb5810",
   "lastOpenFiles": [
+    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md",
+    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.2 OSPF Packets/1. Types of OSPF Packets.md",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.2 OSPF Packets",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/1.1 OSPF Features and Characteristics.md",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/6. OSPFv3.md",
@@ -172,7 +174,6 @@
     "PNG Reference/CCNA3/Module 1/1.1.4 Single-Area OSPF.png",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/4. Single-Area and Multiarea OSPF.md",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/3. Link-State Operation.md",
-    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/2. Components of OSPF.md",
     "PNG Reference/DevNet Final Exam/Pasted image 20240724155628.png",
     "PNG Reference/CCNA3/Module 1/1.1.2 SPF Algorithm.png",
@@ -207,7 +208,6 @@
     "PNG Reference/DevNet Final Exam/Encapsulation & Port Assigning.png",
     "PNG Reference/Pasted image 20240724153456.png",
     "PNG Reference/DevNet Final Exam/Resolving Host Names.png",
-    "PNG Reference/DevNet Final Exam",
     "PNG Reference/Pasted image 20240724113631.png",
     "PNG Reference/DevNet Final Exam/Jenkins Pipeline.png",
     "Untitled.canvas"
