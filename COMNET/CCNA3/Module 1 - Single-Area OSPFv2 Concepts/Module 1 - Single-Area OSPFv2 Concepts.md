@@ -6,6 +6,7 @@
 	- [[3. Hello Packet]]
 - **1.3 OSPF Operation**
 	- [[1. OSPF Operational States]]
+	- [[2. Establish Neighbor Adjacencies]]
 
 %% End Waypoint %%
 
