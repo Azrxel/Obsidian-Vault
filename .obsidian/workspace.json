@@ -145,12 +145,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
-    "collapsed": true
+    "width": 356.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,8 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "067205b0fbcb5810",
+  "active": "c85be4791bcdc860",
   "lastOpenFiles": [
+    "COMNET/COMNET.md",
+    "Templates/Templates.md",
     "COMNET/CCNA2/Module 4/4.3 Inter-VLAN Routing using Layer 3 Switches/2. Layer 3 Switch Scenario.md",
     "PNG Reference/4.3.2 Layer 3 Switch Scenario.png",
     "COMNET/CCNA2/CCNA2.md",
@@ -189,8 +191,6 @@
     "PNG Reference/CCNA2/Module 2/Module 2.md",
     "PNG Reference/CCNA2/CCNA2.md",
     "COMNET/CCNA2/Module 1/Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1.1. Configuring a Switch with Initial Settings.md",
-    "COMNET/COMNET.md",
-    "Templates/Templates.md",
     "Obsidian Vault/COMNET/CCNA2/Module 1",
     "Obsidian Vault/COMNET/CCNA2",
     "Obsidian Vault/COMNET",
