@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
-- [[1. Introduction to OSPF]]
 - **1.1 OSPF Features and Characteristics**
+	- [[1. Introduction to OSPF]]
+	- [[2. Components of OSPF]]
 
 %% End Waypoint %%
 
