@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/2. Components of OSPF.md",
+                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/4. Single-Area and Multiarea OSPF.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/2. Components of OSPF.md",
+                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/4. Single-Area and Multiarea OSPF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/2. Components of OSPF.md",
+                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/4. Single-Area and Multiarea OSPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/2. Components of OSPF.md"
+                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/4. Single-Area and Multiarea OSPF.md"
               }
             }
           },
@@ -164,17 +164,23 @@
   },
   "active": "067205b0fbcb5810",
   "lastOpenFiles": [
-    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/1. Introduction to OSPF.md",
-    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/2. Components of OSPF.md",
-    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics",
+    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/3. Link-State Operation.md",
+    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/4. Single-Area and Multiarea OSPF.md",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md",
+    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/2. Components of OSPF.md",
+    "PNG Reference/DevNet Final Exam/Pasted image 20240724155628.png",
+    "PNG Reference/CCNA3/Module 1/1.1.2 SPF Algorithm.png",
+    "PNG Reference/CCNA3/Module 1",
+    "PNG Reference/CCNA3",
+    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/1. Introduction to OSPF.md",
+    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics",
     "COMNET/CCNA2/Module 1/Module 1.md",
     "COMNET/CCNA2/CCNA2.md",
     "Templates/Templates.md",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts",
     "COMNET/COMNET.md",
     "COMNET/CCNA2/Module 4/4.3 Inter-VLAN Routing using Layer 3 Switches/2. Layer 3 Switch Scenario.md",
-    "PNG Reference/4.3.2 Layer 3 Switch Scenario.png",
+    "PNG Reference/CCNA2/Module 4/4.3.2 Layer 3 Switch Scenario.png",
     "COMNET/CCNA2/Module 4/4.3 Inter-VLAN Routing using Layer 3 Switches/1. Layer 3 Switch Inter-VLAN Routing.md",
     "COMNET/CCNA2/Module 2/Switching Concepts/Switching Concepts.md",
     "COMNET/CCNA2/Module 2/Switching Concepts/2.1. Frame Forwarding/2.1. Frame Forwarding.md",
@@ -192,24 +198,18 @@
     "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/2. VLAN and Trunking Configuration.md",
     "PNG Reference/CCNA2/Module 4/Module 4.md",
     "PNG Reference/CCNA2/Module 1/Module 1.md",
-    "PNG Reference/CCNA2/Module 3/Module 3.md",
-    "PNG Reference/CCNA2/Module 2/Module 2.md",
     "Obsidian Vault/COMNET/CCNA2/Module 1",
     "Obsidian Vault/COMNET/CCNA2",
     "Obsidian Vault/COMNET",
     "Obsidian Vault",
     "PNG Reference/DevNet Final Exam/Encapsulation & Port Assigning.png",
-    "PNG Reference/DevNet Final Exam/Pasted image 20240724155628.png",
     "PNG Reference/Pasted image 20240724153456.png",
     "PNG Reference/DevNet Final Exam/Resolving Host Names.png",
     "PNG Reference/DevNet Final Exam",
     "PNG Reference/Pasted image 20240724113631.png",
     "PNG Reference/DevNet Final Exam/Jenkins Pipeline.png",
-    "COMNET/DevNet/DevNet Final Exam",
-    "COMNET/DevNet",
     "PNG Reference/Module 4/4.1.4 Inter-VLAN Routing on a Layer 3 Switch.png",
     "PNG Reference/Module 4/4.1.2 Legacy Inter-VLAN Routing.png",
-    "PNG Reference/Module 3/3.5.4 Verify DTP Mode.png",
     "Untitled.canvas"
   ]
 }

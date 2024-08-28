@@ -2,6 +2,8 @@
 - **1.1 OSPF Features and Characteristics**
 	- [[1. Introduction to OSPF]]
 	- [[2. Components of OSPF]]
+	- [[3. Link-State Operation]]
+	- [[4. Single-Area and Multiarea OSPF]]
 
 %% End Waypoint %%
 
