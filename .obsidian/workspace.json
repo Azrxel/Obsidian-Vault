@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/6. OSPFv3.md",
+                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/6. OSPFv3.md",
+                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/6. OSPFv3.md",
+                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/6. OSPFv3.md"
+                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md"
               }
             }
           },
@@ -162,10 +162,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "067205b0fbcb5810",
+  "active": "6852f6fca2f3850b",
   "lastOpenFiles": [
-    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/5. Multiarea OSPF.md",
+    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.2 OSPF Packets",
+    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/1.1 OSPF Features and Characteristics.md",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/6. OSPFv3.md",
+    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/5. Multiarea OSPF.md",
     "PNG Reference/CCNA3/Module 1/1.1.5 Multiarea OSPF.png",
     "PNG Reference/CCNA3/Module 1/1.1.4 Single-Area OSPF.png",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/4. Single-Area and Multiarea OSPF.md",
@@ -198,8 +200,6 @@
     "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/4.2 Router-on-a-Stick Inter-VLAN Routing.md",
     "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/4. Router-on-a-Stick Inter-VLAN Router Verification.md",
     "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/1. Router-on-a-Stick Scenario.md",
-    "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/3. Router Sub-Interface Configuration.md",
-    "COMNET/CCNA2/Module 4/4.2 Router-on-a-Stick Inter-VLAN Routing/2. VLAN and Trunking Configuration.md",
     "Obsidian Vault/COMNET/CCNA2/Module 1",
     "Obsidian Vault/COMNET/CCNA2",
     "Obsidian Vault/COMNET",

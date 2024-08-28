@@ -1,11 +1,6 @@
 %% Begin Waypoint %%
-- **1.1 OSPF Features and Characteristics**
-	- [[1. Introduction to OSPF]]
-	- [[2. Components of OSPF]]
-	- [[3. Link-State Operation]]
-	- [[4. Single-Area and Multiarea OSPF]]
-	- [[5. Multiarea OSPF]]
-	- [[6. OSPFv3]]
+- **[[1.1 OSPF Features and Characteristics]]**
+- **1.2 OSPF Packets**
 
 %% End Waypoint %%
 
@@ -14,9 +9,6 @@ Module Objectives
 Module Title: Single-Area OSPF Concepts
 
 Module Objectives: Explain how single-area OSPF operates in both point-to-point and broadcast multiaccess networks
-
-
-
 
 | Topic Title                       | Topic Objective                                         |
 | --------------------------------- | ------------------------------------------------------- |
