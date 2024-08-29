@@ -7,6 +7,8 @@ tags:
 	- [[1. OSPF Reference Topology]]
 	- [[2. Router Configuration Mode for OSPF]]
 	- [[3. Router IDs]]
+	- [[4. Router ID Order of Precedence]]
+	- [[5. Configuring a Loopback Interface as the Router ID]]
 
 %% End Waypoint %%
 
