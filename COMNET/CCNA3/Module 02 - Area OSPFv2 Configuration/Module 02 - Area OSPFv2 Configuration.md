@@ -13,6 +13,8 @@ tags:
 	- [[7. Modify a Router ID]]
 - **2.2 Point-to-Point OSPF Networks**
 	- [[1. The Network Command Syntax]]
+	- [[2. The Wildcard Mask]]
+	- [[3. Configuring OSPF using the Network Command]]
 
 %% End Waypoint %%
 
