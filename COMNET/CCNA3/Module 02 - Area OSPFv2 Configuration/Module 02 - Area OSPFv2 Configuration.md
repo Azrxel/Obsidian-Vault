@@ -15,6 +15,8 @@ tags:
 	- [[1. The Network Command Syntax]]
 	- [[2. The Wildcard Mask]]
 	- [[3. Configuring OSPF using the Network Command]]
+	- [[4. Configure OSPF using the 'ip ospf' Command]]
+	- [[5. Passive Interface]]
 
 %% End Waypoint %%
 
