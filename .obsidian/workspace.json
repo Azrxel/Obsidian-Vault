@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/5. Configuring a Loopback Interface as the Router ID.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/1. The Network Command Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/5. Configuring a Loopback Interface as the Router ID.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/1. The Network Command Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/5. Configuring a Loopback Interface as the Router ID.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/1. The Network Command Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/5. Configuring a Loopback Interface as the Router ID.md"
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/1. The Network Command Syntax.md"
               }
             }
           },
@@ -164,9 +164,15 @@
   },
   "active": "067205b0fbcb5810",
   "lastOpenFiles": [
+    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/7. Modify a Router ID.md",
+    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/1. The Network Command Syntax.md",
+    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks",
+    "PNG Reference/CCNA3/Module 2/2.1.7 Modify a Router ID.png",
+    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/6. Explicitly Configure a Router ID.md",
+    "PNG Reference/CCNA3/Module 2/2.1.6 Explicitly Configure a Router ID.png",
+    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/5. Configuring a Loopback Interface as the Router ID.md",
     "PNG Reference/CCNA3/Module 2/2.1.5 Configuring a Loopback Interface as the Router ID.png",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/4. Router ID Order of Precedence.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/5. Configuring a Loopback Interface as the Router ID.md",
     "PNG Reference/CCNA3/Module 2/2.1.4 Router ID Order of Precedence.png",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/3. Router IDs.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/2. Router Configuration Mode for OSPF.md",
@@ -198,18 +204,12 @@
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.2 OSPF Packets/3. Hello Packet.md",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation",
     "PNG Reference/CCNA3/Module 1/1.2.2 Link-State Updates.png",
-    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.2 OSPF Packets/2. Link-State Updates.md",
-    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.2 OSPF Packets/1. Types of OSPF Packets.md",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.2 OSPF Packets",
     "PNG Reference/CCNA3/Module 1/1.1.5 Multiarea OSPF.png",
-    "PNG Reference/CCNA3/Module 1/1.1.4 Single-Area OSPF.png",
-    "PNG Reference/DevNet Final Exam/Pasted image 20240724155628.png",
-    "PNG Reference/CCNA3/Module 1/1.1.2 SPF Algorithm.png",
     "PNG Reference/CCNA3/Module 1",
     "PNG Reference/CCNA3",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts",
-    "COMNET/CCNA2/Module 4/4.3 Inter-VLAN Routing using Layer 3 Switches",
     "Untitled.canvas"
   ]
 }

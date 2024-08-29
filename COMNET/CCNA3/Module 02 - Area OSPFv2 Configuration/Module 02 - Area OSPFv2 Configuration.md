@@ -9,6 +9,10 @@ tags:
 	- [[3. Router IDs]]
 	- [[4. Router ID Order of Precedence]]
 	- [[5. Configuring a Loopback Interface as the Router ID]]
+	- [[6. Explicitly Configure a Router ID]]
+	- [[7. Modify a Router ID]]
+- **2.2 Point-to-Point OSPF Networks**
+	- [[1. The Network Command Syntax]]
 
 %% End Waypoint %%
 
