@@ -5,6 +5,7 @@ tags:
 %% Begin Waypoint %%
 - **2.1 OSPF Router ID**
 	- [[1. OSPF Reference Topology]]
+	- [[2. Router Configuration Mode for OSPF]]
 
 %% End Waypoint %%
 
