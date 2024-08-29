@@ -1,3 +1,8 @@
+---
+tags:
+  - Module
+---
+
 %% Begin Waypoint %%
 - **[[1.1 OSPF Features and Characteristics]]**
 - **1.2 OSPF Packets**
@@ -9,6 +14,7 @@
 	- [[2. Establish Neighbor Adjacencies]]
 	- [[3. Synchronizing OSPF Databases]]
 	- [[4. The Need for a DR]]
+	- [[5. LSA Flooding with a DR]]
 
 %% End Waypoint %%
 

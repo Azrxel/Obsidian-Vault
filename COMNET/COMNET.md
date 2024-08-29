@@ -1,7 +1,6 @@
 %% Begin Waypoint %%
 - **[[CCNA2]]**
-- **CCNA3**
-	- **[[Module 1 - Single-Area OSPFv2 Concepts]]**
+- **[[CCNA3]]**
 - **[[DevNet]]**
 
 %% End Waypoint %%
