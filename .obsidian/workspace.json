@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/2. Router Configuration Mode for OSPF.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/3. Router IDs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/2. Router Configuration Mode for OSPF.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/3. Router IDs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/2. Router Configuration Mode for OSPF.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/3. Router IDs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/2. Router Configuration Mode for OSPF.md"
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/3. Router IDs.md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "067205b0fbcb5810",
   "lastOpenFiles": [
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/1. OSPF Reference Topology.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/2. Router Configuration Mode for OSPF.md",
+    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/3. Router IDs.md",
+    "PNG Reference/CCNA3/Module 2/2.1.2 Router Configuration Mode for OSPF.png",
+    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/1. OSPF Reference Topology.md",
     "Templates/Templates.md",
     "PNG Reference/CCNA3/Module 2/2.1.1 OSPF Reference Topology.png",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md",
@@ -200,7 +202,6 @@
     "PNG Reference/CCNA3/Module 1/1.1.5 Multiarea OSPF.png",
     "PNG Reference/CCNA3/Module 1/1.1.4 Single-Area OSPF.png",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/4. Single-Area and Multiarea OSPF.md",
-    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/3. Link-State Operation.md",
     "PNG Reference/DevNet Final Exam/Pasted image 20240724155628.png",
     "PNG Reference/CCNA3/Module 1/1.1.2 SPF Algorithm.png",
     "PNG Reference/CCNA3/Module 1",
@@ -209,7 +210,6 @@
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts",
     "PNG Reference/CCNA2/Module 4/4.3.2 Layer 3 Switch Scenario.png",
     "COMNET/CCNA2/Module 4/4.3 Inter-VLAN Routing using Layer 3 Switches",
-    "PNG Reference/DevNet Final Exam/Encapsulation & Port Assigning.png",
     "Untitled.canvas"
   ]
 }
