@@ -9,12 +9,7 @@ tags:
 	- [[1. Types of OSPF Packets]]
 	- [[2. Link-State Updates]]
 	- [[3. Hello Packet]]
-- **1.3 OSPF Operation**
-	- [[1. OSPF Operational States]]
-	- [[2. Establish Neighbor Adjacencies]]
-	- [[3. Synchronizing OSPF Databases]]
-	- [[4. The Need for a DR]]
-	- [[5. LSA Flooding with a DR]]
+- **[[1.3 OSPF Operation]]**
 
 %% End Waypoint %%
 
