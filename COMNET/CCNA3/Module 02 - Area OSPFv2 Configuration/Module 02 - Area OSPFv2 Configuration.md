@@ -32,6 +32,7 @@ tags:
 	- [[9. Configure OSPF Priority]]
 - **2.4 Modify Single-Area OSPFv2**
 	- [[1. Cisco OSPF Cost Metric]]
+	- [[2. Adjust the Reference Bandwidth]]
 
 %% End Waypoint %%
 

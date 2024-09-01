@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/1. Cisco OSPF Cost Metric.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/2. Adjust the Reference Bandwidth.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/1. Cisco OSPF Cost Metric.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/2. Adjust the Reference Bandwidth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/1. Cisco OSPF Cost Metric.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/2. Adjust the Reference Bandwidth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/1. Cisco OSPF Cost Metric.md"
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/2. Adjust the Reference Bandwidth.md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "067205b0fbcb5810",
   "lastOpenFiles": [
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/9. Configure OSPF Priority.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/1. Cisco OSPF Cost Metric.md",
+    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/2. Adjust the Reference Bandwidth.md",
+    "PNG Reference/CCNA3/Module 2/2.4.1 Breakdown of the Cost Calculation.png",
+    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/9. Configure OSPF Priority.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2",
     "PNG Reference/CCNA3/Module 2/2.3.9 Configure OSPF Priority.png",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/8. The 'ip ospf priority' Command.md",
@@ -191,7 +193,6 @@
     "PNG Reference/CCNA3/Module 2/2.2.8 Configure change at R1.png",
     "PNG Reference/CCNA3/Module 2/2.2.8 What R2 sees when R1 advertise the Loopback Interface as-is.png",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/7. OSPF Point-to-Point Networks.md",
-    "PNG Reference/CCNA3/Module 2/2.2.7 OSPF Point-to-Point  Configuration.png",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/6. Configuring Passive Interfaces.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/5. Passive Interface.md",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/2. Components of OSPF.md",
@@ -201,7 +202,6 @@
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/5. LSA Flooding with a DR.md",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/2. Establish Neighbor Adjacencies.md",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.2 OSPF Packets/3. Hello Packet.md",
-    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.2 OSPF Packets/2. Link-State Updates.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID",
     "PNG Reference/CCNA3/Module 2",
