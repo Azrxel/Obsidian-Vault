@@ -22,6 +22,8 @@ tags:
 	- [[8. Loopbacks and Point-to-Point Networks]]
 - **2.3 Multiaccess OSPF Networks**
 	- [[1. OSPF Network Types]]
+	- [[2. OSPF Designated Router]]
+	- [[3. OSPF Multiaccess Reference Topology]]
 
 %% End Waypoint %%
 
