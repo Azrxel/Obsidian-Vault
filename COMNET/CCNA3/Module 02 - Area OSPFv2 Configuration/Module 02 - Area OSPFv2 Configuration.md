@@ -20,6 +20,8 @@ tags:
 	- [[6. Configuring Passive Interfaces]]
 	- [[7. OSPF Point-to-Point Networks]]
 	- [[8. Loopbacks and Point-to-Point Networks]]
+- **2.3 Multiaccess OSPF Networks**
+	- [[1. OSPF Network Types]]
 
 %% End Waypoint %%
 

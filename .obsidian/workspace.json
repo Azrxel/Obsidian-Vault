@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/7. OSPF Point-to-Point Networks.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/1. OSPF Network Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/7. OSPF Point-to-Point Networks.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/1. OSPF Network Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/7. OSPF Point-to-Point Networks.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/1. OSPF Network Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/7. OSPF Point-to-Point Networks.md"
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/1. OSPF Network Types.md"
               }
             }
           },
@@ -162,10 +162,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "067205b0fbcb5810",
+  "active": "6852f6fca2f3850b",
   "lastOpenFiles": [
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/8. Loopbacks and Point-to-Point Networks.md",
+    "PNG Reference/CCNA3/Module 2/2.3.1 OSPF Network Types.png",
+    "COMNET/CCNA3/CCNA3.md",
+    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/1. OSPF Network Types.md",
+    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/Module 02 - Area OSPFv2 Configuration.md",
+    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md",
+    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/1.1 OSPF Features and Characteristics.md",
+    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/8. Loopbacks and Point-to-Point Networks.md",
+    "PNG Reference/CCNA3/Module 2/2.2.8 Result at R2.png",
+    "PNG Reference/CCNA3/Module 2/2.2.8 Configure change at R1.png",
+    "PNG Reference/CCNA3/Module 2/2.2.8 What R2 sees when R1 advertise the Loopback Interface as-is.png",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/7. OSPF Point-to-Point Networks.md",
     "PNG Reference/CCNA3/Module 2/2.2.7 OSPF Point-to-Point  Configuration.png",
     "PNG Reference/CCNA3/Module 2/2.2.7 OSPF Point-to-Point Networks.png",
@@ -185,22 +194,14 @@
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/5. Multiarea OSPF.md",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/4. Single-Area and Multiarea OSPF.md",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/3. Link-State Operation.md",
-    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/4. Configure OSPF using the 'ip ospf' Command.md",
     "PNG Reference/CCNA3/Module 2/2.2.4 Configure OSPF using the 'ip ospf' Command.png",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/3. Configuring OSPF using the Network Command.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/2. The Wildcard Mask.md",
     "PNG Reference/CCNA3/Module 2/2.2.3 Configuring OSPF using the Network Command.png",
     "PNG Reference/CCNA3/Module 2/2.2.2 Calculating a Wildcard Mask.png",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/1. The Network Command Syntax.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/7. Modify a Router ID.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks",
     "PNG Reference/CCNA3/Module 2/2.1.7 Modify a Router ID.png",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/6. Explicitly Configure a Router ID.md",
-    "PNG Reference/CCNA3/Module 2/2.1.6 Explicitly Configure a Router ID.png",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/5. Configuring a Loopback Interface as the Router ID.md",
-    "PNG Reference/CCNA3/Module 2/2.1.5 Configuring a Loopback Interface as the Router ID.png",
-    "PNG Reference/CCNA3/Module 2/2.1.4 Router ID Order of Precedence.png",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID",
     "PNG Reference/CCNA3/Module 2",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration",
@@ -209,7 +210,6 @@
     "PNG Reference/CCNA3/Module 1",
     "PNG Reference/CCNA3",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics",
-    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts",
     "Untitled.canvas"
   ]
 }
