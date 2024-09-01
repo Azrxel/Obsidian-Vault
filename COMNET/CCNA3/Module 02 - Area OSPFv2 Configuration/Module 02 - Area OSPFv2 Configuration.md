@@ -28,6 +28,10 @@ tags:
 	- [[5. Verify DR & BDR Adjacencies]]
 	- [[6. Default DR & BDR Election Process]]
 	- [[7. DR Failure and Recovery]]
+	- [[8. The 'ip ospf priority' Command]]
+	- [[9. Configure OSPF Priority]]
+- **2.4 Modify Single-Area OSPFv2**
+	- [[1. Cisco OSPF Cost Metric]]
 
 %% End Waypoint %%
 
