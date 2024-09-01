@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/3. OSPF Multiaccess Reference Topology.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/4. Verify OSPF Router Roles.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/3. OSPF Multiaccess Reference Topology.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/4. Verify OSPF Router Roles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/3. OSPF Multiaccess Reference Topology.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/4. Verify OSPF Router Roles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/3. OSPF Multiaccess Reference Topology.md"
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/4. Verify OSPF Router Roles.md"
               }
             }
           },
@@ -164,8 +164,12 @@
   },
   "active": "067205b0fbcb5810",
   "lastOpenFiles": [
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/2. OSPF Designated Router.md",
+    "PNG Reference/CCNA3/Module 2/2.3.4 Verify OSPF Router Roles R1.png",
+    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/4. Verify OSPF Router Roles.md",
+    "PNG Reference/CCNA3/Module 2/2.3.4 Verify OSPF Router Roles R2.png",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/3. OSPF Multiaccess Reference Topology.md",
+    "PNG Reference/CCNA3/Module 2/2.3.3 OSPF Multiaccess Reference Topology.png",
+    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/2. OSPF Designated Router.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/1. OSPF Network Types.md",
     "PNG Reference/CCNA3/Module 2/2.3.1 OSPF Network Types.png",
     "COMNET/CCNA3/CCNA3.md",
@@ -196,11 +200,6 @@
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/5. Multiarea OSPF.md",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/4. Single-Area and Multiarea OSPF.md",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/3. Link-State Operation.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/4. Configure OSPF using the 'ip ospf' Command.md",
-    "PNG Reference/CCNA3/Module 2/2.2.4 Configure OSPF using the 'ip ospf' Command.png",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/3. Configuring OSPF using the Network Command.md",
-    "PNG Reference/CCNA3/Module 2/2.2.3 Configuring OSPF using the Network Command.png",
-    "PNG Reference/CCNA3/Module 2/2.2.2 Calculating a Wildcard Mask.png",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID",
     "PNG Reference/CCNA3/Module 2",

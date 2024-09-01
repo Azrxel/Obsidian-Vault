@@ -24,6 +24,7 @@ tags:
 	- [[1. OSPF Network Types]]
 	- [[2. OSPF Designated Router]]
 	- [[3. OSPF Multiaccess Reference Topology]]
+	- [[4. Verify OSPF Router Roles]]
 
 %% End Waypoint %%
 
