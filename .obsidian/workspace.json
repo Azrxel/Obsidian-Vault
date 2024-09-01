@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/5. Verify DR & BDR Adjacencies.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/7. DR Failure and Recovery.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/5. Verify DR & BDR Adjacencies.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/7. DR Failure and Recovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/5. Verify DR & BDR Adjacencies.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/7. DR Failure and Recovery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/5. Verify DR & BDR Adjacencies.md"
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/7. DR Failure and Recovery.md"
               }
             }
           },
@@ -164,8 +164,11 @@
   },
   "active": "067205b0fbcb5810",
   "lastOpenFiles": [
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/4. Verify OSPF Router Roles.md",
+    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/6. Default DR & BDR Election Process.md",
+    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/7. DR Failure and Recovery.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/5. Verify DR & BDR Adjacencies.md",
+    "PNG Reference/CCNA3/Module 2/2.3.5 Verify DR & BDR Adjacencies.png",
+    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/4. Verify OSPF Router Roles.md",
     "PNG Reference/CCNA3/Module 2/2.3.4 Verify OSPF Router Roles R1.png",
     "PNG Reference/CCNA3/Module 2/2.3.4 Verify OSPF Router Roles R2.png",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/3. OSPF Multiaccess Reference Topology.md",
@@ -186,7 +189,6 @@
     "PNG Reference/CCNA3/Module 2/2.2.7 OSPF Point-to-Point  Configuration.png",
     "PNG Reference/CCNA3/Module 2/2.2.7 OSPF Point-to-Point Networks.png",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/6. Configuring Passive Interfaces.md",
-    "PNG Reference/CCNA3/Module 2/2.2.6 Configuring Passive Interfaces.png",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/5. Passive Interface.md",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/2. Components of OSPF.md",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/1. Introduction to OSPF.md",
@@ -199,8 +201,6 @@
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.2 OSPF Packets/1. Types of OSPF Packets.md",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/6. OSPFv3.md",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/5. Multiarea OSPF.md",
-    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/4. Single-Area and Multiarea OSPF.md",
-    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/3. Link-State Operation.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID",
     "PNG Reference/CCNA3/Module 2",

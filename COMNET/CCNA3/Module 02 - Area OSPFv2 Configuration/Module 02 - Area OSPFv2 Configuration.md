@@ -26,6 +26,8 @@ tags:
 	- [[3. OSPF Multiaccess Reference Topology]]
 	- [[4. Verify OSPF Router Roles]]
 	- [[5. Verify DR & BDR Adjacencies]]
+	- [[6. Default DR & BDR Election Process]]
+	- [[7. DR Failure and Recovery]]
 
 %% End Waypoint %%
 
