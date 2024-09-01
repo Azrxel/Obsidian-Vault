@@ -17,6 +17,9 @@ tags:
 	- [[3. Configuring OSPF using the Network Command]]
 	- [[4. Configure OSPF using the 'ip ospf' Command]]
 	- [[5. Passive Interface]]
+	- [[6. Configuring Passive Interfaces]]
+	- [[7. OSPF Point-to-Point Networks]]
+	- [[8. Loopbacks and Point-to-Point Networks]]
 
 %% End Waypoint %%
 
