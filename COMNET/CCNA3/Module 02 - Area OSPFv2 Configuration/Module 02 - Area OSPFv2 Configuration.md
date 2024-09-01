@@ -25,6 +25,7 @@ tags:
 	- [[2. OSPF Designated Router]]
 	- [[3. OSPF Multiaccess Reference Topology]]
 	- [[4. Verify OSPF Router Roles]]
+	- [[5. Verify DR & BDR Adjacencies]]
 
 %% End Waypoint %%
 
