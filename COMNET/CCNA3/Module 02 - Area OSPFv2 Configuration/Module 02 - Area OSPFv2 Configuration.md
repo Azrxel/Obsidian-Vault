@@ -39,6 +39,8 @@ tags:
 	- [[6. Hello Packet Intervals]]
 	- [[7. Verify Hello and Dead Intervals]]
 	- [[8. Modify OSPFv2 Intervals]]
+- **2.5 Default Route Propagation**
+	- [[1. Propagate a Default Static Route in OSPFv2]]
 
 %% End Waypoint %%
 
