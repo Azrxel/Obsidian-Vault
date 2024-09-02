@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 361.5,
+    "collapsed": true
   },
   "right": {
     "id": "c481cc9c8527ba39",
@@ -165,11 +166,12 @@
   },
   "active": "067205b0fbcb5810",
   "lastOpenFiles": [
-    "PNG Reference/CCNA3/Module 2/2.4.7 Verify Dead Intervals.png",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/8. Modify OSPFv2 Intervals.md",
-    "PNG Reference/CCNA3/Module 2/2.4.7 Verify Hello and Dead Intervals.png",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/7. Verify Hello and Dead Intervals.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/6. Hello Packet Intervals.md",
+    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/7. Verify Hello and Dead Intervals.md",
+    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/8. Modify OSPFv2 Intervals.md",
+    "PNG Reference/Pasted image 20240902092104.png",
+    "PNG Reference/CCNA3/Module 2/2.4.7 Verify Dead Intervals.png",
+    "PNG Reference/CCNA3/Module 2/2.4.7 Verify Hello and Dead Intervals.png",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/5. Test Failover to Backup Route.md",
     "PNG Reference/CCNA3/Module 2/2.4.5 Test Failover to Backup Route.png",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/4. Manually Set OSPF Cost Value.md",
@@ -188,7 +190,6 @@
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/7. DR Failure and Recovery.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/6. Default DR & BDR Election Process.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/5. Verify DR & BDR Adjacencies.md",
-    "PNG Reference/CCNA3/Module 2/2.3.5 Verify DR & BDR Adjacencies.png",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/4. Verify OSPF Router Roles.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/3. OSPF Multiaccess Reference Topology.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/2. OSPF Designated Router.md",
