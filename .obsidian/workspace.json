@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 361.5
   },
   "right": {
     "id": "c481cc9c8527ba39",
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 356.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "067205b0fbcb5810",
+  "active": "6852f6fca2f3850b",
   "lastOpenFiles": [
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/5. Test Failover to Backup Route.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/6. Hello Packet Intervals.md",
