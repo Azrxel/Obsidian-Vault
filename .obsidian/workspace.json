@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/1. Propagate a Default Static Route in OSPFv2.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/2. Verify the Propagated Default Route.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "router process speed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5,
-    "collapsed": true
+    "width": 361.5
   },
   "right": {
     "id": "c481cc9c8527ba39",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/1. Propagate a Default Static Route in OSPFv2.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/2. Verify the Propagated Default Route.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/1. Propagate a Default Static Route in OSPFv2.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/2. Verify the Propagated Default Route.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/1. Propagate a Default Static Route in OSPFv2.md"
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/2. Verify the Propagated Default Route.md"
               }
             }
           },
@@ -166,8 +165,10 @@
   },
   "active": "067205b0fbcb5810",
   "lastOpenFiles": [
-    "PNG Reference/CCNA3/Module 1/1.1.2 SPF Algorithm.png",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/1. Propagate a Default Static Route in OSPFv2.md",
+    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/2. Verify the Propagated Default Route.md",
+    "PNG Reference/CCNA3/Module 2/2.5.1 Propagate a Default Static Route in OSPFv2.png",
+    "PNG Reference/CCNA3/Module 1/1.1.2 SPF Algorithm.png",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/2.5 Default Route Propagation",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/8. Modify OSPFv2 Intervals.md",
@@ -185,8 +186,6 @@
     "PNG Reference/CCNA3/Module 2/2.4.3 Verify Accumulated Cost.png",
     "PNG Reference/CCNA3/Module 2/2.4.3 OSPF Accumulates Cost.png",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/2. Adjust the Reference Bandwidth.md",
-    "PNG Reference/CCNA3/Module 2/2.4.1 Breakdown of the Cost Calculation.png",
-    "PNG Reference/CCNA3/Module 2/2.4.2 Interface Type & Cost.png",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/1. Cisco OSPF Cost Metric.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/9. Configure OSPF Priority.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2",

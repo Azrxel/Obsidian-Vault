@@ -41,6 +41,7 @@ tags:
 	- [[8. Modify OSPFv2 Intervals]]
 - **2.5 Default Route Propagation**
 	- [[1. Propagate a Default Static Route in OSPFv2]]
+	- [[2. Verify the Propagated Default Route]]
 
 %% End Waypoint %%
 
