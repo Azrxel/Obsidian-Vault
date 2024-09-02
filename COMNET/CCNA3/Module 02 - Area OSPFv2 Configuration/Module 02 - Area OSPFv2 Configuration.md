@@ -34,6 +34,9 @@ tags:
 	- [[1. Cisco OSPF Cost Metric]]
 	- [[2. Adjust the Reference Bandwidth]]
 	- [[3. OSPF Accumulates Cost]]
+	- [[4. Manually Set OSPF Cost Value]]
+	- [[5. Test Failover to Backup Route]]
+	- [[6. Hello Packet Intervals]]
 
 %% End Waypoint %%
 
