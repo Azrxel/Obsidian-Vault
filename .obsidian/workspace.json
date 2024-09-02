@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/2. Verify the Propagated Default Route.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.6 Verify Single-Area OSPFv2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/2. Verify the Propagated Default Route.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.6 Verify Single-Area OSPFv2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/2. Verify the Propagated Default Route.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.6 Verify Single-Area OSPFv2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/2. Verify the Propagated Default Route.md"
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.6 Verify Single-Area OSPFv2.md"
               }
             }
           },
@@ -165,8 +165,10 @@
   },
   "active": "067205b0fbcb5810",
   "lastOpenFiles": [
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/1. Propagate a Default Static Route in OSPFv2.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/2. Verify the Propagated Default Route.md",
+    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.6 Verify Single-Area OSPFv2.md",
+    "PNG Reference/CCNA3/Module 2/2.5.2 Verify the Propagated Default Route.png",
+    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/1. Propagate a Default Static Route in OSPFv2.md",
     "PNG Reference/CCNA3/Module 2/2.5.1 Propagate a Default Static Route in OSPFv2.png",
     "PNG Reference/CCNA3/Module 1/1.1.2 SPF Algorithm.png",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation",
@@ -184,7 +186,6 @@
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/4. Manually Set OSPF Cost Value.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/3. OSPF Accumulates Cost.md",
     "PNG Reference/CCNA3/Module 2/2.4.3 Verify Accumulated Cost.png",
-    "PNG Reference/CCNA3/Module 2/2.4.3 OSPF Accumulates Cost.png",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/2. Adjust the Reference Bandwidth.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/1. Cisco OSPF Cost Metric.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/9. Configure OSPF Priority.md",
@@ -204,7 +205,6 @@
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/1.1 OSPF Features and Characteristics.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/8. Loopbacks and Point-to-Point Networks.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/7. OSPF Point-to-Point Networks.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/6. Configuring Passive Interfaces.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID",
     "PNG Reference/CCNA3/Module 2",

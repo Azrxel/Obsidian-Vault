@@ -42,6 +42,7 @@ tags:
 - **2.5 Default Route Propagation**
 	- [[1. Propagate a Default Static Route in OSPFv2]]
 	- [[2. Verify the Propagated Default Route]]
+- [[2.6 Verify Single-Area OSPFv2]]
 
 %% End Waypoint %%
 
