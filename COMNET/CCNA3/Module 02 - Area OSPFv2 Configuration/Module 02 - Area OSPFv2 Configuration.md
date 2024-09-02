@@ -37,6 +37,8 @@ tags:
 	- [[4. Manually Set OSPF Cost Value]]
 	- [[5. Test Failover to Backup Route]]
 	- [[6. Hello Packet Intervals]]
+	- [[7. Verify Hello and Dead Intervals]]
+	- [[8. Modify OSPFv2 Intervals]]
 
 %% End Waypoint %%
 

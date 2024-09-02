@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/6. Hello Packet Intervals.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/8. Modify OSPFv2 Intervals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/6. Hello Packet Intervals.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/8. Modify OSPFv2 Intervals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/6. Hello Packet Intervals.md",
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/8. Modify OSPFv2 Intervals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/6. Hello Packet Intervals.md"
+                "file": "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/8. Modify OSPFv2 Intervals.md"
               }
             }
           },
@@ -163,10 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6852f6fca2f3850b",
+  "active": "067205b0fbcb5810",
   "lastOpenFiles": [
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/5. Test Failover to Backup Route.md",
+    "PNG Reference/CCNA3/Module 2/2.4.7 Verify Dead Intervals.png",
+    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/8. Modify OSPFv2 Intervals.md",
+    "PNG Reference/CCNA3/Module 2/2.4.7 Verify Hello and Dead Intervals.png",
+    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/7. Verify Hello and Dead Intervals.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/6. Hello Packet Intervals.md",
+    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/5. Test Failover to Backup Route.md",
     "PNG Reference/CCNA3/Module 2/2.4.5 Test Failover to Backup Route.png",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/4. Manually Set OSPF Cost Value.md",
     "PNG Reference/CCNA3/Module 2/2.4.4 Manually Set OSPF Cost Value.png",
@@ -186,8 +190,6 @@
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/5. Verify DR & BDR Adjacencies.md",
     "PNG Reference/CCNA3/Module 2/2.3.5 Verify DR & BDR Adjacencies.png",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/4. Verify OSPF Router Roles.md",
-    "PNG Reference/CCNA3/Module 2/2.3.4 Verify OSPF Router Roles R1.png",
-    "PNG Reference/CCNA3/Module 2/2.3.4 Verify OSPF Router Roles R2.png",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/3. OSPF Multiaccess Reference Topology.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/2. OSPF Designated Router.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/1. OSPF Network Types.md",
@@ -200,9 +202,6 @@
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/7. OSPF Point-to-Point Networks.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/6. Configuring Passive Interfaces.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/5. Passive Interface.md",
-    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/2. Components of OSPF.md",
-    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/1. Introduction to OSPF.md",
-    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/3. Synchronizing OSPF Databases.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID",
     "PNG Reference/CCNA3/Module 2",
