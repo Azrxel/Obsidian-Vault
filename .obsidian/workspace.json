@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA 3 Commands/Point-to-Point Single-Area OSPFv2 Configuration.md",
+                "file": "COMNET/CCNA 3 Config & Verification Commands/Determine the DR and BDR.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA 3 Commands/Point-to-Point Single-Area OSPFv2 Configuration.md",
+                "file": "COMNET/CCNA 3 Config & Verification Commands/Determine the DR and BDR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA 3 Commands/Point-to-Point Single-Area OSPFv2 Configuration.md",
+                "file": "COMNET/CCNA 3 Config & Verification Commands/Determine the DR and BDR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA 3 Commands/Point-to-Point Single-Area OSPFv2 Configuration.md"
+                "file": "COMNET/CCNA 3 Config & Verification Commands/Determine the DR and BDR.md"
               }
             }
           },
@@ -165,9 +165,11 @@
   },
   "active": "067205b0fbcb5810",
   "lastOpenFiles": [
+    "COMNET/CCNA2/CCNA2.md",
+    "COMNET/CCNA 3 Config & Verification Commands/Determine the DR and BDR.md",
+    "COMNET/CCNA 3 Config & Verification Commands/Point-to-Point Single-Area OSPFv2 Configuration.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/6. Verify OSPF Interface Settings.md",
-    "COMNET/CCNA 3 Commands/Point-to-Point Single-Area OSPFv2 Configuration.md",
-    "COMNET/CCNA 3 Commands",
+    "COMNET/CCNA 3 Config & Verification Commands",
     "PNG Reference/CCNA3/Module 2/2.5.6 Summary of OSPFv2-Enabled Interfaces.png",
     "PNG Reference/CCNA3/Module 2/2.5.6 Verify OSPF Interface Settings.png",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/5. Verify OSPF Process Information.md",
@@ -204,8 +206,6 @@
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/5. Verify DR & BDR Adjacencies.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/4. Verify OSPF Router Roles.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/3. OSPF Multiaccess Reference Topology.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/2. OSPF Designated Router.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/1. OSPF Network Types.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID",
