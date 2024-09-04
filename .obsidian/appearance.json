@@ -4,5 +4,9 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "snippet"
-  ]
+  ],
+  "interfaceFontFamily": "Arial Rounded MT Bold",
+  "textFontFamily": "Baskerville",
+  "baseFontSizeAction": false,
+  "nativeMenus": false
 }

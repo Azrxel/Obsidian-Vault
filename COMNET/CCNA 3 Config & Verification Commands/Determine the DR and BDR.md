@@ -27,3 +27,5 @@ Neighbor ID Pri State Dead Time Address Interface
 192.168.31.22 1 FULL/BDR 00:00:38 192.168.1.2 GigabitEthernet0/0
 ```
 
+##### Turn on IP OSPF adjacency debugging.
+You can monitor the DR and BDR election process with a **debug** command. On **RA** and **RB,** enter the following command.
