@@ -39,20 +39,20 @@
       "query": "tag:#Sub-Module  ",
       "color": {
         "a": 1,
-        "rgb": 10092512
+        "rgb": 13081087
       }
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "showArrow": true,
+  "textFadeMultiplier": -2,
+  "nodeSizeMultiplier": 1.01815068493151,
+  "lineSizeMultiplier": 0.987465753424658,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 16.5625,
+  "centerStrength": 0.400293542074364,
+  "repelStrength": 18.9021526418787,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.10409888641867486,
+  "scale": 0.3513337518521018,
   "close": false
 }

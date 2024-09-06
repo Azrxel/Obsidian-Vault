@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "59ef5199ce8a538e",
+        "id": "a672caa06afae1b4",
         "type": "tabs",
         "children": [
           {
-            "id": "79a6c14dfdcd3f8e",
+            "id": "5ab0586ca66bd1ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/1.3 OSPF Operation.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/Basic Device Configuration.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Sub-Module",
+                "query": "tag:CCNA2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/1.3 OSPF Operation.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/Basic Device Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/1.3 OSPF Operation.md",
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/Basic Device Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/1.3 OSPF Operation.md"
+                "file": "COMNET/CCNA2/Module 1/Basic Device Configuration/Basic Device Configuration.md"
               }
             }
           },
@@ -162,34 +162,76 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79a6c14dfdcd3f8e",
+  "floating": {
+    "id": "2210b86f43532823",
+    "type": "floating",
+    "children": [
+      {
+        "id": "33d133077389b1e7",
+        "type": "window",
+        "children": [
+          {
+            "id": "c53dce6e1acbe9ca",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "79a6c14dfdcd3f8e",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 430,
+        "y": 19,
+        "width": 1542,
+        "height": 1032,
+        "maximize": true,
+        "zoom": -1
+      }
+    ]
+  },
+  "active": "5ab0586ca66bd1ed",
   "lastOpenFiles": [
-    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md",
-    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/1.1 OSPF Features and Characteristics.md",
-    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/1.3 OSPF Operation.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/2.5 Default Route Propagation.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/2.4 Modify Single-Area OSPFv2.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/2.3 Multiaccess OSPF Networks.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/2.1 OSPF Router ID.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/2.2 Point-to-Point OSPF Networks.md",
-    "COMNET/DevNet/DevNet.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/6. Verify OSPF Interface Settings.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/5. Verify OSPF Process Information.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/4. Verify OSPF Protocol Settings.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/3. Verify OSPF Neighbors.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/2. Verify the Propagated Default Route.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/1. Propagate a Default Static Route in OSPFv2.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/8. Modify OSPFv2 Intervals.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/7. Verify Hello and Dead Intervals.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/6. Hello Packet Intervals.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/5. Test Failover to Backup Route.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/4. Manually Set OSPF Cost Value.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/3. OSPF Accumulates Cost.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/2. Adjust the Reference Bandwidth.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/1. Cisco OSPF Cost Metric.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/9. Configure OSPF Priority.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/8. The 'ip ospf priority' Command.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/7. DR Failure and Recovery.md",
+    "Templates/Templates.md",
+    "COMNET/CCNA2/Module 1/1.5 Verify Directly Connected Networks/7. Command History Feature.md",
+    "COMNET/CCNA2/Module 1/1.5 Verify Directly Connected Networks/4. Verify Interface Configuration.md",
+    "COMNET/CCNA2/Module 1/1.5 Verify Directly Connected Networks/6. Filter Show Command Output.md",
+    "COMNET/CCNA2/Module 1/1.5 Verify Directly Connected Networks/5. Verify Routes.md",
+    "COMNET/CCNA2/Module 1/1.5 Verify Directly Connected Networks/3. Verify IPv6 Link Local and Multicast Addresses.md",
+    "COMNET/CCNA2/Module 1/1.5 Verify Directly Connected Networks/2. Verify Interface Status.md",
+    "COMNET/CCNA2/Module 1/1.5 Verify Directly Connected Networks/1.5 Verify Directly Connected Networks.md",
+    "COMNET/CCNA2/Module 1/1.5 Verify Directly Connected Networks/1. Interface Verification Commands.md",
+    "COMNET/CCNA2/Module 1/1.5 Verify Directly Connected Networks",
+    "COMNET/CCNA2/Module 1/1.4 Basic Router Configuration/4. IPv4 Loopback Interfaces.md",
+    "COMNET/CCNA2/Module 1/1.4 Basic Router Configuration/3. Configure Router Interfaces.md",
+    "COMNET/CCNA2/Module 1/1.4 Basic Router Configuration/2. Dual Stack Topology.md",
+    "COMNET/CCNA2/Module 1/1.4 Basic Router Configuration/1.4 Basic Router Configuration.md",
+    "COMNET/CCNA2/Module 1/1.4 Basic Router Configuration/1. Configure Basic Router Configuration.md",
+    "COMNET/CCNA2/Module 1/1.4 Basic Router Configuration",
+    "COMNET/CCNA2/Module 1/1.3. Secure Remote Access/5. Verify SSH is Operational.md",
+    "COMNET/CCNA2/Module 1/1.3. Secure Remote Access/4. Configure SSH.md",
+    "COMNET/CCNA2/Module 1/1.3. Secure Remote Access/3. Verify The Switch Supports SSH.md",
+    "COMNET/CCNA2/Module 1/1.3. Secure Remote Access/2. SSH Operation.md",
+    "COMNET/CCNA2/Module 1/1.3. Secure Remote Access/1.3. Secure Remote Access.md",
+    "COMNET/CCNA2/Module 1/1.3. Secure Remote Access/1. Telnet Operation.md",
+    "COMNET/CCNA2/Module 1/1.3. Secure Remote Access",
+    "COMNET/CCNA2/Module 1/1.2. Configure Switch Ports/7. Troubleshooting Network Access Layer Issues.md",
+    "COMNET/CCNA2/Module 1/1.2. Configure Switch Ports/6. Interface Input and Output Errors.md",
+    "COMNET/CCNA2/Module 1/1.2. Configure Switch Ports/5. Network Access Layer Issues.md",
+    "COMNET/CCNA2/Module 1/1.2. Configure Switch Ports/4. Verify Switch Port Configuration.md",
+    "COMNET/CCNA2/Module 1/1.2. Configure Switch Ports/2. Configure Switch Ports at the Physical Layer.md",
+    "COMNET/CCNA2/Module 1/1.2. Configure Switch Ports/3. Auto-MDIX.md",
+    "COMNET/CCNA2/Module 1/1.2. Configure Switch Ports",
+    "COMNET/CCNA2/Module 1/1.1. Configuring a Switch with Initial Settings",
+    "Templates/One/Two/Three",
+    "Templates/One/Two",
+    "Templates/One",
+    "1",
     "PNG Reference/Resistor Color Code Reference Table.png",
     "COMNET/CCNA3/CCNA 3 Config & Verification Commands",
     "PNG Reference/CCNA3/Module 2/2.5.6 Summary of OSPFv2-Enabled Interfaces.png",
@@ -197,19 +239,10 @@
     "PNG Reference/CCNA3/Module 2/2.5.5 Verify OSPF Process Information.png",
     "PNG Reference/CCNA3/Module 2/2.5.4 Verify OSPF Protocol Settings.png",
     "PNG Reference/CCNA3/Module 2/2.5.3 Verify OSPF Neighbors.png",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.6 Verify Single-Area OSPFv2",
     "PNG Reference/CCNA3/Module 2/2.5.2 Verify the Propagated Default Route.png",
     "PNG Reference/CCNA3/Module 2/2.5.1 Propagate a Default Static Route in OSPFv2.png",
     "PNG Reference/CCNA3/Module 1/1.1.2 SPF Algorithm.png",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/2.5 Default Route Propagation",
     "PNG Reference/CCNA3/Module 2/2.4.8 Modifying OSPFv2 Intervals.png",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID",
-    "PNG Reference/CCNA3/Module 2",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration",
     "Untitled.canvas"
   ]
 }
