@@ -11,12 +11,8 @@
             "id": "067205b0fbcb5810",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMNET/CCNA 3 Config & Verification Commands/Determine the DR and BDR.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA 3 Config & Verification Commands/Determine the DR and BDR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA 3 Config & Verification Commands/Determine the DR and BDR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMNET/CCNA 3 Config & Verification Commands/Determine the DR and BDR.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,12 +138,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 356.5,
-    "collapsed": true
+    "width": 356.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,12 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "067205b0fbcb5810",
+  "active": "5d1c36da13aab94e",
   "lastOpenFiles": [
-    "COMNET/CCNA2/CCNA2.md",
-    "COMNET/CCNA 3 Config & Verification Commands/Determine the DR and BDR.md",
-    "COMNET/CCNA 3 Config & Verification Commands/Point-to-Point Single-Area OSPFv2 Configuration.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/6. Verify OSPF Interface Settings.md",
+    "COMNET/CCNA 3 Config & Verification Commands/Determine the DR and BDR.md",
+    "COMNET/CCNA2/CCNA2.md",
+    "COMNET/CCNA 3 Config & Verification Commands/Point-to-Point Single-Area OSPFv2 Configuration.md",
     "COMNET/CCNA 3 Config & Verification Commands",
     "PNG Reference/CCNA3/Module 2/2.5.6 Summary of OSPFv2-Enabled Interfaces.png",
     "PNG Reference/CCNA3/Module 2/2.5.6 Verify OSPF Interface Settings.png",
