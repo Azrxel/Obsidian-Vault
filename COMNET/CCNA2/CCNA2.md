@@ -1,3 +1,8 @@
+---
+tags:
+  - CCNA2
+---
+
 %% Begin Waypoint %%
 - **[[Module 1]]**
 - **[[Module 2]]**

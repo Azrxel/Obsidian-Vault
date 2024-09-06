@@ -2,7 +2,7 @@
   "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -11,42 +11,21 @@
       "query": "tag:CCNA2",
       "color": {
         "a": 1,
-        "rgb": 15597409
+        "rgb": 6422416
       }
     },
     {
-      "query": "tag:#Module",
+      "query": "tag:CCNA3",
       "color": {
         "a": 1,
-        "rgb": 16269119
+        "rgb": 9589472
       }
     },
     {
-      "query": "path:\"COMNET/CCNA2/Module 3\"  ",
+      "query": "tag:#Module  ",
       "color": {
         "a": 1,
-        "rgb": 16726235
-      }
-    },
-    {
-      "query": "path:\"COMNET/CCNA2/Module 2\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 7883256
-      }
-    },
-    {
-      "query": "path:\"COMNET/CCNA2/Module 1\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "path:\"COMNET/CCNA2/Module 4\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725970
+        "rgb": 5415904
       }
     }
   ],
@@ -60,6 +39,6 @@
   "repelStrength": 16.5625,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.06939925694156439,
-  "close": true
+  "scale": 0.10409888641867486,
+  "close": false
 }
