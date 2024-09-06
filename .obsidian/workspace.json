@@ -6,29 +6,9 @@
       {
         "id": "f980f9874996e6fc",
         "type": "tabs",
-        "dimension": 30.674448767833983,
         "children": [
           {
             "id": "59d6561a0d1fc1e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMNET/CCNA2/Module 4 - Physical Layer/Module 4 - Physical Layer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b9b0b349587ac3f3",
-        "type": "tabs",
-        "dimension": 69.32555123216602,
-        "children": [
-          {
-            "id": "55c63ffc45651fbb",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -207,8 +187,17 @@
       }
     ]
   },
-  "active": "55c63ffc45651fbb",
+  "active": "5ab0586ca66bd1ed",
   "lastOpenFiles": [
+    "COMNET/CCNA2/Module 3 - Protocols and Models/Module 3.md",
+    "COMNET/CCNA2/Module 3 - Protocols and Models/Module 3 - Protocols and Models.md",
+    "COMNET/CCNA3/CCNA3.md",
+    "COMNET/CCNA2/Module 4 - Physical Layer/4.3 Inter-VLAN Routing using Layer 3 Switches/4.3 Inter-VLAN Routing using Layer 3 Switches.md",
+    "COMNET/CCNA2/Module 4 - Physical Layer/4.3 Inter-VLAN Routing using Layer 3 Switches/1. Layer 3 Switch Inter-VLAN Routing.md",
+    "COMNET/CCNA2/Module 4 - Physical Layer/4.3 Inter-VLAN Routing using Layer 3 Switches/2. Layer 3 Switch Scenario.md",
+    "COMNET/CCNA2/Module 4 - Physical Layer/4.2 Router-on-a-Stick Inter-VLAN Routing/4.2 Router-on-a-Stick Inter-VLAN Routing.md",
+    "COMNET/CCNA2/Module 4 - Physical Layer/4.1 Inter-VLAN Routing Operation/4.1 Inter-VLAN Routing Operation.md",
+    "COMNET/CCNA2/Module 4 - Physical Layer/Module 4 - Physical Layer.md",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/1.3 OSPF Operation.md",
     "COMNET/CCNA2/Module 1 - Basic Device Configuration/Module 1 - Basic Device Configuration.md",
     "COMNET/CCNA2/Module 1 - Basic Device Configuration/Module 1.md",
@@ -218,23 +207,14 @@
     "COMNET/CCNA2/Module 4 - Physical Layer/4.1 Inter-VLAN Routing Operation/1. Inter-VLAN Routing.md",
     "COMNET/CCNA2/Module 2 - Switching Concepts/2.2. Switching Domains/2.2. Switching Domains.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/2.4 Modify Single-Area OSPFv2.md",
-    "COMNET/CCNA2/Module 4 - Physical Layer/4.2 Router-on-a-Stick Inter-VLAN Routing/4.2 Router-on-a-Stick Inter-VLAN Routing.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/2.5 Default Route Propagation.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/2.1 OSPF Router ID.md",
     "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/2.3 Multiaccess OSPF Networks.md",
-    "COMNET/CCNA2/Module 4 - Physical Layer/Module 4 - Physical Layer.md",
     "COMNET/CCNA2/Module 3 - Protocols and Models/3.5 Dynamic Trunking Protocol/3.5 Dynamic Trunking Protocol.md",
-    "COMNET/CCNA2/Module 3 - Protocols and Models/Module 3.md",
     "COMNET/CCNA2/Module 3 - Protocols and Models/3.1. Overview of VLANs/3.1. Overview of VLANs.md",
-    "COMNET/CCNA2/Module 4 - Physical Layer/4.1 Inter-VLAN Routing Operation/4.1 Inter-VLAN Routing Operation.md",
     "COMNET/CCNA2/Module 3 - Protocols and Models/3.4 VLAN Trunks/3.4 VLAN Trunks.md",
     "COMNET/CCNA2/Module 3 - Protocols and Models/3.3 VLAN Configuration/3.3 VLAN Configuration.md",
     "COMNET/CCNA2/Module 3 - Protocols and Models/3.2 VLANs in a Multi-Switched Environment/3.2 VLANs in a Multi-Switched Environment.md",
-    "COMNET/CCNA2/Module 3 - Protocols and Models/Module 3 - Protocols and Models.md",
-    "COMNET/CCNA2/Module 2 - Switching Concepts/2.1. Frame Forwarding/2.1. Frame Forwarding.md",
-    "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.5 Verify Directly Connected Networks/1.5 Verify Directly Connected Networks.md",
-    "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.4 Basic Router Configuration/1.4 Basic Router Configuration.md",
-    "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.3. Secure Remote Access/1.3. Secure Remote Access.md",
     "COMNET/CCNA2/Module 2 - Switching Concepts/2.2. Switching Domains",
     "COMNET/CCNA2/Module 2 - Switching Concepts/2.1. Frame Forwarding",
     "COMNET/CCNA2/Module 2 - Switching Concepts/Switching Concepts/2.2. Switching Domains",
