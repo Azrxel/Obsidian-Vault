@@ -1,3 +1,6 @@
+---
+tags: []
+---
 
 ---
 #### Verify the current OSPF neighbor states

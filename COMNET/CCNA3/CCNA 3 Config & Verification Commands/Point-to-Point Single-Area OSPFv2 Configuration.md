@@ -1,3 +1,6 @@
+---
+tags: []
+---
 
 ---
 "R1(config-router)"# = router ospf config mode

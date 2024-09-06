@@ -25,7 +25,7 @@
       "query": "tag:#Module  ",
       "color": {
         "a": 1,
-        "rgb": 5111771
+        "rgb": 1021951
       }
     },
     {
@@ -36,10 +36,10 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#Sub-Module  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 10092512
       }
     }
   ],

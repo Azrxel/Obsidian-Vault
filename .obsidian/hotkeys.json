@@ -144,5 +144,19 @@
       ],
       "key": "Z"
     }
+  ],
+  "markdown:add-metadata-property": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ";"
+    },
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "`"
+    }
   ]
 }
