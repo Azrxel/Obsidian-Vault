@@ -1,3 +1,8 @@
+---
+tags:
+  - Course
+---
+
 %% Begin Waypoint %%
 - **[[CCNA2]]**
 - **[[CCNA3]]**

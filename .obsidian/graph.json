@@ -8,24 +8,38 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:CCNA2",
+      "query": "tag:#CCNA2",
       "color": {
         "a": 1,
-        "rgb": 6422416
+        "rgb": 9961298
       }
     },
     {
-      "query": "tag:CCNA3",
+      "query": "tag:#CCNA3",
       "color": {
         "a": 1,
-        "rgb": 9589472
+        "rgb": 16726072
       }
     },
     {
       "query": "tag:#Module  ",
       "color": {
         "a": 1,
-        "rgb": 5415904
+        "rgb": 5111771
+      }
+    },
+    {
+      "query": "tag:#Course  ",
+      "color": {
+        "a": 1,
+        "rgb": 16770365
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
