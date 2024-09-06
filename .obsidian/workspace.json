@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -154,40 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "2210b86f43532823",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e5ddc1d7fc9c1609",
-        "type": "window",
-        "children": [
-          {
-            "id": "2a8e26f98c5dc628",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5ab0586ca66bd1ed",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 411,
-        "y": 19,
-        "width": 1542,
-        "height": 1032,
-        "maximize": true,
-        "zoom": -1
-      }
-    ]
-  },
-  "active": "5ab0586ca66bd1ed",
+  "active": "c85be4791bcdc860",
   "lastOpenFiles": [
     "COMNET/CCNA2/Module 3 - Protocols and Models/Module 3.md",
     "COMNET/CCNA2/Module 3 - Protocols and Models/Module 3 - Protocols and Models.md",
