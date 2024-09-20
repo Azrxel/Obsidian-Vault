@@ -11,8 +11,12 @@
             "id": "59d6561a0d1fc1e6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/fsd f.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/fsd f.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/fsd f.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/fsd f.md"
+              }
             }
           },
           {
@@ -154,8 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c85be4791bcdc860",
+  "active": "59d6561a0d1fc1e6",
   "lastOpenFiles": [
+    "Templates/Templates.md",
+    "Templates/fsd f.md",
     "COMNET/CCNA2/Module 3 - Protocols and Models/Module 3.md",
     "COMNET/CCNA2/Module 3 - Protocols and Models/Module 3 - Protocols and Models.md",
     "COMNET/CCNA3/CCNA3.md",
@@ -180,8 +190,6 @@
     "COMNET/CCNA2/Module 3 - Protocols and Models/3.5 Dynamic Trunking Protocol/3.5 Dynamic Trunking Protocol.md",
     "COMNET/CCNA2/Module 3 - Protocols and Models/3.1. Overview of VLANs/3.1. Overview of VLANs.md",
     "COMNET/CCNA2/Module 3 - Protocols and Models/3.4 VLAN Trunks/3.4 VLAN Trunks.md",
-    "COMNET/CCNA2/Module 3 - Protocols and Models/3.3 VLAN Configuration/3.3 VLAN Configuration.md",
-    "COMNET/CCNA2/Module 3 - Protocols and Models/3.2 VLANs in a Multi-Switched Environment/3.2 VLANs in a Multi-Switched Environment.md",
     "COMNET/CCNA2/Module 2 - Switching Concepts/2.2. Switching Domains",
     "COMNET/CCNA2/Module 2 - Switching Concepts/2.1. Frame Forwarding",
     "COMNET/CCNA2/Module 2 - Switching Concepts/Switching Concepts/2.2. Switching Domains",
