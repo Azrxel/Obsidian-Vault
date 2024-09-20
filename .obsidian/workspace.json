@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/fsd f.md",
+                "file": "Templates/Templates.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/fsd f.md",
+                "file": "Templates/Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/fsd f.md",
+                "file": "Templates/Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/fsd f.md"
+                "file": "Templates/Templates.md"
               }
             }
           },
@@ -164,8 +164,8 @@
   },
   "active": "59d6561a0d1fc1e6",
   "lastOpenFiles": [
-    "Templates/Templates.md",
     "Templates/fsd f.md",
+    "Templates/Templates.md",
     "COMNET/CCNA2/Module 3 - Protocols and Models/Module 3.md",
     "COMNET/CCNA2/Module 3 - Protocols and Models/Module 3 - Protocols and Models.md",
     "COMNET/CCNA3/CCNA3.md",
