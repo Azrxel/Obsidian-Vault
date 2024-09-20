@@ -1,12 +1,13 @@
 {
-  "cssTheme": "Things",
+  "cssTheme": "Shimmering Focus",
   "accentColor": "",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "snippet"
   ],
-  "interfaceFontFamily": "Arial Rounded MT Bold",
+  "interfaceFontFamily": "Segoe MDL2 Assets,Arial Rounded MT Bold",
   "textFontFamily": "Baskerville",
   "baseFontSizeAction": false,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "monospaceFontFamily": ""
 }

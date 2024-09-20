@@ -8,7 +8,8 @@ tags:
 	- [[Determine the DR and BDR]]
 	- [[Point-to-Point Single-Area OSPFv2 Configuration]]
 - **[[Module 1 - Single-Area OSPFv2 Concepts]]**
-- **[[Module 02 - Area OSPFv2 Configuration]]**
+- **[[Module 2 - Area OSPFv2 Configuration]]**
+- **[[Module 4 - ACL Concepts]]**
 
 %% End Waypoint %%
 

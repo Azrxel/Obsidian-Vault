@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Templates.md",
+                "file": "COMNET/CCNA3/Module 4 - ACL Concepts/4.2 Wildcard Masks in ACLs/2. Wildcard Mask Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:CCNA2",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Templates.md",
+                "file": "COMNET/CCNA3/Module 4 - ACL Concepts/4.2 Wildcard Masks in ACLs/2. Wildcard Mask Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Templates.md",
+                "file": "COMNET/CCNA3/Module 4 - ACL Concepts/4.2 Wildcard Masks in ACLs/2. Wildcard Mask Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Templates.md"
+                "file": "COMNET/CCNA3/Module 4 - ACL Concepts/4.2 Wildcard Masks in ACLs/2. Wildcard Mask Types.md"
               }
             }
           },
@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,52 +164,52 @@
   },
   "active": "59d6561a0d1fc1e6",
   "lastOpenFiles": [
-    "Templates/fsd f.md",
-    "Templates/Templates.md",
-    "COMNET/CCNA2/Module 3 - Protocols and Models/Module 3.md",
-    "COMNET/CCNA2/Module 3 - Protocols and Models/Module 3 - Protocols and Models.md",
+    "COMNET/CCNA3/Module 4 - ACL Concepts/4.2 Wildcard Masks in ACLs/3. Wildcard Mask Calculation.md",
+    "COMNET/CCNA3/Module 4 - ACL Concepts/4.1 Purpose of ACLs/4.1 Purpose of ACLs.md",
+    "COMNET/CCNA3/Module 4 - ACL Concepts/Module 4 - ACL Concepts.md",
     "COMNET/CCNA3/CCNA3.md",
-    "COMNET/CCNA2/Module 4 - Physical Layer/4.3 Inter-VLAN Routing using Layer 3 Switches/4.3 Inter-VLAN Routing using Layer 3 Switches.md",
-    "COMNET/CCNA2/Module 4 - Physical Layer/4.3 Inter-VLAN Routing using Layer 3 Switches/1. Layer 3 Switch Inter-VLAN Routing.md",
-    "COMNET/CCNA2/Module 4 - Physical Layer/4.3 Inter-VLAN Routing using Layer 3 Switches/2. Layer 3 Switch Scenario.md",
-    "COMNET/CCNA2/Module 4 - Physical Layer/4.2 Router-on-a-Stick Inter-VLAN Routing/4.2 Router-on-a-Stick Inter-VLAN Routing.md",
-    "COMNET/CCNA2/Module 4 - Physical Layer/4.1 Inter-VLAN Routing Operation/4.1 Inter-VLAN Routing Operation.md",
-    "COMNET/CCNA2/Module 4 - Physical Layer/Module 4 - Physical Layer.md",
-    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/1.3 OSPF Operation.md",
-    "COMNET/CCNA2/Module 1 - Basic Device Configuration/Module 1 - Basic Device Configuration.md",
-    "COMNET/CCNA2/Module 1 - Basic Device Configuration/Module 1.md",
     "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md",
-    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/1.1 OSPF Features and Characteristics.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/2.2 Point-to-Point OSPF Networks.md",
-    "COMNET/CCNA2/Module 4 - Physical Layer/4.1 Inter-VLAN Routing Operation/1. Inter-VLAN Routing.md",
-    "COMNET/CCNA2/Module 2 - Switching Concepts/2.2. Switching Domains/2.2. Switching Domains.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/2.4 Modify Single-Area OSPFv2.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.5 Default Route Propagation/2.5 Default Route Propagation.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.1 OSPF Router ID/2.1 OSPF Router ID.md",
-    "COMNET/CCNA3/Module 02 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/2.3 Multiaccess OSPF Networks.md",
-    "COMNET/CCNA2/Module 3 - Protocols and Models/3.5 Dynamic Trunking Protocol/3.5 Dynamic Trunking Protocol.md",
-    "COMNET/CCNA2/Module 3 - Protocols and Models/3.1. Overview of VLANs/3.1. Overview of VLANs.md",
-    "COMNET/CCNA2/Module 3 - Protocols and Models/3.4 VLAN Trunks/3.4 VLAN Trunks.md",
+    "COMNET/COMNET.md",
+    "PNG Reference/CCNA3/Module 4/4.4.3 Where to Place ACLs.png",
+    "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/1. Standard and Extended ACLs.md",
+    "PNG Reference/DevNet Final Exam/CyberOps Presentation.md",
+    "COMNET/CCNA3/Module 4 - ACL Concepts/4.3 Guidelines for ACL Creation/2. ACL Best Practices.md",
+    "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/2. Numbered and Named ACLs.md",
+    "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/4.4 Types pf IPv4 ACLs.md",
+    "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/5. Extended ACL Placement Example.md",
+    "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/4. Standard ACL Placement Example.md",
+    "PNG Reference/CCNA3/Module 4/4.4.5 Extended ACL Placement Example.png",
+    "PNG Reference/CCNA3/Module 4/4.4.4 Interfaces on R3 to apply the standard ACL.png",
+    "PNG Reference/CCNA3/Module 4/4.4.4 Standard ACL Placement Example.png",
+    "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/3. Where to Place ACLs.md",
+    "PNG Reference/CCNA3/Module 4/4.4.2 Numbered and Named ACLs.png",
+    "COMNET/CCNA3/Module 4 - ACL Concepts/4.3 Guidelines for ACL Creation/1. Limited Number of ACLs per Interface.md",
+    "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs",
+    "COMNET/CCNA3/Module 4 - ACL Concepts/4.1 Purpose of ACLs/3. ACL Operation.md",
+    "COMNET/CCNA3/Module 4 - ACL Concepts/4.1 Purpose of ACLs/1. What is an ACL.md",
+    "COMNET/CCNA3/Module 4 - ACL Concepts/4.1 Purpose of ACLs/2. Packet Filtering.md",
+    "PNG Reference/CCNA3/Module 4/4.1.2 Packet Filtering.png",
+    "PNG Reference/CCNA3/Module 4/4.3.1 Limited Number of ACLs per Interface.png",
+    "PNG Reference/CCNA3/Module 4/4.1.3 ACL Operation.png",
+    "COMNET/CCNA3/Module 4 - ACL Concepts/4.2 Wildcard Masks in ACLs/4. Wildcard Mask Keywords.md",
+    "COMNET/CCNA3/Module 4 - ACL Concepts/4.2 Wildcard Masks in ACLs/2. Wildcard Mask Types.md",
+    "COMNET/CCNA3/Module 4 - ACL Concepts/4.2 Wildcard Masks in ACLs/1. Wildcard Mask Overview.md",
+    "PNG Reference/Resistor Color Code Reference Table.png",
+    "Templates/Templates.md",
+    "COMNET/CCNA3/Module 4 - ACL Concepts/4.3 Guidelines for ACL Creation/4.3 Guidelines for ACL Creation.md",
+    "COMNET/CCNA3/Module 4 - ACL Concepts/4.2 Wildcard Masks in ACLs/4.2 Wildcard Masks in ACLs.md",
+    "COMNET/CCNA3/Module 4 - ACL Concepts/4.3 Guidelines for ACL Creation",
+    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/2. Establish Neighbor Adjacencies.md",
+    "COMNET/CCNA3/Module 4 - ACL Concepts/4.2 Wildcard Masks in ACLs",
+    "PNG Reference/CCNA3/Module 4",
+    "PNG Reference/ENSA_Module_4.jpg",
+    "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/3. Synchronizing OSPF Databases.md",
+    "COMNET/CCNA3/Module 4 - ACL Concepts/4.1 Purpose of ACLs",
+    "COMNET/CCNA3/Module 4 - ACL Concepts",
     "COMNET/CCNA2/Module 2 - Switching Concepts/2.2. Switching Domains",
     "COMNET/CCNA2/Module 2 - Switching Concepts/2.1. Frame Forwarding",
     "COMNET/CCNA2/Module 2 - Switching Concepts/Switching Concepts/2.2. Switching Domains",
     "COMNET/CCNA2/Module 2 - Switching Concepts/Switching Concepts/2.1. Frame Forwarding",
-    "COMNET/CCNA2/Module 2 - Switching Concepts/Switching Concepts",
-    "COMNET/CCNA2/Module 2 - Switching Concepts",
-    "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.5 Verify Directly Connected Networks",
-    "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.4 Basic Router Configuration",
-    "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.3. Secure Remote Access",
-    "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.2. Configure Switch Ports",
-    "PNG Reference/Resistor Color Code Reference Table.png",
-    "PNG Reference/CCNA3/Module 2/2.5.6 Summary of OSPFv2-Enabled Interfaces.png",
-    "PNG Reference/CCNA3/Module 2/2.5.6 Verify OSPF Interface Settings.png",
-    "PNG Reference/CCNA3/Module 2/2.5.5 Verify OSPF Process Information.png",
-    "PNG Reference/CCNA3/Module 2/2.5.4 Verify OSPF Protocol Settings.png",
-    "PNG Reference/CCNA3/Module 2/2.5.3 Verify OSPF Neighbors.png",
-    "PNG Reference/CCNA3/Module 2/2.5.2 Verify the Propagated Default Route.png",
-    "PNG Reference/CCNA3/Module 2/2.5.1 Propagate a Default Static Route in OSPFv2.png",
-    "PNG Reference/CCNA3/Module 1/1.1.2 SPF Algorithm.png",
-    "PNG Reference/CCNA3/Module 2/2.4.8 Modifying OSPFv2 Intervals.png",
     "Untitled.canvas"
   ]
 }
