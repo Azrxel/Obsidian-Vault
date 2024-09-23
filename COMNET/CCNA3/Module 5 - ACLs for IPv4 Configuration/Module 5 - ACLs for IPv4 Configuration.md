@@ -1,6 +1,8 @@
 %% Begin Waypoint %%
 - **5.1 Configure Standard IPv4 ACLs**
 	- [[1. Create an ACL]]
+	- [[2. Numbered Standard IPv4 ACL Syntax]]
+	- [[3. Named Standard IPv4 ACL Syntax]]
 
 %% End Waypoint %%
 

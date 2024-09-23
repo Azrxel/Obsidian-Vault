@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs/1. Create an ACL.md",
+                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs/3. Named Standard IPv4 ACL Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs/1. Create an ACL.md",
+                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs/3. Named Standard IPv4 ACL Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs/1. Create an ACL.md",
+                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs/3. Named Standard IPv4 ACL Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs/1. Create an ACL.md"
+                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs/3. Named Standard IPv4 ACL Syntax.md"
               }
             }
           },
@@ -164,8 +164,19 @@
   },
   "active": "59d6561a0d1fc1e6",
   "lastOpenFiles": [
-    "COMNET/CCNA3/Module 4 - ACL Concepts/Module 4 - ACL Concepts.md",
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs/2. Numbered Standard IPv4 ACL Syntax.md",
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs/3. Named Standard IPv4 ACL Syntax.md",
+    "PNG Reference/CCNA3/Module 5/5.1.2 Numbered Standard ACL Syntax.png",
+    "PNG Reference/DevNet Final Exam/Resolving Host Names.png",
+    "PNG Reference/Resistor Color Code Reference Table.png",
+    "PNG Reference/DevNet Final Exam/Pasted image 20240724155628.png",
+    "PNG Reference/DevNet Final Exam/Jenkins Pipeline.png",
+    "PNG Reference/DevNet Final Exam/Encapsulation & Port Assigning.png",
+    "PNG Reference/DevNet Final Exam/CyberOps Presentation.md",
+    "PNG Reference/CCNA3/Module 5",
+    "Templates/Templates.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs/1. Create an ACL.md",
+    "COMNET/CCNA3/Module 4 - ACL Concepts/Module 4 - ACL Concepts.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/Untitled.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/Module 5 - ACLs for IPv4 Configuration.md",
@@ -185,31 +196,20 @@
     "PNG Reference/CCNA3/Module 4/4.1.2 Packet Filtering.png",
     "PNG Reference/CCNA3/Module 4/4.4.2 Numbered and Named ACLs.png",
     "PNG Reference/CCNA3/Module 4/4.4.4 Standard ACL Placement Example.png",
-    "PNG Reference/CCNA3/Module 4/4.4.5 Extended ACL Placement Example.png",
     "COMNET/CCNA3/Module 4 - ACL Concepts/4.2 Wildcard Masks in ACLs/3. Wildcard Mask Calculation.md",
-    "PNG Reference/CCNA3/Module 4/4.4.3 Where to Place ACLs.png",
     "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/1. Standard and Extended ACLs.md",
-    "PNG Reference/DevNet Final Exam/CyberOps Presentation.md",
     "COMNET/CCNA3/Module 4 - ACL Concepts/4.3 Guidelines for ACL Creation/2. ACL Best Practices.md",
     "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/2. Numbered and Named ACLs.md",
     "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/5. Extended ACL Placement Example.md",
     "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/4. Standard ACL Placement Example.md",
     "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/3. Where to Place ACLs.md",
-    "COMNET/CCNA3/Module 4 - ACL Concepts/4.3 Guidelines for ACL Creation/1. Limited Number of ACLs per Interface.md",
     "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs",
-    "COMNET/CCNA3/Module 4 - ACL Concepts/4.1 Purpose of ACLs/3. ACL Operation.md",
-    "COMNET/CCNA3/Module 4 - ACL Concepts/4.1 Purpose of ACLs/2. Packet Filtering.md",
-    "PNG Reference/CCNA3/Module 4/4.3.1 Limited Number of ACLs per Interface.png",
-    "PNG Reference/CCNA3/Module 4/4.1.3 ACL Operation.png",
-    "PNG Reference/Resistor Color Code Reference Table.png",
     "COMNET/CCNA3/Module 4 - ACL Concepts/4.3 Guidelines for ACL Creation",
     "COMNET/CCNA3/Module 4 - ACL Concepts/4.2 Wildcard Masks in ACLs",
     "PNG Reference/CCNA3/Module 4",
-    "PNG Reference/ENSA_Module_4.jpg",
     "COMNET/CCNA3/Module 4 - ACL Concepts/4.1 Purpose of ACLs",
     "COMNET/CCNA3/Module 4 - ACL Concepts",
     "COMNET/CCNA2/Module 2 - Switching Concepts/2.2. Switching Domains",
-    "COMNET/CCNA2/Module 2 - Switching Concepts/2.1. Frame Forwarding",
     "Untitled.canvas"
   ]
 }
