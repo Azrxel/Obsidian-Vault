@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/3. Sequence Number Method.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "6147454f28729d8d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "634da8b51fec4663",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/5.2 Modify APv4 ACLs.md",
+                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/5. ACL Statistics.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/5.2 Modify APv4 ACLs.md",
+                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/5. ACL Statistics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/5.2 Modify APv4 ACLs.md",
+                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/5. ACL Statistics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/5.2 Modify APv4 ACLs.md"
+                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/5. ACL Statistics.md"
               }
             }
           },
@@ -180,23 +162,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "634da8b51fec4663",
+  "active": "59d6561a0d1fc1e6",
   "lastOpenFiles": [
-    "PNG Reference/CCNA3/Module 5/5.2.3 Sequence Number Method.png",
-    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/3. Sequence Number Method.md",
-    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/2. Text Editor Method.md",
-    "PNG Reference/CCNA3/Module 5/5.2.2 Text Editor Method.png",
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/4. Modify a Named ACL Example.md",
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/5. ACL Statistics.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/1. Two Methods to Modify an ACL.md",
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/2. Text Editor Method.md",
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/3. Sequence Number Method.md",
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/5.2 Modify APv4 ACLs.md",
+    "PNG Reference/CCNA3/Module 5/5.2.3 Sequence Number Method.png",
+    "PNG Reference/CCNA3/Module 5/5.2.2 Text Editor Method.png",
     "PNG Reference/CCNA3/Module 5/5.1.6 ACL Verification Commands.png",
     "PNG Reference/CCNA3/Module 5/5.2.4 Modify a Named ACL Example.png",
-    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/4. Modify a Named ACL Example.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/4..md",
     "COMNET/CCNA3/Module 4 - ACL Concepts/Module 4 - ACL Concepts.md",
     "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/4.4 Types pf IPv4 ACLs.md",
     "COMNET/CCNA3/Module 4 - ACL Concepts/4.1 Purpose of ACLs/4.1 Purpose of ACLs.md",
     "COMNET/CCNA3/Module 4 - ACL Concepts/4.2 Wildcard Masks in ACLs/4.2 Wildcard Masks in ACLs.md",
     "COMNET/CCNA3/Module 4 - ACL Concepts/4.3 Guidelines for ACL Creation/4.3 Guidelines for ACL Creation.md",
-    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/5.2 Modify APv4 ACLs.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs/5.1 Configure Standard IPv4 ACLs.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/Module 5 - ACLs for IPv4 Configuration.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs/5. Numbered Standard ACL Example.md",
