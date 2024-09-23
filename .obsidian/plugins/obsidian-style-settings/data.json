@@ -32,5 +32,7 @@
   "blue-topaz-theme@@fancy-hr": "default-hr",
   "blue-topaz-theme@@list-ul-marker-color@@light": "#0A7DFF",
   "blue-topaz-theme@@list-ul-marker-color@@dark": "#0A7DFF",
-  "blue-topaz-theme@@fancy-hr-icon": "'X'"
+  "blue-topaz-theme@@fancy-hr-icon": "'X'",
+  "blue-topaz-theme@@bt-indentation-width-hover": "1px",
+  "blue-topaz-theme@@indentation-guide-width": 0.5
 }
