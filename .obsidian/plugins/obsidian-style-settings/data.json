@@ -19,5 +19,18 @@
   "shimmering-focus@@no-image-alttext-caption": true,
   "shimmering-focus@@image-size": 100,
   "shimmering-focus@@unrestricted-line-length-tables": true,
-  "blue-topaz-theme@@list-ul-marker-color-1@@light": "#48E9FF"
+  "blue-topaz-theme@@list-ul-marker-color-1@@light": "#48E9FF",
+  "blue-topaz-theme@@list-ul-marker-color-1@@dark": "#48E9FF",
+  "blue-topaz-theme@@list-ul-marker-color-2@@dark": "#48FFA4",
+  "blue-topaz-theme@@list-ul-marker-color-3@@dark": "#B0FF48",
+  "blue-topaz-theme@@list-ul-marker-color-4@@dark": "#FF48E6",
+  "blue-topaz-theme@@list-ul-marker-color-2@@light": "#48FFA4",
+  "blue-topaz-theme@@list-ul-marker-color-3@@light": "#B0FF48",
+  "blue-topaz-theme@@list-ul-marker-color-4@@light": "#FF48E6",
+  "blue-topaz-theme@@plain-file-title": false,
+  "blue-topaz-theme@@title-justify-start": false,
+  "blue-topaz-theme@@fancy-hr": "default-hr",
+  "blue-topaz-theme@@list-ul-marker-color@@light": "#0A7DFF",
+  "blue-topaz-theme@@list-ul-marker-color@@dark": "#0A7DFF",
+  "blue-topaz-theme@@fancy-hr-icon": "'X'"
 }
