@@ -3,6 +3,8 @@
 	- [[1. Create an ACL]]
 	- [[2. Numbered Standard IPv4 ACL Syntax]]
 	- [[3. Named Standard IPv4 ACL Syntax]]
+	- [[4. Apply a Standard IPv4 ACL]]
+	- [[5. Numbered Standard ACL Example]]
 
 %% End Waypoint %%
 
