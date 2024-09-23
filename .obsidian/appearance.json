@@ -1,5 +1,5 @@
 {
-  "cssTheme": "",
+  "cssTheme": "Blue Topaz",
   "accentColor": "",
   "theme": "obsidian",
   "enabledCssSnippets": [
@@ -9,5 +9,6 @@
   "textFontFamily": "Baskerville",
   "baseFontSizeAction": false,
   "nativeMenus": false,
-  "monospaceFontFamily": ""
+  "monospaceFontFamily": "",
+  "showViewHeader": true
 }

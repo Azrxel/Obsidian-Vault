@@ -2,978 +2,988 @@
   "nodePositions": [
     {
       "id": "COMNET/CCNA2/CCNA2.md",
-      "x": -443.7006530761719,
-      "y": 1812.0157470703125
+      "x": -363.06182861328125,
+      "y": 1895.76513671875
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1. Switch Boot Sequence.md",
-      "x": -1213.18701171875,
-      "y": 1568.3477783203125
+      "x": -1112.796875,
+      "y": 1795.4534912109375
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/1.1. Configuring a Switch with Initial Settings.md",
-      "x": -1552.44677734375,
-      "y": 1676.4493408203125
+      "x": -1466.56494140625,
+      "y": 1858.370361328125
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/2. The Boot System Command.md",
-      "x": -1755.3387451171875,
-      "y": 1410.80712890625
+      "x": -1633.59716796875,
+      "y": 1575.2073974609375
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/3. Switch LED Indicators.md",
-      "x": -1322.9000244140625,
-      "y": 1399.3853759765625
+      "x": -1198.9317626953125,
+      "y": 1614.1875
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/4. Recovering from a System Crash.md",
-      "x": -1863.363037109375,
-      "y": 1651.3388671875
+      "x": -1770.69580078125,
+      "y": 1806.220703125
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/5. Switch Management Access.md",
-      "x": -1527.7667236328125,
-      "y": 1336.017578125
+      "x": -1393.2735595703125,
+      "y": 1524.7047119140625
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.1. Configuring a Switch with Initial Settings/6. Switch SVI Configuration.md",
-      "x": -1249.4444580078125,
-      "y": 1786.70361328125
+      "x": -1173.5482177734375,
+      "y": 2000.49462890625
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.2. Configure Switch Ports/1. Duplex Communications.md",
-      "x": -3132.192626953125,
-      "y": 1798.1845703125
+      "x": -3187.39599609375,
+      "y": 1811.1837158203125
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.2. Configure Switch Ports/1.2. Configure Switch Ports.md",
-      "x": -2900.24365234375,
-      "y": 1582.7730712890625
+      "x": -2936.512939453125,
+      "y": 1614.6370849609375
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.2. Configure Switch Ports/2. Configure Switch Ports at the Physical Layer.md",
-      "x": -3266.6103515625,
-      "y": 1673.53662109375
+      "x": -3316.2900390625,
+      "y": 1685.7081298828125
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.2. Configure Switch Ports/3. Auto-MDIX.md",
-      "x": -2973.663330078125,
-      "y": 1238.4871826171875
+      "x": -3008.286376953125,
+      "y": 1271.1484375
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.2. Configure Switch Ports/4. Verify Switch Port Configuration.md",
-      "x": -3219.7568359375,
-      "y": 1401.07080078125
+      "x": -3246.449462890625,
+      "y": 1433.333740234375
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.2. Configure Switch Ports/5. Network Access Layer Issues.md",
-      "x": -3155.09912109375,
-      "y": 1260.18896484375
+      "x": -3197.667724609375,
+      "y": 1285.8251953125
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.2. Configure Switch Ports/6. Interface Input and Output Errors.md",
-      "x": -2752.784912109375,
-      "y": 1303.4117431640625
+      "x": -2781.492431640625,
+      "y": 1346.6942138671875
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.2. Configure Switch Ports/7. Troubleshooting Network Access Layer Issues.md",
-      "x": -3323.948974609375,
-      "y": 1515.2393798828125
+      "x": -3371.6015625,
+      "y": 1520.7049560546875
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.3. Secure Remote Access/1. Telnet Operation.md",
-      "x": -1677.4393310546875,
-      "y": 2716.974365234375
+      "x": -1788.456787109375,
+      "y": 2851.467529296875
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.3. Secure Remote Access/1.3. Secure Remote Access.md",
-      "x": -1484.074462890625,
-      "y": 2483.269775390625
+      "x": -1553.64599609375,
+      "y": 2666.84765625
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.3. Secure Remote Access/2. SSH Operation.md",
-      "x": -1217.150146484375,
-      "y": 2703.016845703125
+      "x": -1326.7611083984375,
+      "y": 2939.245361328125
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.3. Secure Remote Access/3. Verify The Switch Supports SSH.md",
-      "x": -1246.5302734375,
-      "y": 2276.906494140625
+      "x": -1281.3199462890625,
+      "y": 2512.056396484375
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.3. Secure Remote Access/4. Configure SSH.md",
-      "x": -1412.7896728515625,
-      "y": 2816.9794921875
+      "x": -1535.341796875,
+      "y": 3008.824462890625
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.3. Secure Remote Access/5. Verify SSH is Operational.md",
-      "x": -1139.240966796875,
-      "y": 2490.21337890625
+      "x": -1215.2662353515625,
+      "y": 2745.12548828125
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.4 Basic Router Configuration/1. Configure Basic Router Configuration.md",
-      "x": -1830.44775390625,
-      "y": 3343.401611328125
+      "x": -1950.0537109375,
+      "y": 3449.131591796875
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.4 Basic Router Configuration/1.4 Basic Router Configuration.md",
-      "x": -2068.807373046875,
-      "y": 3098.193603515625
+      "x": -2171.547607421875,
+      "y": 3177.98876953125
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.4 Basic Router Configuration/2. Dual Stack Topology.md",
-      "x": -1999.3092041015625,
-      "y": 3464.459716796875
+      "x": -2125.28955078125,
+      "y": 3551.507080078125
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.4 Basic Router Configuration/3. Configure Router Interfaces.md",
-      "x": -2195.55322265625,
-      "y": 3449.19189453125
+      "x": -2321.405517578125,
+      "y": 3519.561767578125
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.4 Basic Router Configuration/4. IPv4 Loopback Interfaces.md",
-      "x": -2344.8701171875,
-      "y": 3305.32080078125
+      "x": -2465.215087890625,
+      "y": 3363.8642578125
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.5 Verify Directly Connected Networks/1. Interface Verification Commands.md",
-      "x": -2580.93212890625,
-      "y": 2734.6591796875
+      "x": -2640.5966796875,
+      "y": 2712.4677734375
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.5 Verify Directly Connected Networks/1.5 Verify Directly Connected Networks.md",
-      "x": -2782.8974609375,
-      "y": 2520.2607421875
+      "x": -2838.91943359375,
+      "y": 2496.243408203125
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.5 Verify Directly Connected Networks/2. Verify Interface Status.md",
-      "x": -3111.57080078125,
-      "y": 2723.141845703125
+      "x": -3169.310546875,
+      "y": 2683.349609375
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.5 Verify Directly Connected Networks/3. Verify IPv6 Link Local and Multicast Addresses.md",
-      "x": -2986.78369140625,
-      "y": 2837.980224609375
+      "x": -3061.284912109375,
+      "y": 2812.609130859375
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.5 Verify Directly Connected Networks/4. Verify Interface Configuration.md",
-      "x": -3125.49609375,
-      "y": 2399.835693359375
+      "x": -3182.080078125,
+      "y": 2367.6083984375
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.5 Verify Directly Connected Networks/5. Verify Routes.md",
-      "x": -3173.9169921875,
-      "y": 2567.44091796875
+      "x": -3239.4033203125,
+      "y": 2534.20361328125
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.5 Verify Directly Connected Networks/6. Filter Show Command Output.md",
-      "x": -2942.79541015625,
-      "y": 2261.947509765625
+      "x": -3000.681884765625,
+      "y": 2233.844482421875
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/1.5 Verify Directly Connected Networks/7. Command History Feature.md",
-      "x": -2804.515869140625,
-      "y": 2866.608154296875
+      "x": -2875.40185546875,
+      "y": 2838.510009765625
     },
     {
       "id": "COMNET/CCNA2/Module 1 - Basic Device Configuration/Module 1 - Basic Device Configuration.md",
-      "x": -1939.04052734375,
-      "y": 2174.32861328125
+      "x": -1956.072021484375,
+      "y": 2251.0068359375
     },
     {
       "id": "COMNET/CCNA2/Module 2 - Switching Concepts/2.1. Frame Forwarding/1. Switching in Networking.md",
-      "x": -2856.929931640625,
-      "y": -53.94595718383789
+      "x": -2678.41455078125,
+      "y": 131.10531616210938
     },
     {
       "id": "COMNET/CCNA2/Module 2 - Switching Concepts/2.1. Frame Forwarding/2. The Switch MAC Address Table.md",
-      "x": -2588.98291015625,
-      "y": -170.57801818847656
+      "x": -2412.5390625,
+      "y": 11.29987621307373
     },
     {
       "id": "COMNET/CCNA2/Module 2 - Switching Concepts/2.1. Frame Forwarding/2.1. Frame Forwarding.md",
-      "x": -2599.393798828125,
-      "y": 168.19998168945312
+      "x": -2417.816650390625,
+      "y": 350.615478515625
     },
     {
       "id": "COMNET/CCNA2/Module 2 - Switching Concepts/2.1. Frame Forwarding/3. The Switch Learn and Forward Method.md",
-      "x": -2992.66748046875,
-      "y": 157.02456665039062
+      "x": -2809.78369140625,
+      "y": 339.7210693359375
     },
     {
       "id": "COMNET/CCNA2/Module 2 - Switching Concepts/2.1. Frame Forwarding/4. Switch Forwarding Methods.md",
-      "x": -2900.017822265625,
-      "y": 317.19146728515625
+      "x": -2715.94140625,
+      "y": 503.3713684082031
     },
     {
       "id": "COMNET/CCNA2/Module 2 - Switching Concepts/2.1. Frame Forwarding/5. Store-and-Forward Switching.md",
-      "x": -3007.551025390625,
-      "y": -23.72141456604004
+      "x": -2832.6328125,
+      "y": 159.95240783691406
     },
     {
       "id": "COMNET/CCNA2/Module 2 - Switching Concepts/2.1. Frame Forwarding/6. Cut-Through Switching.md",
-      "x": -2794.119384765625,
-      "y": -197.31443786621094
+      "x": -2621.19287109375,
+      "y": -19.53769302368164
     },
     {
       "id": "COMNET/CCNA2/Module 2 - Switching Concepts/2.2. Switching Domains/1. Collision Domains.md",
-      "x": -1536.5015869140625,
-      "y": 129.5323028564453
+      "x": -1317.592041015625,
+      "y": 338.3874816894531
     },
     {
       "id": "COMNET/CCNA2/Module 2 - Switching Concepts/2.2. Switching Domains/2. Broadcast Domains.md",
-      "x": -2056.33203125,
-      "y": 265.70623779296875
+      "x": -1862.64892578125,
+      "y": 431.0240173339844
     },
     {
       "id": "COMNET/CCNA2/Module 2 - Switching Concepts/2.2. Switching Domains/2.2. Switching Domains.md",
-      "x": -1754.38330078125,
-      "y": 338.90606689453125
+      "x": -1565.7159423828125,
+      "y": 508.6069030761719
     },
     {
       "id": "COMNET/CCNA2/Module 2 - Switching Concepts/2.2. Switching Domains/3. Alleviated Network Congestion.md",
-      "x": -1874.852783203125,
-      "y": 31.723506927490234
+      "x": -1671.8145751953125,
+      "y": 198.23162841796875
     },
     {
       "id": "COMNET/CCNA2/Module 2 - Switching Concepts/Module 2 - Switching Concepts.md",
-      "x": -1604.4483642578125,
-      "y": 755.3550415039062
+      "x": -1460.224853515625,
+      "y": 917.3639526367188
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.1. Overview of VLANs/1. VLAN Definitions.md",
-      "x": 1292.390380859375,
-      "y": 962.2437744140625
+      "x": 1589.9378662109375,
+      "y": 934.970703125
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.1. Overview of VLANs/2. Benefits of VLAN Design.md",
-      "x": 1015.3758544921875,
-      "y": 1013.856201171875
+      "x": 1323.03955078125,
+      "y": 918.765625
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.1. Overview of VLANs/3. Types of VLANs.md",
-      "x": 893.5087890625,
-      "y": 1254.340087890625
+      "x": 1136.089599609375,
+      "y": 1127.8392333984375
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.1. Overview of VLANs/3.1. Overview of VLANs.md",
-      "x": 1222.6002197265625,
-      "y": 1278.940673828125
+      "x": 1448.50146484375,
+      "y": 1231.95361328125
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.2 VLANs in a Multi-Switched Environment/1. Defining VLAN Trunks.md",
-      "x": 983.6092529296875,
-      "y": 2093.03466796875
+      "x": 1085.8031005859375,
+      "y": 2024.5108642578125
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.2 VLANs in a Multi-Switched Environment/2. Networks without VLANs.md",
-      "x": 1191.3026123046875,
-      "y": 1937.3511962890625
+      "x": 1297.47802734375,
+      "y": 1891.943115234375
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.2 VLANs in a Multi-Switched Environment/3. Networks with VLANs.md",
-      "x": 1139.1539306640625,
-      "y": 2530.8349609375
+      "x": 1190.578857421875,
+      "y": 2483.84716796875
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.2 VLANs in a Multi-Switched Environment/3.2 VLANs in a Multi-Switched Environment.md",
-      "x": 1299.6820068359375,
-      "y": 2226.3896484375
+      "x": 1380.93994140625,
+      "y": 2197.751220703125
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.2 VLANs in a Multi-Switched Environment/4. VLAN Identification with a Tag.md",
-      "x": 1533.6212158203125,
-      "y": 2467.25048828125
+      "x": 1592.515869140625,
+      "y": 2461.62451171875
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.2 VLANs in a Multi-Switched Environment/5. Native VLANs and 802.1Q Tagging.md",
-      "x": 1346.376953125,
-      "y": 2581.672119140625
+      "x": 1392.502197265625,
+      "y": 2555.188232421875
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.2 VLANs in a Multi-Switched Environment/6. Voice VLAN Tagging.md",
-      "x": 986.2256469726562,
-      "y": 2337.419921875
+      "x": 1056.8502197265625,
+      "y": 2273.03369140625
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.2 VLANs in a Multi-Switched Environment/7. Voice VLAN Verification Example.md",
-      "x": 1605.6649169921875,
-      "y": 2182.55419921875
+      "x": 1687.109130859375,
+      "y": 2194.99951171875
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.3 VLAN Configuration/1. VLAN Ranges on Catalyst Switches.md",
-      "x": 2709.233154296875,
-      "y": 1311.0343017578125
+      "x": 2923.175048828125,
+      "y": 1438.061279296875
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.3 VLAN Configuration/10. Delete VLANs.md",
-      "x": 2328.806396484375,
-      "y": 1246.7386474609375
+      "x": 2509.74267578125,
+      "y": 1254.67822265625
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.3 VLAN Configuration/2. VLAN Creation Commands.md",
-      "x": 2926.391845703125,
-      "y": 1052.3331298828125
+      "x": 3143.780029296875,
+      "y": 1191.3978271484375
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.3 VLAN Configuration/3. VLAN Creation Example.md",
-      "x": 2342.731689453125,
-      "y": 741.8775634765625
+      "x": 2659.782958984375,
+      "y": 802.9978637695312
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.3 VLAN Configuration/3.3 VLAN Configuration.md",
-      "x": 2533.606689453125,
-      "y": 1036.5484619140625
+      "x": 2772.283447265625,
+      "y": 1142.9478759765625
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.3 VLAN Configuration/4. VLAN Port Assignment Commands.md",
-      "x": 2226.643310546875,
-      "y": 938.5978393554688
+      "x": 2510.04443359375,
+      "y": 941.7610473632812
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.3 VLAN Configuration/5. VLAN Port Assignment Example.md",
-      "x": 2692.703369140625,
-      "y": 690.0619506835938
+      "x": 2981.391357421875,
+      "y": 813.837158203125
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.3 VLAN Configuration/6. Data and Voice VLANs.md",
-      "x": 2825.668212890625,
-      "y": 776.6937866210938
+      "x": 3094.88623046875,
+      "y": 913.2095336914062
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.3 VLAN Configuration/7. Data and Voice VLAN Example.md",
-      "x": 2921.2138671875,
-      "y": 899.0982055664062
+      "x": 3181.652587890625,
+      "y": 1041.036865234375
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.3 VLAN Configuration/8. Verify VLAN Information.md",
-      "x": 2874.049072265625,
-      "y": 1203.7723388671875
+      "x": 3097.787353515625,
+      "y": 1348.0660400390625
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.3 VLAN Configuration/9. Change VLAN Port Membership.md",
-      "x": 2521.719482421875,
-      "y": 670.5012817382812
+      "x": 2830.87841796875,
+      "y": 759.7296752929688
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.4 VLAN Trunks/1. Trunk Configuration Commands.md",
-      "x": 2552.369384765625,
-      "y": 2287.593994140625
+      "x": 2426.83447265625,
+      "y": 2340.17578125
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.4 VLAN Trunks/2. Trunk Configuration Example.md",
-      "x": 2773.955322265625,
-      "y": 2019.74169921875
+      "x": 2694.0185546875,
+      "y": 2096.4990234375
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.4 VLAN Trunks/3. Verify Trunk Configuration.md",
-      "x": 2680.399169921875,
-      "y": 1855.7666015625
+      "x": 2613.02685546875,
+      "y": 1899.86279296875
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.4 VLAN Trunks/3.4 VLAN Trunks.md",
-      "x": 2379.382080078125,
-      "y": 1998.259033203125
+      "x": 2323.343505859375,
+      "y": 2030.1944580078125
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.4 VLAN Trunks/4. Reset the Trunk to the Default State.md",
-      "x": 2720.338623046875,
-      "y": 2192.251708984375
+      "x": 2625.043212890625,
+      "y": 2268.2080078125
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.5 Dynamic Trunking Protocol/1. Introduction to DTP.md",
-      "x": 2022.6239013671875,
-      "y": 3013.51611328125
+      "x": 2042.6300048828125,
+      "y": 3141.310302734375
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.5 Dynamic Trunking Protocol/2. Negotiated Interface Modes.md",
-      "x": 2221.15771484375,
-      "y": 3041.397216796875
+      "x": 2243.7841796875,
+      "y": 3178.964111328125
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.5 Dynamic Trunking Protocol/3. Results of DTP Configuration.md",
-      "x": 2461.666015625,
-      "y": 2771.114013671875
+      "x": 2507.5927734375,
+      "y": 2916.7470703125
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.5 Dynamic Trunking Protocol/3.5 Dynamic Trunking Protocol.md",
-      "x": 2116.935302734375,
-      "y": 2673.18359375
+      "x": 2160.7607421875,
+      "y": 2805.691650390625
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/3.5 Dynamic Trunking Protocol/4. Verify DTP Mode.md",
-      "x": 2387.490966796875,
-      "y": 2951.0146484375
+      "x": 2419.885009765625,
+      "y": 3096.916259765625
     },
     {
       "id": "COMNET/CCNA2/Module 3 - Protocols and Models/Module 3 - Protocols and Models.md",
-      "x": 1535.533935546875,
-      "y": 1727.907958984375
+      "x": 1646.19677734375,
+      "y": 1762.6395263671875
     },
     {
       "id": "COMNET/CCNA2/Module 4 - Physical Layer/4.1 Inter-VLAN Routing Operation/1. Inter-VLAN Routing.md",
-      "x": -387.466796875,
-      "y": 3818.563232421875
+      "x": -300.927978515625,
+      "y": 3870.846923828125
     },
     {
       "id": "COMNET/CCNA2/Module 4 - Physical Layer/4.1 Inter-VLAN Routing Operation/2. Legacy Inter-VLAN Routing.md",
-      "x": -186.7409210205078,
-      "y": 3715.279052734375
+      "x": -100.2369155883789,
+      "y": 3756.9052734375
     },
     {
       "id": "COMNET/CCNA2/Module 4 - Physical Layer/4.1 Inter-VLAN Routing Operation/3. Router-on-a-Stick Inter-VLAN Routing.md",
-      "x": -686.8851318359375,
-      "y": 3536.61083984375
+      "x": -607.9093627929688,
+      "y": 3608.16357421875
     },
     {
       "id": "COMNET/CCNA2/Module 4 - Physical Layer/4.1 Inter-VLAN Routing Operation/4. Inter-VLAN Routing on a Layer 3 Switch.md",
-      "x": -583.319091796875,
-      "y": 3750.771484375
+      "x": -497.3612976074219,
+      "y": 3814.97998046875
     },
     {
       "id": "COMNET/CCNA2/Module 4 - Physical Layer/4.1 Inter-VLAN Routing Operation/4.1 Inter-VLAN Routing Operation.md",
-      "x": -377.8805847167969,
-      "y": 3460.81201171875
+      "x": -300.6955871582031,
+      "y": 3514.3212890625
     },
     {
       "id": "COMNET/CCNA2/Module 4 - Physical Layer/4.2 Router-on-a-Stick Inter-VLAN Routing/1. Router-on-a-Stick Scenario.md",
-      "x": 534.5952758789062,
-      "y": 4033.1552734375
+      "x": 561.6256103515625,
+      "y": 3966.62109375
     },
     {
       "id": "COMNET/CCNA2/Module 4 - Physical Layer/4.2 Router-on-a-Stick Inter-VLAN Routing/2. VLAN and Trunking Configuration.md",
-      "x": 698.8010864257812,
-      "y": 3919.79150390625
+      "x": 721.1987915039062,
+      "y": 3849.450927734375
     },
     {
       "id": "COMNET/CCNA2/Module 4 - Physical Layer/4.2 Router-on-a-Stick Inter-VLAN Routing/3. Router Sub-Interface Configuration.md",
-      "x": 749.3263549804688,
-      "y": 3712.311279296875
+      "x": 764.913818359375,
+      "y": 3636.45703125
     },
     {
       "id": "COMNET/CCNA2/Module 4 - Physical Layer/4.2 Router-on-a-Stick Inter-VLAN Routing/4. Router-on-a-Stick Inter-VLAN Router Verification.md",
-      "x": 321.6755065917969,
-      "y": 4021.560302734375
+      "x": 356.22137451171875,
+      "y": 3959.187744140625
     },
     {
       "id": "COMNET/CCNA2/Module 4 - Physical Layer/4.2 Router-on-a-Stick Inter-VLAN Routing/4.2 Router-on-a-Stick Inter-VLAN Routing.md",
-      "x": 407.1916198730469,
-      "y": 3686.436767578125
+      "x": 430.7398986816406,
+      "y": 3620.55419921875
     },
     {
       "id": "COMNET/CCNA2/Module 4 - Physical Layer/4.3 Inter-VLAN Routing using Layer 3 Switches/1. Layer 3 Switch Inter-VLAN Routing.md",
-      "x": 470.3890380859375,
-      "y": 2958.372314453125
+      "x": 300.45123291015625,
+      "y": 2521.435791015625
     },
     {
       "id": "COMNET/CCNA2/Module 4 - Physical Layer/4.3 Inter-VLAN Routing using Layer 3 Switches/2. Layer 3 Switch Scenario.md",
-      "x": 245.36012268066406,
-      "y": 3165.54833984375
+      "x": 259.893798828125,
+      "y": 2884.279052734375
     },
     {
       "id": "COMNET/CCNA2/Module 4 - Physical Layer/4.3 Inter-VLAN Routing using Layer 3 Switches/4.3 Inter-VLAN Routing using Layer 3 Switches.md",
-      "x": 179.4461669921875,
-      "y": 2866.0791015625
+      "x": 42.54479217529297,
+      "y": 2665.99755859375
     },
     {
       "id": "COMNET/CCNA2/Module 4 - Physical Layer/Module 4 - Physical Layer.md",
-      "x": -145.98843383789062,
-      "y": 2917.557373046875
+      "x": -91.25179290771484,
+      "y": 2984.014892578125
     },
     {
       "id": "COMNET/CCNA3/CCNA 3 Config & Verification Commands/Determine the DR and BDR.md",
-      "x": 880.119873046875,
-      "y": -2984.365966796875
+      "x": 874.433837890625,
+      "y": -2895.235595703125
     },
     {
       "id": "COMNET/CCNA3/CCNA 3 Config & Verification Commands/Point-to-Point Single-Area OSPFv2 Configuration.md",
-      "x": 570.7732543945312,
-      "y": -3116.56884765625
+      "x": 609.793701171875,
+      "y": -3094.9736328125
     },
     {
       "id": "COMNET/CCNA3/CCNA3.md",
-      "x": 610.781005859375,
-      "y": -2799.166748046875
+      "x": 571.3656616210938,
+      "y": -2776.48974609375
     },
     {
       "id": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/1. Introduction to OSPF.md",
-      "x": -2676.03759765625,
-      "y": -3046.9921875
+      "x": -2746.81201171875,
+      "y": -2975.296875
     },
     {
       "id": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/1.1 OSPF Features and Characteristics.md",
-      "x": -2465.581298828125,
-      "y": -2793.1064453125
+      "x": -2538.20263671875,
+      "y": -2721.232666015625
     },
     {
       "id": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/2. Components of OSPF.md",
-      "x": -2819.711669921875,
-      "y": -2911.627197265625
+      "x": -2888.658447265625,
+      "y": -2837.369873046875
     },
     {
       "id": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/3. Link-State Operation.md",
-      "x": -2684.237060546875,
-      "y": -2481.43115234375
+      "x": -2760.682861328125,
+      "y": -2409.624755859375
     },
     {
       "id": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/4. Single-Area and Multiarea OSPF.md",
-      "x": -2811.14892578125,
-      "y": -2588.98046875
+      "x": -2886.70849609375,
+      "y": -2517.366455078125
     },
     {
       "id": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/5. Multiarea OSPF.md",
-      "x": -2492.558349609375,
-      "y": -2462.89794921875
+      "x": -2571.44482421875,
+      "y": -2387.84033203125
     },
     {
       "id": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.1 OSPF Features and Characteristics/6. OSPFv3.md",
-      "x": -2859.91943359375,
-      "y": -2744.779541015625
+      "x": -2936.86279296875,
+      "y": -2672.796875
     },
     {
       "id": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.2 OSPF Packets/1. Types of OSPF Packets.md",
-      "x": -1478.9237060546875,
-      "y": -3483.9921875
+      "x": -1654.327392578125,
+      "y": -3350.456787109375
     },
     {
       "id": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.2 OSPF Packets/2. Link-State Updates.md",
-      "x": -1652.9459228515625,
-      "y": -3143.04931640625
+      "x": -1730.52392578125,
+      "y": -3028.255859375
     },
     {
       "id": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.2 OSPF Packets/3. Hello Packet.md",
-      "x": -1216.5325927734375,
-      "y": -3520.952880859375
+      "x": -1365.7052001953125,
+      "y": -3470.717529296875
     },
     {
       "id": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/1. OSPF Operational States.md",
-      "x": -2267.443115234375,
-      "y": -3830.91748046875
+      "x": -2363.29052734375,
+      "y": -3790.491455078125
     },
     {
       "id": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/1.3 OSPF Operation.md",
-      "x": -1914.974365234375,
-      "y": -3780.18212890625
+      "x": -2011.3837890625,
+      "y": -3729.576904296875
     },
     {
       "id": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/2. Establish Neighbor Adjacencies.md",
-      "x": -1725.8514404296875,
-      "y": -4054.907958984375
+      "x": -1817.755126953125,
+      "y": -4001.34033203125
     },
     {
       "id": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/3. Synchronizing OSPF Databases.md",
-      "x": -2166.75830078125,
-      "y": -4023.036865234375
+      "x": -2256.949951171875,
+      "y": -3980.398681640625
     },
     {
       "id": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/4. The Need for a DR.md",
-      "x": -1956.4970703125,
-      "y": -4121.78271484375
+      "x": -2045.1273193359375,
+      "y": -4074.781005859375
     },
     {
       "id": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/1.3 OSPF Operation/5. LSA Flooding with a DR.md",
-      "x": -2201.040771484375,
-      "y": -3616.6953125
+      "x": -2306.902099609375,
+      "y": -3575.90087890625
     },
     {
       "id": "COMNET/CCNA3/Module 1 - Single-Area OSPFv2 Concepts/Module 1 - Single-Area OSPFv2 Concepts.md",
-      "x": -1335.2862548828125,
-      "y": -3203.8134765625
+      "x": -1426.0562744140625,
+      "y": -3142.21923828125
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.1 OSPF Router ID/1. OSPF Reference Topology.md",
-      "x": -259.4405212402344,
-      "y": -868.462890625
+      "x": -367.47625732421875,
+      "y": -640.6326293945312
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.1 OSPF Router ID/2. Router Configuration Mode for OSPF.md",
-      "x": 377.8646240234375,
-      "y": -664.5148315429688
+      "x": 311.33807373046875,
+      "y": -555.0052490234375
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.1 OSPF Router ID/2.1 OSPF Router ID.md",
-      "x": 43.2885627746582,
-      "y": -769.4585571289062
+      "x": -34.77690887451172,
+      "y": -623.9760131835938
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.1 OSPF Router ID/3. Router IDs.md",
-      "x": -277.5735778808594,
-      "y": -639.1213989257812
+      "x": -339.98651123046875,
+      "y": -437.4980163574219
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.1 OSPF Router ID/4. Router ID Order of Precedence.md",
-      "x": -12.781216621398926,
-      "y": -392.6645812988281
+      "x": -49.97383117675781,
+      "y": -245.34771728515625
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.1 OSPF Router ID/5. Configuring a Loopback Interface as the Router ID.md",
-      "x": 160.0816650390625,
-      "y": -401.7779541015625
+      "x": 117.5675048828125,
+      "y": -274.77978515625
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.1 OSPF Router ID/6. Explicitly Configure a Router ID.md",
-      "x": 309.3817443847656,
-      "y": -492.2385559082031
+      "x": 264.2756652832031,
+      "y": -371.4158020019531
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.1 OSPF Router ID/7. Modify a Router ID.md",
-      "x": -174.9919891357422,
-      "y": -473.6943359375
+      "x": -217.60740661621094,
+      "y": -295.7598571777344
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/1. The Network Command Syntax.md",
-      "x": 1545.8682861328125,
-      "y": -1959.649658203125
+      "x": 1316.7064208984375,
+      "y": -1776.8721923828125
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/2. The Wildcard Mask.md",
-      "x": 1103.4346923828125,
-      "y": -2145.144287109375
+      "x": 875.43896484375,
+      "y": -1994.9404296875
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/2.2 Point-to-Point OSPF Networks.md",
-      "x": 1190.0479736328125,
-      "y": -1836.453369140625
+      "x": 962.3639526367188,
+      "y": -1690.2442626953125
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/3. Configuring OSPF using the Network Command.md",
-      "x": 1256.50341796875,
-      "y": -1501.7666015625
+      "x": 985.8682250976562,
+      "y": -1358.197509765625
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/4. Configure OSPF using the 'ip ospf' Command.md",
-      "x": 1301.8839111328125,
-      "y": -2178.951416015625
+      "x": 1093.406005859375,
+      "y": -2021.9119873046875
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/5. Passive Interface.md",
-      "x": 1525.488037109375,
-      "y": -1650.9306640625
+      "x": 1279.08935546875,
+      "y": -1474.99462890625
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/6. Configuring Passive Interfaces.md",
-      "x": 1430.9061279296875,
-      "y": -1520.0257568359375
+      "x": 1170.6778564453125,
+      "y": -1354.116455078125
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/7. OSPF Point-to-Point Networks.md",
-      "x": 1584.2633056640625,
-      "y": -1799.7567138671875
+      "x": 1357.540771484375,
+      "y": -1616.0025634765625
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks/8. Loopbacks and Point-to-Point Networks.md",
-      "x": 1463.86083984375,
-      "y": -2105.6689453125
+      "x": 1254.4041748046875,
+      "y": -1936.1180419921875
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/1. OSPF Network Types.md",
-      "x": -121.6905517578125,
-      "y": -2671.322998046875
+      "x": -175.52362060546875,
+      "y": -2763.272216796875
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/2. OSPF Designated Router.md",
-      "x": -780.4478759765625,
-      "y": -2525.36083984375
+      "x": -840.5698852539062,
+      "y": -2634.334716796875
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/2.3 Multiaccess OSPF Networks.md",
-      "x": -432.8697204589844,
-      "y": -2614.6875
+      "x": -491.23822021484375,
+      "y": -2701.87646484375
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/3. OSPF Multiaccess Reference Topology.md",
-      "x": -213.14280700683594,
-      "y": -2892.043212890625
+      "x": -259.04498291015625,
+      "y": -2971.54638671875
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/4. Verify OSPF Router Roles.md",
-      "x": -545.5914306640625,
-      "y": -2979.170654296875
+      "x": -576.839111328125,
+      "y": -3076.462646484375
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/5. Verify DR & BDR Adjacencies.md",
-      "x": -782.724609375,
-      "y": -2713.637939453125
+      "x": -825.213134765625,
+      "y": -2830.75732421875
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/6. Default DR & BDR Election Process.md",
-      "x": -649.5992431640625,
-      "y": -2360.2548828125
+      "x": -719.3643798828125,
+      "y": -2459.6044921875
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/7. DR Failure and Recovery.md",
-      "x": -369.251708984375,
-      "y": -2321.948974609375
+      "x": -407.4276428222656,
+      "y": -2421.820556640625
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/8. The 'ip ospf priority' Command.md",
-      "x": -690.9847412109375,
-      "y": -2878.27978515625
+      "x": -727.2831420898438,
+      "y": -2990.554931640625
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.3 Multiaccess OSPF Networks/9. Configure OSPF Priority.md",
-      "x": -372.94952392578125,
-      "y": -2989.609619140625
+      "x": -407.6159362792969,
+      "y": -3077.950927734375
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/1. Cisco OSPF Cost Metric.md",
-      "x": -1431.2366943359375,
-      "y": -1730.1199951171875
+      "x": -1544.8287353515625,
+      "y": -1686.2445068359375
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/2. Adjust the Reference Bandwidth.md",
-      "x": -1507.758544921875,
-      "y": -1184.4442138671875
+      "x": -1560.3065185546875,
+      "y": -1169.2669677734375
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/2.4 Modify Single-Area OSPFv2.md",
-      "x": -1242.7196044921875,
-      "y": -1448.658203125
+      "x": -1293.0596923828125,
+      "y": -1435.8502197265625
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/3. OSPF Accumulates Cost.md",
-      "x": -1033.9144287109375,
-      "y": -1617.3258056640625
+      "x": -1326.169921875,
+      "y": -1736.6246337890625
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/4. Manually Set OSPF Cost Value.md",
-      "x": -1132.189697265625,
-      "y": -1147.1121826171875
+      "x": -1203.498291015625,
+      "y": -1129.48486328125
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/5. Test Failover to Backup Route.md",
-      "x": -1584.7247314453125,
-      "y": -1615.1357421875
+      "x": -1665.5255126953125,
+      "y": -1564.9686279296875
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/6. Hello Packet Intervals.md",
-      "x": -1346.26171875,
-      "y": -1104.936279296875
+      "x": -1410.7205810546875,
+      "y": -1091.08447265625
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/7. Verify Hello and Dead Intervals.md",
-      "x": -1643.0487060546875,
-      "y": -1461.559814453125
+      "x": -1699.5277099609375,
+      "y": -1415.5731201171875
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.4 Modify Single-Area OSPFv2/8. Modify OSPFv2 Intervals.md",
-      "x": -1619.71923828125,
-      "y": -1303.997802734375
+      "x": -1686.078369140625,
+      "y": -1263.07666015625
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.5 Default Route Propagation/1. Propagate a Default Static Route in OSPFv2.md",
-      "x": 607.9201049804688,
-      "y": -1697.4544677734375
+      "x": 283.1799621582031,
+      "y": -1563.0748291015625
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.5 Default Route Propagation/2. Verify the Propagated Default Route.md",
-      "x": 170.8066864013672,
-      "y": -1271.4630126953125
+      "x": -292.0024108886719,
+      "y": -1303.4564208984375
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.5 Default Route Propagation/2.5 Default Route Propagation.md",
-      "x": 387.0997619628906,
-      "y": -1475.262939453125
+      "x": 18.490942001342773,
+      "y": -1382.1387939453125
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.5 Default Route Propagation/3. Verify OSPF Neighbors.md",
-      "x": 669.1949462890625,
-      "y": -1234.8028564453125
+      "x": 263.3676452636719,
+      "y": -1123.990478515625
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.5 Default Route Propagation/4. Verify OSPF Protocol Settings.md",
-      "x": 721.316162109375,
-      "y": -1424.741455078125
+      "x": 355.8941345214844,
+      "y": -1306.97900390625
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.5 Default Route Propagation/5. Verify OSPF Process Information.md",
-      "x": 346.72442626953125,
-      "y": -1780.0794677734375
+      "x": 14.357196807861328,
+      "y": -1671.559326171875
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/2.5 Default Route Propagation/6. Verify OSPF Interface Settings.md",
-      "x": 487.13653564453125,
-      "y": -1153.1649169921875
+      "x": 7.011544227600098,
+      "y": -1073.30859375
     },
     {
       "id": "COMNET/CCNA3/Module 2 - Area OSPFv2 Configuration/Module 2 - Area OSPFv2 Configuration.md",
-      "x": -13.755949020385742,
-      "y": -1843.99365234375
+      "x": -157.0447998046875,
+      "y": -1852.4744873046875
     },
     {
       "id": "COMNET/CCNA3/Module 4 - ACL Concepts/4.1 Purpose of ACLs/1. What is an ACL.md",
-      "x": 2530.8408203125,
-      "y": -1218.590087890625
+      "x": 2426.6318359375,
+      "y": -1257.9197998046875
     },
     {
       "id": "COMNET/CCNA3/Module 4 - ACL Concepts/4.1 Purpose of ACLs/2. Packet Filtering.md",
-      "x": 2909.50537109375,
-      "y": -1331.55517578125
+      "x": 2790.21240234375,
+      "y": -1416.3680419921875
     },
     {
       "id": "COMNET/CCNA3/Module 4 - ACL Concepts/4.1 Purpose of ACLs/3. ACL Operation.md",
-      "x": 2741.721435546875,
-      "y": -1174.6827392578125
+      "x": 2646.087646484375,
+      "y": -1238.6031494140625
     },
     {
       "id": "COMNET/CCNA3/Module 4 - ACL Concepts/4.1 Purpose of ACLs/4.1 Purpose of ACLs.md",
-      "x": 2654.77734375,
-      "y": -1533.103515625
+      "x": 2511.61865234375,
+      "y": -1580.917724609375
     },
     {
       "id": "COMNET/CCNA3/Module 4 - ACL Concepts/4.2 Wildcard Masks in ACLs/1. Wildcard Mask Overview.md",
-      "x": 3103.144287109375,
-      "y": -2877.730224609375
+      "x": 3035.1318359375,
+      "y": -2865.219970703125
     },
     {
       "id": "COMNET/CCNA3/Module 4 - ACL Concepts/4.2 Wildcard Masks in ACLs/2. Wildcard Mask Types.md",
-      "x": 3126.435546875,
-      "y": -2658.04296875
+      "x": 3070.8017578125,
+      "y": -2657.69775390625
     },
     {
       "id": "COMNET/CCNA3/Module 4 - ACL Concepts/4.2 Wildcard Masks in ACLs/3. Wildcard Mask Calculation.md",
-      "x": 2928.268798828125,
-      "y": -3016.1689453125
+      "x": 2858.79638671875,
+      "y": -2995.533447265625
     },
     {
       "id": "COMNET/CCNA3/Module 4 - ACL Concepts/4.2 Wildcard Masks in ACLs/4. Wildcard Mask Keywords.md",
-      "x": 2678.416748046875,
-      "y": -2993.7421875
+      "x": 2603.475830078125,
+      "y": -2960.003662109375
     },
     {
       "id": "COMNET/CCNA3/Module 4 - ACL Concepts/4.2 Wildcard Masks in ACLs/4.2 Wildcard Masks in ACLs.md",
-      "x": 2801.65478515625,
-      "y": -2695.82177734375
+      "x": 2730.849609375,
+      "y": -2673.500732421875
     },
     {
       "id": "COMNET/CCNA3/Module 4 - ACL Concepts/4.3 Guidelines for ACL Creation/1. Limited Number of ACLs per Interface.md",
-      "x": 3276.48388671875,
-      "y": -2218.740966796875
+      "x": 3115.4892578125,
+      "y": -2243.15966796875
     },
     {
       "id": "COMNET/CCNA3/Module 4 - ACL Concepts/4.3 Guidelines for ACL Creation/2. ACL Best Practices.md",
-      "x": 3246.097900390625,
-      "y": -1970.8455810546875
+      "x": 3088.602783203125,
+      "y": -2009.3616943359375
     },
     {
       "id": "COMNET/CCNA3/Module 4 - ACL Concepts/4.3 Guidelines for ACL Creation/4.3 Guidelines for ACL Creation.md",
-      "x": 2944.14111328125,
-      "y": -2113.339599609375
+      "x": 2781.627685546875,
+      "y": -2136.14208984375
     },
     {
       "id": "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/1. Standard and Extended ACLs.md",
-      "x": 3711.725830078125,
-      "y": -1162.7696533203125
+      "x": 3655.601806640625,
+      "y": -1347.8712158203125
     },
     {
       "id": "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/2. Numbered and Named ACLs.md",
-      "x": 3574.416015625,
-      "y": -1050.1092529296875
+      "x": 3526.145263671875,
+      "y": -1220.9261474609375
     },
     {
       "id": "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/3. Where to Place ACLs.md",
-      "x": 3387.487548828125,
-      "y": -1049.5234375
+      "x": 3331.98583984375,
+      "y": -1199.123046875
     },
     {
       "id": "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/4. Standard ACL Placement Example.md",
-      "x": 3723.383056640625,
-      "y": -1537.876220703125
+      "x": 3640.376708984375,
+      "y": -1716.8388671875
     },
     {
       "id": "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/4.4 Types pf IPv4 ACLs.md",
-      "x": 3408.692626953125,
-      "y": -1403.2745361328125
+      "x": 3333.474853515625,
+      "y": -1551.279541015625
     },
     {
       "id": "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/5. Extended ACL Placement Example.md",
-      "x": 3775.875732421875,
-      "y": -1334.3544921875
+      "x": 3711.704345703125,
+      "y": -1523.4761962890625
     },
     {
       "id": "COMNET/CCNA3/Module 4 - ACL Concepts/Module 4 - ACL Concepts.md",
-      "x": 2432.022705078125,
-      "y": -2134.42822265625
+      "x": 2303.6318359375,
+      "y": -2165.337890625
     },
     {
       "id": "COMNET/COMNET.md",
-      "x": -424.561279296875,
-      "y": 4922.6171875
+      "x": -309.6949768066406,
+      "y": 4960.9638671875
     },
     {
       "id": "COMNET/DevNet/DevNet Final Exam/DevNet Final Exam.md",
-      "x": 4125.724609375,
-      "y": 2383.31005859375
+      "x": 4302.3056640625,
+      "y": 2052.384765625
     },
     {
       "id": "COMNET/DevNet/DevNet Final Exam/Final Exam Questions & Answers.md",
-      "x": 4001.610107421875,
-      "y": 2655.182373046875
+      "x": 4186.091796875,
+      "y": 2329.349365234375
     },
     {
       "id": "COMNET/DevNet/DevNet.md",
-      "x": 4234.365234375,
-      "y": 2104.75
+      "x": 4402.962890625,
+      "y": 1770.2847900390625
     },
     {
       "id": "PNG Reference/DevNet Final Exam/CyberOps Presentation.md",
-      "x": 4716.46044921875,
-      "y": -1382.3043212890625
+      "x": 4657.5634765625,
+      "y": -486.3650817871094
     },
     {
       "id": "Templates/Templates.md",
-      "x": -4659.08935546875,
-      "y": 520.548095703125
+      "x": -4537.2294921875,
+      "y": -301.6947021484375
     },
     {
       "id": "Templates/{{Title}}.md",
-      "x": -4669.75927734375,
-      "y": 813.2786865234375
+      "x": -4595.68310546875,
+      "y": -16.142919540405273
     },
     {
       "id": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/Module 5 - ACLs for IPv4 Configuration.md",
-      "x": 826.4293823242188,
-      "y": -3527.18701171875
+      "x": 1000.7672119140625,
+      "y": -3481.542236328125
     },
     {
       "id": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs/1. Create an ACL.md",
-      "x": 1234.1383056640625,
-      "y": -4345.71337890625
+      "x": 1448.7618408203125,
+      "y": -4180.5029296875
     },
     {
       "id": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs/2. Numbered Standard IPv4 ACL Syntax.md",
-      "x": 1345.2744140625,
-      "y": -4167.98046875
+      "x": 1099.971923828125,
+      "y": -4384.74951171875
     },
     {
       "id": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs/3. Named Standard IPv4 ACL Syntax.md",
-      "x": 794.7526245117188,
-      "y": -4375.482421875
+      "x": 690.7858276367188,
+      "y": -4311.9375
     },
     {
       "id": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs/4. Apply a Standard IPv4 ACL.md",
-      "x": 674.0620727539062,
-      "y": -4173.70751953125
+      "x": 628.8291625976562,
+      "y": -4097.7890625
     },
     {
       "id": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs/5. Numbered Standard ACL Example.md",
-      "x": 1018.3717041015625,
-      "y": -4434.84130859375
+      "x": 874.1144409179688,
+      "y": -4420.27685546875
     },
     {
       "id": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs/6. Named Standard ACL Example.md",
-      "x": 1296.2979736328125,
-      "y": -3969.05419921875
+      "x": 1235.897705078125,
+      "y": -4070.85986328125
     },
     {
       "id": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs/5.1 Configure Standard IPv4 ACLs.md",
-      "x": 992.4287109375,
-      "y": -4092.515625
+      "x": 958.0706176757812,
+      "y": -4077.115478515625
     },
     {
       "id": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/5.2 Modify APv4 ACLs.md",
-      "x": 1141.1060791015625,
-      "y": -3565.4853515625
+      "x": 1596.2669677734375,
+      "y": -3621.364990234375
+    },
+    {
+      "id": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/1. Two Methods to Modify an ACL.md",
+      "x": 1917.69482421875,
+      "y": -3575.959716796875
+    },
+    {
+      "id": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/2. Text Editor Method.md",
+      "x": 1805.802001953125,
+      "y": -3978.994140625
     }
   ],
   "automaticallyRestoreNodePositions": false

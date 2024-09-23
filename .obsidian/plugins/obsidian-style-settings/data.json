@@ -18,5 +18,6 @@
   "shimmering-focus@@show-outline-buttons": false,
   "shimmering-focus@@no-image-alttext-caption": true,
   "shimmering-focus@@image-size": 100,
-  "shimmering-focus@@unrestricted-line-length-tables": true
+  "shimmering-focus@@unrestricted-line-length-tables": true,
+  "blue-topaz-theme@@list-ul-marker-color-1@@light": "#48E9FF"
 }
