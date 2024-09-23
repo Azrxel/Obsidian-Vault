@@ -158,5 +158,23 @@
       ],
       "key": "`"
     }
+  ],
+  "3d-graph:open-3d-graph-global": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "3"
+    }
+  ],
+  "3d-graph:open-3d-graph-local": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "4"
+    }
   ]
 }
