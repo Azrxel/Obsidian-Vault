@@ -39,5 +39,20 @@
   "blue-topaz-theme@@titlebar-close-button": "default-titlebar",
   "blue-topaz-theme@@hide-titlebar-close-btn": true,
   "blue-topaz-theme@@bt-connected-indent-hover": true,
-  "blue-topaz-theme@@bt-connected-indent-line-color@@dark": "#6FF3C12E"
+  "blue-topaz-theme@@bt-connected-indent-line-color@@dark": "#6FF3C12E",
+  "blue-topaz-theme@@file-bg-shape-option": "file-shape-default",
+  "blue-topaz-theme@@file-name-style-option": "file-name-animation",
+  "blue-topaz-theme@@dark-background-file": true,
+  "blue-topaz-theme@@remove-file-icons": false,
+  "blue-topaz-theme@@folder-icons": true,
+  "blue-topaz-theme@@remove-first-folder-icon": true,
+  "blue-topaz-theme@@remove-arrow": true,
+  "blue-topaz-theme@@folder-note-underline": false,
+  "blue-topaz-theme@@folder-note-dot": false,
+  "blue-topaz-theme@@bt-toggle-colorful-folder": true,
+  "blue-topaz-theme@@folder-style-change-options-colorful": "folder-style-change-options-colorful-border",
+  "blue-topaz-theme@@folder-style-change-options-colorful-subfolder": "folder-colorful-custom",
+  "blue-topaz-theme@@text-folder-file-icon@@dark": "#F83C3C",
+  "blue-topaz-theme@@text-folder-file-icon@@light": "#2AE724",
+  "blue-topaz-theme@@folder-colorful-custom-color@@dark": "#70F2F700"
 }
