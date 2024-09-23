@@ -1,8 +1,8 @@
 {
   "showLineNumber": false,
-  "promptDelete": false,
+  "promptDelete": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "PNG Reference",
+  "attachmentFolderPath": "PNG Reference/Unassigned",
   "foldIndent": true,
   "showIndentGuide": true,
   "readableLineLength": false
