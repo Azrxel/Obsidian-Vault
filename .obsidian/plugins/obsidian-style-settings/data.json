@@ -33,6 +33,11 @@
   "blue-topaz-theme@@list-ul-marker-color@@light": "#0A7DFF",
   "blue-topaz-theme@@list-ul-marker-color@@dark": "#0A7DFF",
   "blue-topaz-theme@@fancy-hr-icon": "'X'",
-  "blue-topaz-theme@@bt-indentation-width-hover": "1px",
-  "blue-topaz-theme@@indentation-guide-width": 0.5
+  "blue-topaz-theme@@bt-colorful-indentation-line-options": "default-indentation-line",
+  "blue-topaz-theme@@list-indent": 2,
+  "blue-topaz-theme@@bt-colorful-titlebar": true,
+  "blue-topaz-theme@@titlebar-close-button": "default-titlebar",
+  "blue-topaz-theme@@hide-titlebar-close-btn": true,
+  "blue-topaz-theme@@bt-connected-indent-hover": true,
+  "blue-topaz-theme@@bt-connected-indent-line-color@@dark": "#6FF3C12E"
 }
