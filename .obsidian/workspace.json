@@ -11,8 +11,12 @@
             "id": "9adab2aa515858c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.3 Secure VTY Ports with a Standard IPv4 ACL/The 'access-class' Command.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.3 Secure VTY Ports with a Standard IPv4 ACL/The 'access-class' Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.3 Secure VTY Ports with a Standard IPv4 ACL/The 'access-class' Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,6 +124,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.3 Secure VTY Ports with a Standard IPv4 ACL/The 'access-class' Command.md"
+              }
+            }
+          },
+          {
+            "id": "d3187412f579e5a0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
@@ -135,13 +151,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "9adab2aa515858c4",
   "lastOpenFiles": [
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.3 Secure VTY Ports with a Standard IPv4 ACL/5.3 Secure VTY Ports with a Standard IPv4 ACL.md",
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.3 Secure VTY Ports with a Standard IPv4 ACL/The 'access-class' Command.md",
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/5. ACL Statistics.md",
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.3 Secure VTY Ports with a Standard IPv4 ACL",
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/5.2 Modify APv4 ACLs.md",
     "Templates/Templates.md",
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/Module 5 - ACLs for IPv4 Configuration.md",
+    "COMNET/CCNA3/CCNA3.md",
+    "COMNET/DevNet/DevNet.md",
+    "COMNET/COMNET.md",
     "Templates/{{Title}}.md",
     "Templates/Resistor Color Code Reference Table.png",
     "Templates",
@@ -163,9 +187,6 @@
     "PNG Reference/CCNA2/Module 4",
     "PNG Reference/CCNA2/Module 3",
     "PNG Reference/CCNA2/Module 1",
-    "PNG Reference/DevNet Final Exam",
-    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/5.2 Modify APv4 ACLs.md",
-    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/5. ACL Statistics.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/4. Modify a Named ACL Example.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/3. Sequence Number Method.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/2. Text Editor Method.md",
@@ -180,12 +201,6 @@
     "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/5. Extended ACL Placement Example.md",
     "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/4.4 Types pf IPv4 ACLs.md",
     "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/4. Standard ACL Placement Example.md",
-    "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/3. Where to Place ACLs.md",
-    "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/2. Numbered and Named ACLs.md",
-    "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/1. Standard and Extended ACLs.md",
-    "COMNET/CCNA3/Module 4 - ACL Concepts/4.3 Guidelines for ACL Creation/4.3 Guidelines for ACL Creation.md",
-    "COMNET/CCNA3/Module 4 - ACL Concepts/4.3 Guidelines for ACL Creation/2. ACL Best Practices.md",
-    "COMNET/CCNA3/Module 4 - ACL Concepts/4.3 Guidelines for ACL Creation/1. Limited Number of ACLs per Interface.md",
-    "COMNET/CCNA3/Module 4 - ACL Concepts/4.2 Wildcard Masks in ACLs/4.2 Wildcard Masks in ACLs.md"
+    "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/3. Where to Place ACLs.md"
   ]
 }
