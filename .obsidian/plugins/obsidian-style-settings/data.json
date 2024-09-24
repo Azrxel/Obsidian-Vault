@@ -53,7 +53,7 @@
   "blue-topaz-theme@@folder-style-change-options-colorful": "folder-style-change-options-colorful-tab-liked",
   "blue-topaz-theme@@folder-style-change-options-colorful-subfolder": "folder-colorful-five",
   "blue-topaz-theme@@folder-colorful-custom-color@@dark": "#D76FFF",
-  "blue-topaz-theme@@accent-strong@@dark": "#4EFFBD",
+  "blue-topaz-theme@@accent-strong@@dark": "#30C1E6",
   "blue-topaz-theme@@loading-page-style-option": "loading-page-style-mario",
   "blue-topaz-theme@@remove-custom-svg-icons": false,
   "blue-topaz-theme@@default-icons": true,
@@ -61,6 +61,5 @@
   "blue-topaz-theme@@cursor-color@@dark": "#FFFFFF",
   "blue-topaz-theme@@muted-activeline-bg": false,
   "blue-topaz-theme@@head-tag-style": true,
-  "blue-topaz-theme@@tag-style-option": "rainbow-tag",
-  "blue-topaz-theme@@text-normal@@dark": "#B19EDC"
+  "blue-topaz-theme@@tag-style-option": "rainbow-tag"
 }
