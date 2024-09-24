@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/Junos (JNCIA)/Module 11 - Routing Fundamentals/JUNOS OS.md",
+                "file": "COMNET/Junos (JNCIA)/The Junos CLI/1..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/Junos (JNCIA)/Module 11 - Routing Fundamentals/JUNOS OS.md",
+                "file": "COMNET/Junos (JNCIA)/The Junos CLI/1..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/Junos (JNCIA)/Module 11 - Routing Fundamentals/JUNOS OS.md",
+                "file": "COMNET/Junos (JNCIA)/The Junos CLI/1..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/Junos (JNCIA)/Module 11 - Routing Fundamentals/JUNOS OS.md"
+                "file": "COMNET/Junos (JNCIA)/The Junos CLI/1..md"
               }
             }
           },
@@ -157,6 +157,8 @@
   "active": "9adab2aa515858c4",
   "lastOpenFiles": [
     "COMNET/CCNA3/CCNA3.md",
+    "COMNET/Junos (JNCIA)/The Junos CLI/1..md",
+    "COMNET/Junos (JNCIA)/The Junos CLI",
     "COMNET/Junos (JNCIA)/Module 11 - Routing Fundamentals/JUNOS OS.md",
     "COMNET/Junos (JNCIA)/Module 11 - Routing Fundamentals/Module 11 - Routing Fundamentals.md",
     "COMNET/COMNET.md",
@@ -196,11 +198,9 @@
     "PNG Reference/DevNet Final Exam/CyberOps Presentation.md",
     "PNG Reference/CCNA3/Module 5",
     "PNG Reference/CCNA3/Module 4",
-    "PNG Reference/CCNA3/Module 2",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/4. Modify a Named ACL Example.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/3. Sequence Number Method.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/2. Text Editor Method.md",
-    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/1. Two Methods to Modify an ACL.md",
-    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs/6. Named Standard ACL Example.md"
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/1. Two Methods to Modify an ACL.md"
   ]
 }
