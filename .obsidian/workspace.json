@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/Junos (JNCIA)/The Junos CLI/1..md",
+                "file": "COMNET/Junos (JNCIA)/The Junos CLI/1. Junos CLI Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/Junos (JNCIA)/The Junos CLI/1..md",
+                "file": "COMNET/Junos (JNCIA)/The Junos CLI/1. Junos CLI Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/Junos (JNCIA)/The Junos CLI/1..md",
+                "file": "COMNET/Junos (JNCIA)/The Junos CLI/1. Junos CLI Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/Junos (JNCIA)/The Junos CLI/1..md"
+                "file": "COMNET/Junos (JNCIA)/The Junos CLI/1. Junos CLI Commands.md"
               }
             }
           },
@@ -157,7 +157,7 @@
   "active": "9adab2aa515858c4",
   "lastOpenFiles": [
     "COMNET/CCNA3/CCNA3.md",
-    "COMNET/Junos (JNCIA)/The Junos CLI/1..md",
+    "COMNET/Junos (JNCIA)/The Junos CLI/1. Junos CLI Commands.md",
     "COMNET/Junos (JNCIA)/The Junos CLI",
     "COMNET/Junos (JNCIA)/Module 11 - Routing Fundamentals/JUNOS OS.md",
     "COMNET/Junos (JNCIA)/Module 11 - Routing Fundamentals/Module 11 - Routing Fundamentals.md",
