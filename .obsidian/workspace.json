@@ -156,8 +156,9 @@
   },
   "active": "9adab2aa515858c4",
   "lastOpenFiles": [
-    "COMNET/CCNA3/CCNA3.md",
+    "COMNET/Junos (JNCIA)/The Junos CLI/2. Keyboard Shortcuts.md",
     "COMNET/Junos (JNCIA)/The Junos CLI/1. Junos CLI Commands.md",
+    "COMNET/CCNA3/CCNA3.md",
     "COMNET/Junos (JNCIA)/The Junos CLI",
     "COMNET/Junos (JNCIA)/Module 11 - Routing Fundamentals/JUNOS OS.md",
     "COMNET/Junos (JNCIA)/Module 11 - Routing Fundamentals/Module 11 - Routing Fundamentals.md",
@@ -200,7 +201,6 @@
     "PNG Reference/CCNA3/Module 4",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/4. Modify a Named ACL Example.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/3. Sequence Number Method.md",
-    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/2. Text Editor Method.md",
-    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/1. Two Methods to Modify an ACL.md"
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/2. Text Editor Method.md"
   ]
 }
