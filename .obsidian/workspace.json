@@ -11,9 +11,11 @@
             "id": "9adab2aa515858c4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240924123658.png"
+                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.3 Secure VTY Ports with a Standard IPv4 ACL/5.3.3 Verify the VTY Port is Secured.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240924123658.png",
+                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.3 Secure VTY Ports with a Standard IPv4 ACL/5.3.3 Verify the VTY Port is Secured.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240924123658.png",
+                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.3 Secure VTY Ports with a Standard IPv4 ACL/5.3.3 Verify the VTY Port is Secured.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240924123658.png"
+                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.3 Secure VTY Ports with a Standard IPv4 ACL/5.3.3 Verify the VTY Port is Secured.md"
               }
             }
           },
@@ -154,10 +156,15 @@
   },
   "active": "048ba2f4d817e681",
   "lastOpenFiles": [
-    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.3 Secure VTY Ports with a Standard IPv4 ACL/The 'access-class' Command.md",
-    "Pasted image 20240924123658.png",
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.3 Secure VTY Ports with a Standard IPv4 ACL/5.3.1 The 'access-class' Command.md",
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.3 Secure VTY Ports with a Standard IPv4 ACL/5.3.2 Secure VTY Access Example.md",
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.3 Secure VTY Ports with a Standard IPv4 ACL/5.3.3 Verify the VTY Port is Secured.md",
+    "PNG Reference/CCNA3/Module 5/5.3.2 Secure VTY Access Example.png",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.3 Secure VTY Ports with a Standard IPv4 ACL/5.3 Secure VTY Ports with a Standard IPv4 ACL.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/5. ACL Statistics.md",
+    "Unassigned PNGs",
+    "PNG Reference/CCNA3/Module 5/5.2.4 Modify a Named ACL Example.png",
+    "PNG Reference/CCNA3/Module 5/5.3.1 The 'access-class' Command.png",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.3 Secure VTY Ports with a Standard IPv4 ACL",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/5.2 Modify APv4 ACLs.md",
     "Templates/Templates.md",
@@ -168,14 +175,12 @@
     "Templates/{{Title}}.md",
     "Templates/Resistor Color Code Reference Table.png",
     "Templates",
-    "PNG Reference/CCNA3/Module 5/5.2.4 Modify a Named ACL Example.png",
     "PNG Reference/CCNA3/Module 5/5.2.3 Sequence Number Method.png",
     "PNG Reference/CCNA3/Module 5/5.2.2 Text Editor Method.png",
     "PNG Reference/CCNA3/Module 5/5.1.6 Named Standard ACL Example.png",
     "PNG Reference/CCNA3/Module 5/5.1.6 ACL Verification Commands.png",
     "PNG Reference/CCNA3/Module 5/5.1.5 Numbered Standard ACL Example.png",
     "PNG Reference/CCNA3/Module 5/5.1.5 ACL Verification Commands.png",
-    "PNG Reference/CCNA3/Module 5/5.1.4 Applying a Standard IPv4 ACL.png",
     "PNG Reference/DevNet Final Exam/CyberOps Presentation.md",
     "PNG Reference/CCNA3/Module 5",
     "PNG Reference/CCNA3/Module 4",
@@ -184,7 +189,6 @@
     "PNG Reference/CCNA3/Module 1",
     "PNG Reference/CCNA2/Module 4",
     "PNG Reference/CCNA2/Module 3",
-    "PNG Reference/CCNA2/Module 1",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/4. Modify a Named ACL Example.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/3. Sequence Number Method.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/2. Text Editor Method.md",
@@ -197,7 +201,6 @@
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs/2. Numbered Standard IPv4 ACL Syntax.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs/1. Create an ACL.md",
     "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/5. Extended ACL Placement Example.md",
-    "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/4.4 Types pf IPv4 ACLs.md",
-    "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/4. Standard ACL Placement Example.md"
+    "COMNET/CCNA3/Module 4 - ACL Concepts/4.4 Types pf IPv4 ACLs/4.4 Types pf IPv4 ACLs.md"
   ]
 }

@@ -54,5 +54,6 @@
   "blue-topaz-theme@@folder-style-change-options-colorful-subfolder": "folder-colorful-five",
   "blue-topaz-theme@@text-folder-file-icon@@dark": "#F83C3C",
   "blue-topaz-theme@@text-folder-file-icon@@light": "#2AE724",
-  "blue-topaz-theme@@folder-colorful-custom-color@@dark": "#D76FFF"
+  "blue-topaz-theme@@folder-colorful-custom-color@@dark": "#D76FFF",
+  "blue-topaz-theme@@accent-strong@@dark": "#4EFFBD"
 }
