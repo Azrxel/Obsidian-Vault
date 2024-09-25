@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "02becfab348f907d",
+        "id": "490562b5aa69425c",
         "type": "tabs",
         "children": [
           {
-            "id": "b57e2665d1d1dfbc",
+            "id": "1b7aa6c26b212d57",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b57e2665d1d1dfbc",
+  "active": "1b7aa6c26b212d57",
   "lastOpenFiles": [
     "COMNET/Junos (JNCIA)/The Junos CLI/1. Junos CLI Commands.md",
     "COMNET/Junos (JNCIA)/The Junos CLI/2. Keyboard Shortcuts.md",
