@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fa93d3e8adc4b10e",
+        "id": "02becfab348f907d",
         "type": "tabs",
         "children": [
           {
-            "id": "9adab2aa515858c4",
+            "id": "b57e2665d1d1dfbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,10 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9adab2aa515858c4",
+  "active": "b57e2665d1d1dfbc",
   "lastOpenFiles": [
-    "COMNET/Junos (JNCIA)/The Junos CLI/2. Keyboard Shortcuts.md",
     "COMNET/Junos (JNCIA)/The Junos CLI/1. Junos CLI Commands.md",
+    "COMNET/Junos (JNCIA)/The Junos CLI/2. Keyboard Shortcuts.md",
     "COMNET/CCNA3/CCNA3.md",
     "COMNET/Junos (JNCIA)/The Junos CLI",
     "COMNET/Junos (JNCIA)/Module 11 - Routing Fundamentals/JUNOS OS.md",

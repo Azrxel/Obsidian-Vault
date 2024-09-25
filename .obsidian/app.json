@@ -5,5 +5,12 @@
   "attachmentFolderPath": "Unassigned PNGs",
   "foldIndent": true,
   "showIndentGuide": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  }
 }

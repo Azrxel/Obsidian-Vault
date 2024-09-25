@@ -61,5 +61,8 @@
   "blue-topaz-theme@@cursor-color@@dark": "#FFFFFF",
   "blue-topaz-theme@@muted-activeline-bg": false,
   "blue-topaz-theme@@head-tag-style": true,
-  "blue-topaz-theme@@tag-style-option": "rainbow-tag"
+  "blue-topaz-theme@@tag-style-option": "rainbow-tag",
+  "blue-topaz-theme@@text-highlight@@dark": "#FFFFFF00",
+  "blue-topaz-theme@@highlight-style": "bt-default-highlight",
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-material-palenight"
 }
