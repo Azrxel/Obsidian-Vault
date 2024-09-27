@@ -65,8 +65,8 @@
   "blue-topaz-theme@@text-highlight@@dark": "#FFFFFF00",
   "blue-topaz-theme@@highlight-style": "bt-default-highlight",
   "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-material-palenight",
-  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha-old",
-  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-sapphire",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-blue",
   "anuppuccin-theme-settings@@anp-toggle-preview": false,
   "anuppuccin-theme-settings@@anp-button-metadata-toggle": false,
   "anuppuccin-theme-settings@@anp-print": false,
@@ -100,5 +100,15 @@
   "anuppuccin-theme-settings@@anp-simple-rainbow-indentation-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-icon-toggle": true,
   "anuppuccin-theme-settings@@anp-rainbow-subfolder-color-toggle": false,
-  "anuppuccin-theme-settings@@anp-rainbow-folder-bg-opacity": 3
+  "anuppuccin-theme-settings@@anp-status-bar-select": "anp-floating-status-bar",
+  "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-alternate-tab-toggle",
+  "anuppuccin-theme-settings@@anp-disable-newtab-align": false,
+  "anuppuccin-theme-settings@@anp-depth-tab-text-invert": false,
+  "anuppuccin-theme-settings@@anp-safari-tab-animated": false,
+  "anuppuccin-theme-settings@@anp-layout-select": "anp-border-layout",
+  "anuppuccin-theme-settings@@anp-hide-borders": true,
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
+  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
+  "anuppuccin-theme-settings@@ctp-custom-surface0@@light": "#010101",
+  "anuppuccin-theme-settings@@ctp-custom-base@@light": "#000000"
 }
