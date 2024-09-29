@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.8 Edit Extended ACLs.md",
+                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.5 TCP Established Extended ACL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.8 Edit Extended ACLs.md",
+                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.5 TCP Established Extended ACL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.8 Edit Extended ACLs.md",
+                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.5 TCP Established Extended ACL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.8 Edit Extended ACLs.md"
+                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.5 TCP Established Extended ACL.md"
               }
             }
           },
@@ -154,11 +154,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "048ba2f4d817e681",
+  "active": "1b7aa6c26b212d57",
   "lastOpenFiles": [
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4 Configure Extended IPv4 ACLs.md",
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/Summary.md",
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.3 Secure VTY Ports with a Standard IPv4 ACL/5.3 Secure VTY Ports with a Standard IPv4 ACL.md",
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/5.2 Modify APv4 ACLs.md",
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs/5.1 Configure Standard IPv4 ACLs.md",
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/Module 5 - ACLs for IPv4 Configuration.md",
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.10 Verify Extended ACLs.md",
+    "PNG Reference/CCNA3/Module 5/5.4.10 Validate what was Configured.png",
+    "PNG Reference/CCNA3/Module 5/5.4.10 Confirm that the ACLs work as expected.png",
+    "PNG Reference/CCNA3/Module 5/5.4.10 Verify Extended ACLs.png",
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.9 Another Extended IPv4 ACL Example.md",
+    "PNG Reference/CCNA3/Module 5/5.4.9 Another Extended IPv4 ACL Example.png",
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.8 Edit Extended ACLs.md",
+    "PNG Reference/CCNA3/Module 5/5.4.8 Edit the ACL.png",
     "PNG Reference/CCNA3/Module 5/5.4.8 Incorrect Source IP Network Address.png",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.7 Named Extended IPv4 ACL Example.md",
-    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.8 Edit Extended ACLs.md",
     "PNG Reference/CCNA3/Module 5/5.4.7 Verifying the ACL Statistics.png",
     "PNG Reference/CCNA3/Module 5/5.4.7 Named Extended IPv4 ACL Config.png",
     "PNG Reference/CCNA3/Module 5/5.4.7 Named Extended IPv4 ACL Example.png",
@@ -166,15 +179,8 @@
     "PNG Reference/CCNA3/Module 5/5.4.6 Named Extended IPv4 ACL Syntax.png",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.5 TCP Established Extended ACL.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.6.md",
-    "PNG Reference/CCNA3/Module 5/5.4.5 show access-list command.png",
-    "Unassigned PNGs/Pasted image 20240929120600.png",
-    "PNG Reference/CCNA3/Module 5/5.4.5 TCP Established Extended ACL.png",
-    "PNG Reference/CCNA3/Module 5/5.4.3 Configuring Port Numbers.png",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.3 Protocols and Port Numbers Configuration Examples.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.4 Apply a Numbered Extended IPv4 ACL.md",
-    "PNG Reference/CCNA3/Module 5/5.4.4 pply a Numbered Extended IPv4 ACL.png",
-    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4 Configure Extended IPv4 ACLs.md",
-    "PNG Reference/CCNA3/Module 5/5.4.3 Extended ACL 100 Filtering HTTP Traffic.png",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.2 Protocols and Ports.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.1 Extended ACLs.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.3 Secure VTY Ports with a Standard IPv4 ACL/5.3.3 Verify the VTY Port is Secured.md",
@@ -186,12 +192,6 @@
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs/3. Named Standard IPv4 ACL Syntax.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/4. Modify a Named ACL Example.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/3. Sequence Number Method.md",
-    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/1. Two Methods to Modify an ACL.md",
-    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/2. Text Editor Method.md",
-    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.2 Modify APv4 ACLs/5. ACL Statistics.md",
-    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.3 Secure VTY Ports with a Standard IPv4 ACL/5.3 Secure VTY Ports with a Standard IPv4 ACL.md",
-    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.3 Secure VTY Ports with a Standard IPv4 ACL/5.3.2 Secure VTY Access Example.md",
-    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.1 Configure Standard IPv4 ACLs/6. Named Standard ACL Example.md",
     "COMNET/Junos (JNCIA)/The Junos CLI",
     "COMNET/Junos (JNCIA)/Module 11 - Routing Fundamentals",
     "COMNET/Junos (JNCIA)",

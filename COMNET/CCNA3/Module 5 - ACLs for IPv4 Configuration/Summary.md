@@ -1,0 +1,17 @@
+
+---
+- To create a numbered standard ACL, use the use the ip access-list standard access-list-name global configuration command.
+- Use the no access-list access-list-number global configuration command to remove a numbered standard ACL. 
+- Use the show ip interface command to verify if an interface has an ACL applied to it.
+- To create a named standard ACL, use the ip access-list standard access-list-name global configuration command. 
+- Use the no ip access-list standard access-list-name global configuration command to remove a named standard IPv4 ACL.
+- To bind a numbered or named standard IPv4 ACL to an interface, use the ip access-group {access-list-number | access-list-name} { in | out } global configuration command.
+- To remove an ACL from an interface, first enter the no ip access-group interface configuration command. 
+- To remove the ACL from the router, use the no access-list global configuration command.
+- Extended ACLs can filter on source address, destination address, protocol (i.e., IP, TCP, UDP, ICMP), and port number.
+- To create a numbered extended ACL, use the Router(config)# access-list access-list-number {deny | permit | remark text} protocol source source-wildcard [operator [port]] destination destination-wildcard [operator [port]] [established] [log] global configuration command. 
+- ALCs can also perform basic stateful firewall services using the TCP established keyword.
+- The show ip interface command is used to verify the ACL on the interface and the direction in which it was applied.
+- To modify an ACL, use a text editor or use sequence numbers.
+- An ACL ACE can also be deleted or added using the ACL sequence numbers. 
+- Sequence numbers are automatically assigned when an ACE is entered.
