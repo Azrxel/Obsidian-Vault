@@ -11,9 +11,11 @@
             "id": "1b7aa6c26b212d57",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Unassigned PNGs/Pasted image 20240929112158.png"
+                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.5 Apply a Numbered Extended IPv4 ACL.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unassigned PNGs/Pasted image 20240929112158.png",
+                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.5 Apply a Numbered Extended IPv4 ACL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unassigned PNGs/Pasted image 20240929112158.png",
+                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.5 Apply a Numbered Extended IPv4 ACL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unassigned PNGs/Pasted image 20240929112158.png"
+                "file": "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.5 Apply a Numbered Extended IPv4 ACL.md"
               }
             }
           },
@@ -154,13 +156,16 @@
   },
   "active": "1b7aa6c26b212d57",
   "lastOpenFiles": [
+    "Unassigned PNGs/Pasted image 20240929113826.png",
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4 Configure Extended IPv4 ACLs.md",
+    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.5 Apply a Numbered Extended IPv4 ACL.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.3 Protocols and Port Numbers Configuration Examples.md",
-    "Unassigned PNGs/Pasted image 20240929112158.png",
+    "Unassigned PNGs/Pasted image 20240929112645.png",
+    "PNG Reference/CCNA3/Module 5/5.4.3 Extended ACL 100 Filtering HTTP Traffic.png",
     "PNG Reference/CCNA3/Module 5/5.4.2 Selecting a Protocol.png",
     "PNG Reference/CCNA3/Module 5/5.4.2 Protocol Options.png",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.2 Protocols and Ports.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4.1 Extended ACLs.md",
-    "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.4 Configure Extended IPv4 ACLs/5.4 Configure Extended IPv4 ACLs.md",
     "PNG Reference/CCNA3/Module 5/5.4.2 Protocols and Ports.png",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.3 Secure VTY Ports with a Standard IPv4 ACL/5.3.3 Verify the VTY Port is Secured.md",
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.3 Secure VTY Ports with a Standard IPv4 ACL/5.3.1 The 'access-class' Command.md",
@@ -182,7 +187,6 @@
     "COMNET/CCNA2/Module 3 - Protocols and Models/3.4 VLAN Trunks/1. Trunk Configuration Commands.md",
     "COMNET/CCNA2/Module 3 - Protocols and Models/3.4 VLAN Trunks/4. Reset the Trunk to the Default State.md",
     "COMNET/CCNA2/Module 3 - Protocols and Models/3.4 VLAN Trunks/3. Verify Trunk Configuration.md",
-    "COMNET/CCNA2/Module 3 - Protocols and Models/3.4 VLAN Trunks/2. Trunk Configuration Example.md",
     "COMNET/Junos (JNCIA)/The Junos CLI",
     "COMNET/Junos (JNCIA)/Module 11 - Routing Fundamentals",
     "COMNET/Junos (JNCIA)",
@@ -196,7 +200,6 @@
     "COMNET/CCNA3/Module 5 - ACLs for IPv4 Configuration/5.3 Secure VTY Ports with a Standard IPv4 ACL",
     "Templates/Resistor Color Code Reference Table.png",
     "Templates",
-    "PNG Reference/CCNA3/Module 5/5.2.3 Sequence Number Method.png",
     "PNG Reference/CCNA3/Module 5",
     "PNG Reference/CCNA3/Module 4"
   ]
