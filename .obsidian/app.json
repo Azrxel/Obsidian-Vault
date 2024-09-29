@@ -1,6 +1,6 @@
 {
   "showLineNumber": false,
-  "promptDelete": true,
+  "promptDelete": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Unassigned PNGs",
   "foldIndent": true,

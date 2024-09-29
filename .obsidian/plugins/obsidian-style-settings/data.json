@@ -134,5 +134,7 @@
   "id@@colorblind_tritan": false,
   "id@@headers-one-color": true,
   "id@@kanban-variant": "kanban-full",
-  "anuppuccin-theme-settings@@anp-bold-custom": "anp-bold-pink"
+  "anuppuccin-theme-settings@@anp-bold-custom": "anp-bold-peach",
+  "anuppuccin-theme-settings@@anp-decoration-toggle": true,
+  "anuppuccin-theme-settings@@list-marker-color@@dark": "#58FFCB"
 }
